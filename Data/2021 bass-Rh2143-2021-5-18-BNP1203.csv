@@ -1,0 +1,66 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,Rh2143
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,Ab165c4
+Behavior Date:,2021-5-18
+Behavior Time:,12:03 PM
+Ethogram:,2021 bass.csv
+Coding Began:,05/18/2021 12:03:44 PM
+Coding Ended:,05/18/2021 12:08:49 PM
+Session duration:,00:05:04
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Inactive,12:03:44,00:00:39.6337801,00:00:39.6337801
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Groom,12:04:23,00:00:19.9413059,00:00:59.5750860
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Inactive,12:04:43,00:01:31.7591073,00:02:31.3341933
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Scratch,12:06:15,00:00:02.8405164,00:02:34.1747097
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Inactive,12:06:18,00:00:07.4400355,00:02:41.6147452
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Scratch,12:06:25,00:00:20.0877161,00:03:01.7024613
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Inactive,12:06:45,00:00:11.9059434,00:03:13.6084047
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Scratch,12:06:57,00:00:16.5240630,00:03:30.1324677
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Inactive,12:07:14,00:00:12.5792966,00:03:42.7117643
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Scratch,12:07:26,00:00:09.9885287,00:03:52.7002930
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Tactile/explore,12:07:36,00:00:07.6665413,00:04:00.3668343
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Inactive,12:07:44,00:00:01.6593531,00:04:02.0261874
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Locomotion,12:07:46,00:00:09.3628364,00:04:11.3890238
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Pacing,12:07:55,00:00:17.2720666,00:04:28.6610904
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Inactive,12:08:12,00:00:05.3552130,00:04:34.0163034
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Threat/display,12:08:18,00:00:27.8679910,00:05:01.8842944
+BNP,Rh2143,Single,Ab165c4,2021-5-18,1.0.46.0,Inactive,12:08:46,00:00:02.0423202,00:05:03.9266146
+
+BehavCode, Occurrences, totalTime
+Inactive,8,00:02:52.3750492
+Threat/display,1,00:00:27.8679910
+Sex/self/other,0,00:00:00
+Locomotion,1,00:00:09.3628364
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,1,00:00:17.2720666
+Present,0,00:00:00
+Tactile/explore,1,00:00:07.6665413
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,4,00:00:49.4408242
+Groom,1,00:00:19.9413059
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

@@ -1,0 +1,68 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,mr
+Study Code:,2021 bass
+Indiv ID:,c19015
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,c436c9
+Behavior Date:,2021-5-25
+Behavior Time:,10:18 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/25/2021 10:22:27 AM
+Coding Ended:,05/25/2021 10:27:30 AM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Locomotion,10:22:27,00:00:25.4908719,00:00:25.4908719
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Scratch,10:22:52,00:00:01.5464776,00:00:27.0373495
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Locomotion,10:22:54,00:00:57.1823644,00:01:24.2197139
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Sex/self/other,10:23:51,00:00:05.5326069,00:01:29.7523208
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Locomotion,10:23:57,00:01:01.5277506,00:02:31.2800714
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Feargrimace,10:24:58,00:00:02.2133471,00:02:33.4934185
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Locomotion,10:25:00,00:00:20.1981395,00:02:53.6915580
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Vocal,10:25:21,00:00:02.0139646,00:02:55.7055226
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Feargrimace,10:25:23,00:00:01.9205408,00:02:57.6260634
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Vocal,10:25:24,00:00:03.0530121,00:03:00.6790755
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Locomotion,10:25:27,00:00:37.6783956,00:03:38.3574711
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Inactive,10:26:05,00:00:04.5727532,00:03:42.9302243
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Locomotion,10:26:10,00:00:46.6500072,00:04:29.5802315
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Scratch,10:26:56,00:00:04.1861314,00:04:33.7663629
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Locomotion,10:27:01,00:00:06.4924982,00:04:40.2588611
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Inactive,10:27:07,00:00:03.6662601,00:04:43.9251212
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Locomotion,10:27:11,00:00:13.4129090,00:04:57.3380302
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Social/play,10:27:24,00:00:02.0397402,00:04:59.3777704
+mr,c19015,Pair,c436c9,2021-5-25,1.0.46.0,Locomotion,10:27:26,00:00:02.4130242,00:05:01.7907946
+
+BehavCode, Occurrences, totalTime
+Inactive,2,00:00:08.2390133
+Threat/display,0,00:00:00
+Sex/self/other,1,00:00:05.5326069
+Locomotion,9,00:04:31.0459606
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,2,00:00:04.1338879
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:05.7326090
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,1,00:00:02.0397402
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,2,00:00:05.0669767
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00
