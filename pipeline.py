@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import glob
+import datetime
 
 
 # post-processing class
@@ -20,7 +21,7 @@ class Pipeline:
                 df3.columns = df3_header
                 self.df_list.append([df1, df2, df3, filename[5:-4]])
             except pd.errors.EmptyDataError:
-                print(filename + ' is causing problems. Check the formatting.')
+                print(filename + ' is causing problems. Check it\'s formatting.')
 
 
     def calc_cum_data(self):
@@ -31,9 +32,8 @@ class Pipeline:
             # df1 data
             cum_row = [df_group[3]]
             # cum_data initial order
-            for i in [2, 7, 3, 0, 10, 11, 12, 9, 1, 12, 12, 4, 5, 6]: #TODO: Find out differences...
+            for i in [2, 7, 3, 0, 10, 11, 12, 9, 1, None, 12, 4, 5, 6]:
                 if i is None:
-                    cum_row.append(None)
                     cum_row.append(None)
                 else:
                     cum_row.append(df_group[0]['value'][i])
@@ -70,7 +70,7 @@ class Pipeline:
             }
             unique_behavs = 0
             for behav, dur in zip(df_group[1]['BehavCode'], df_group[1]['Duration']):
-                dur = dur[3:10]
+                #print(dur)
                 # values : frequency, total Duration, Avg. Duration, list of timestamps
                 prev_values = behav_dict[behav]
                 new_values = []
@@ -92,6 +92,7 @@ class Pipeline:
             dur_tup_list = []
             NBC_most_freq = ['', 0]
             NBC_dur_tup_list = []
+            total_dur_list = []
             for key in behav_dict:
                 if behav_dict[key]:
                     freq = behav_dict[key][0]
@@ -103,15 +104,22 @@ class Pipeline:
                         if freq > NBC_most_freq[1]:
                             NBC_most_freq = [key, freq]
                         NBC_dur_tup_list.append((key, behav_dict[key][1]))
+
+                    total_dur_list.append(behav_dict[key][1])
+
             long_dur = self.get_max_duration(dur_tup_list)
-            if behav_dict['Groom']:
-                other_freq_dur = (behav_dict['Groom'][0], behav_dict['Groom'][1])
-            else:
-                other_freq_dur = (0, '00:00.0')
+            #if behav_dict['Other']:
+            #    other_freq_dur = (behav_dict['Other'][0], behav_dict['Other'][1])
+            #else:
+            #    other_freq_dur = (0, '00:00:00.0')
             NBC_long_dur = self.get_max_duration(NBC_dur_tup_list)
 
+            total_dur = self.get_total_duration(total_dur_list)
+
             if not NBC_long_dur:
-                NBC_long_dur = (None, '00:00.0')    #TODO more of this
+                NBC_long_dur = (None, '00:00:00.0')    #TODO more of this
+
+            cum_row[10] = total_dur
 
             cum_row.extend(
                 [
@@ -120,8 +128,8 @@ class Pipeline:
                     most_freq[1],
                     long_dur[0],
                     long_dur[1],
-                    other_freq_dur[0],
-                    other_freq_dur[1],
+                    #other_freq_dur[0],
+                    #other_freq_dur[1],
                     NBC_most_freq[0],
                     NBC_most_freq[1],
                     NBC_long_dur[0],
@@ -132,9 +140,43 @@ class Pipeline:
                 if behav_dict[key]:
                     cum_row.extend([behav_dict[key][0], behav_dict[key][1], behav_dict[key][2]])
                 else:
-                    cum_row.extend([0, '00:00.0', None])
-            print(cum_row)
+                    cum_row.extend([0, '00:00:00.0', None])
 
+            # Adding notes
+            if df_group[0]['value'][14]:
+                cum_row.append(df_group[0]['value'][14])
+            else:
+                cum_row.append(None)
+
+            # Adding SIB
+            SIB_str = ''
+            if behav_dict['Selfbite']:
+                if behav_dict['Selfbite'][0] >= 1:
+                    SIB_str = 'SIB'
+                else:
+                    SIB_str = 'not'
+            else:
+                SIB_str = 'not'
+            cum_row.append(SIB_str)
+
+            # Adding % values
+            value_list = []
+            cmp_dur_list = ['00:04:30.0', '00:01:15.0', '00:02:30.0', '00.01.15.0']
+            for behav, cmp_dur in zip(['Inactive', 'Pacing', 'Pacing', 'Vocal'], cmp_dur_list):
+                if behav_dict[behav]:
+                    max_dur = self.get_max_duration([(behav, behav_dict[behav][1]), (None, cmp_dur)])
+                    if max_dur[0] == behav:
+                        value_list.append(behav)
+                    else:
+                        value_list.append('not')
+                else:
+                    value_list.append('not')
+            cum_row.extend(value_list)
+
+            df_length = len(cum_data)
+            cum_data.loc[df_length] = cum_row
+
+        return cum_data
 
     def get_avg_duration(self, dur_list):
         """
@@ -144,11 +186,11 @@ class Pipeline:
         """
         total_sec = 0
         for dur in dur_list:
-            total_sec += (int(dur[:2]) * 60) + float(dur[3:])
+            total_sec += (int(dur[3:5]) * 60) + float(dur[6:])
         sec_avg = total_sec / len(dur_list)
         time_min = int(sec_avg / 60)
         time_sec = sec_avg - (time_min * 60)
-        return f'{time_min:02d}:{time_sec:04.1f}'
+        return f'00:{time_min:02d}:{time_sec:04.1f}'
 
     def get_total_duration(self, dur_list):
         """
@@ -158,10 +200,10 @@ class Pipeline:
         """
         total_sec = 0
         for dur in dur_list:
-            total_sec += (int(dur[:2]) * 60) + float(dur[3:])
+            total_sec += (int(dur[3:5]) * 60) + float(dur[6:])
         time_min = int(total_sec / 60)
         time_sec = total_sec - (time_min * 60)
-        return f'{time_min:02d}:{time_sec:04.1f}'
+        return f'00:{time_min:02d}:{time_sec:04.1f}'
 
     def get_max_duration(self, dur_tup_list):
         """
@@ -171,10 +213,13 @@ class Pipeline:
         """
         max_dur = [0, '']
         for dur_tup in dur_tup_list:
-            dur_sec = (int(dur_tup[1][:2]) * 60) + float(dur_tup[1][3:])
+            dur_sec = (int(dur_tup[1][3:5]) * 60) + float(dur_tup[1][6:])
             if dur_sec > max_dur[0]:
                 max_dur = [dur_sec, dur_tup]
         return max_dur[1]
+
+    def export_data(self, df):
+        df.to_csv("output.csv", index_label=False)
 
 
 
@@ -186,243 +231,112 @@ class Pipeline:
         'Date',
         'Site',
         'Obs',
-        'start',
-        'time',
-        'End',
-        'time',
-        'Ses',
-        'Duration',
+        'start time',
+        'End time',
+        'Ses Duration',
         'Ethogram',
-        'Study',
-        'code',
-        'Tot',
-        'Duration',
-        'Ses',
-        'Dur',
-        'Obs',
-        'type',
+        'Study code',
+        'Tot Duration',
+        'Ses Dur',
+        'Obs type',
         'Housing',
-        'Room / cage',
-        'Unique',
-        'Beh',
-        'Most',
-        'frequent',
+        'Room/cage',
+        'Unique Beh',
+        'Most frequent',
         'Freq',
-        'Long',
-        'Dura',
+        'Long Dura',
         'Duration',
-        'Other',
-        'Freq',
-        'Other',
-        'Dur',
-        'Hi',
-        'NBC',
-        'beh',
-        'Freq',
-        'NBC',
-        'Freq',
-        'Hi',
-        'NBC',
-        'Beh',
-        'Dur',
-        'NBC',
-        'Dur',
-        'Inactive',
-        'Frequency',
-        'Inactive',
-        'Duration',
-        'Inactive',
-        'Ave',
-        'duration',
-        'Loco',
-        'Frequency',
-        'Loco',
-        'Duration',
-        'Loco',
-        'Ave',
-        'dur',
-        'Pacing',
-        'Frequency',
-        'Pacing',
-        'Duration',
-        'Pacing',
-        'ave',
-        'dur',
-        'Jumping',
-        'Freq',
-        'Jumping',
-        'Duration',
-        'Jumping',
-        'ave',
-        'dur',
-        'Selfbite',
-        'Frequency',
-        'Selfbite',
-        'Duration',
-        'Selfbite',
-        'Ave',
-        'Dur',
-        'Selfdirect',
-        'Frequency',
-        'Selfdirect',
-        'Duration',
-        'Selfdirect',
-        'Ave',
-        'Dur',
-        'Swing / spin / flip',
-        'Frequency',
-        'Swing / spin / flip',
-        'Duration',
-        'Swing / spin / flip',
-        'Ave',
-        'Dur',
-        'Headtoss',
-        'Frequency',
-        'Headtoss',
-        'Duration',
-        'Headtoss',
-        'Ave',
-        'Dur',
-        'Rock',
-        'Frequency',
-        'Rock',
-        'Duration',
-        'Rock',
-        'Ave',
-        'Dur',
-        'Salute',
-        'Frequency',
-        'Salute',
-        'Duration',
-        'Salute',
-        'Ave',
-        'Dur',
-        'Feargrimace',
-        'Frequency',
-        'Feargrimace',
-        'Duration',
-        'Feargrimace',
-        'Ave',
-        'Dur',
-        'Scratch',
-        'Frequency',
-        'Scratch',
-        'Duration',
-        'Scratch',
-        'Ave',
-        'Dur',
-        'Yawn',
-        'Frequency',
-        'Yawn',
-        'Duration',
-        'Yawn',
-        'Ave',
-        'Dur',
-        'Lipsmack',
-        'Frequency',
-        'Lipsmack',
-        'Duration',
-        'Lipsmack',
-        'Ave',
-        'Dur',
-        'Present',
-        'Frequency',
-        'Present',
-        'Duration',
-        'Present',
-        'Ave',
-        'Dur',
-        'Cling',
-        'Frequency',
-        'Cling',
-        'Duration',
-        'Cling',
-        'Ave',
-        'Dur',
-        'Mantleshake',
-        'Frequency',
-        'Mantleshake',
-        'Duration',
-        'Mantleshake',
-        'Ave',
-        'Dur',
-        'Vocal',
-        'Frequency',
-        'Vocal',
-        'Duration',
-        'Vocal',
-        'Ave',
-        'Dur',
-        'Threat / display',
-        'Frequency',
-        'Threat / display',
-        'Duration',
-        'Threat / display',
-        'Ave',
-        'Dur',
-        'Aggression',
-        'Frequency',
-        'Aggression',
-        'Duration',
-        'Aggression',
-        'Ave',
-        'Dur',
-        'Eat / drink',
-        'Frequency',
-        'Eat / drink',
-        'Duration',
-        'Eat / drink',
-        'Ave',
-        'Dur',
-        'Tactile / explore',
-        'Frequency',
-        'Tactile / explore',
-        'Duration',
-        'Tactile / explore',
-        'Ave',
-        'Dur',
-        'Social / play',
-        'Frequency',
-        'Social / play',
-        'Duration',
-        'Social / play',
-        'Ave',
-        'Dur',
-        'Groom',
-        'Frequency',
-        'Groom',
-        'Duration',
-        'Groom',
-        'Ave',
-        'Dur',
-        'SocGroom',
-        'Frequency',
-        'SocGroom',
-        'Duration',
-        'SocGroom',
-        'Ave',
-        'Dur',
-        'Sex / self / other',
-        'Frequency',
-        'Sex / self / other',
-        'Duration',
-        'Sex / self / other',
-        'Ave',
-        'Dur',
-        'Other',
-        'Frequency',
-        'Other',
-        'Duration',
-        'Other',
-        'Ave',
-        'Dur',
+        'Hi NBC beh Freq',
+        'NBC Freq',
+        'Hi NBC Beh Dur',
+        'NBC Dur',
+        'Inactive Frequency',
+        'Inactive Duration',
+        'Inactive Ave duration',
+        'Loco Frequency',
+        'Loco Duration',
+        'Loco Ave dur',
+        'Pacing Frequency',
+        'Pacing Duration',
+        'Pacing ave dur',
+        'Jumping Freq',
+        'Jumping Duration',
+        'Jumping ave dur',
+        'Selfbite Frequency',
+        'Selfbite Duration',
+        'Selfbite Ave Dur',
+        'Selfdirect Frequency',
+        'Selfdirect Duration',
+        'Selfdirect Ave Dur',
+        'Swing/spin/flip Frequency',
+        'Swing/spin/flip Duration',
+        'Swing/spin/flip Ave Dur',
+        'Headtoss Frequency',
+        'Headtoss Duration',
+        'Headtoss Ave Dur',
+        'Rock Frequency',
+        'Rock Duration',
+        'Rock Ave Dur',
+        'Salute Frequency',
+        'Salute Duration',
+        'Salute Ave Dur',
+        'Feargrimace Frequency',
+        'Feargrimace Duration',
+        'Feargrimace Ave Dur',
+        'Scratch Frequency',
+        'Scratch Duration',
+        'Scratch Ave Dur',
+        'Yawn Frequency',
+        'Yawn Duration',
+        'Yawn Ave Dur',
+        'Lipsmack Frequency',
+        'Lipsmack Duration',
+        'Lipsmack Ave Dur',
+        'Present Frequency',
+        'Present Duration',
+        'Present Ave Dur',
+        'Cling Frequency',
+        'Cling Duration',
+        'Cling Ave Dur',
+        'Mantleshake Frequency',
+        'Mantleshake Duration',
+        'Mantleshake Ave Dur',
+        'Vocal Frequency',
+        'Vocal Duration',
+        'Vocal Ave Dur',
+        'Threat/display Frequency',
+        'Threat/display Duration',
+        'Threat/display Ave Dur',
+        'Aggression Frequency',
+        'Aggression Duration',
+        'Aggression Ave Dur',
+        'Eat/drink Frequency',
+        'Eat/drink Duration',
+        'Eat/drink Ave Dur',
+        'Tactile/explore Frequency',
+        'Tactile/explore Duration',
+        'Tactile/explore Ave Dur',
+        'Social/play Frequency',
+        'Social/play Duration',
+        'Social/play Ave Dur',
+        'Groom Frequency',
+        'Groom Duration',
+        'Groom Ave Dur',
+        'SocGroom Frequency',
+        'SocGroom Duration',
+        'SocGroom Ave Dur',
+        'Sex/self/other Frequency',
+        'Sex/self/other Duration',
+        'Sex/self/other Ave Dur',
+        'Other Frequency',
+        'Other Duration',
+        'Other Ave Dur',
         'Notes',
         'SIB',
-        'Inactive',
-        '90 % Pacing',
-        '25 % Pacing',
-        '50 % Vocal',
-        '25 %'
+        'Inactive 90%',
+        'Pacing 25%',
+        'Pacing 50%',
+        'Vocal 25%'
     ]
 
     NBC_dict = [
@@ -575,6 +489,7 @@ def append_df_to_excel(filename, df, sheet_name='Sheet1', startrow=None,
 
 if __name__ == '__main__':
     bass_pipe = Pipeline('Data')
-    bass_pipe.calc_cum_data()
+    data = bass_pipe.calc_cum_data()
+    bass_pipe.export_data(data)
     #print(bass_pipe.get_max_duration(["01:20.0", "01:20.", "01:19.9",]))
 
