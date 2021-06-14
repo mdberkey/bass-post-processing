@@ -1,10 +1,11 @@
-import numpy as np
 import pandas as pd
 import glob
-import datetime
+from openpyxl import load_workbook
+import os
+import sys
 
 
-# post-processing class
+# post-processing pipeline for BASS csv files
 class Pipeline:
     def __init__(self, folder_name):
         self.df_list = []
@@ -21,10 +22,14 @@ class Pipeline:
                 df3.columns = df3_header
                 self.df_list.append([df1, df2, df3, filename[5:-4]])
             except pd.errors.EmptyDataError:
-                print(filename + ' is causing problems. Check it\'s formatting.')
+                print(filename + ' is causing problems and cannot be read. Please check it\'s formatting.')
 
 
-    def calc_cum_data(self):
+    def calc_cum_data(self, empty_value):
+        """
+        Calculates required values for output dataframe
+        :return: calculated values in a dataframe format
+        """
         cum_data = pd.DataFrame(columns=self.HEADERS)
 
         for df_group in self.df_list:
@@ -70,7 +75,7 @@ class Pipeline:
             }
             unique_behavs = 0
             for behav, dur in zip(df_group[1]['BehavCode'], df_group[1]['Duration']):
-                #print(dur)
+                # print(dur)
                 # values : frequency, total Duration, Avg. Duration, list of timestamps
                 prev_values = behav_dict[behav]
                 new_values = []
@@ -88,6 +93,7 @@ class Pipeline:
                     ]
                 behav_dict[behav] = new_values
 
+            # Calculating Values
             most_freq = ['', 0]
             dur_tup_list = []
             NBC_most_freq = ['', 0]
@@ -106,21 +112,18 @@ class Pipeline:
                         NBC_dur_tup_list.append((key, behav_dict[key][1]))
 
                     total_dur_list.append(behav_dict[key][1])
-
             long_dur = self.get_max_duration(dur_tup_list)
-            #if behav_dict['Other']:
-            #    other_freq_dur = (behav_dict['Other'][0], behav_dict['Other'][1])
-            #else:
-            #    other_freq_dur = (0, '00:00:00.0')
             NBC_long_dur = self.get_max_duration(NBC_dur_tup_list)
-
             total_dur = self.get_total_duration(total_dur_list)
 
             if not NBC_long_dur:
-                NBC_long_dur = (None, '00:00:00.0')    #TODO more of this
+                NBC_long_dur = (empty_value, '00:00:00.0')
+            if not long_dur:
+                long_dur = (empty_value, '00:00:00.0')
+            if not total_dur:
+                total_dur = '00:00:00.0'
 
             cum_row[10] = total_dur
-
             cum_row.extend(
                 [
                     unique_behavs,
@@ -128,25 +131,26 @@ class Pipeline:
                     most_freq[1],
                     long_dur[0],
                     long_dur[1],
-                    #other_freq_dur[0],
-                    #other_freq_dur[1],
+                    # other_freq_dur[0],
+                    # other_freq_dur[1],
                     NBC_most_freq[0],
                     NBC_most_freq[1],
                     NBC_long_dur[0],
                     NBC_long_dur[1]
                 ]
             )
+
             for key in behav_dict:
                 if behav_dict[key]:
                     cum_row.extend([behav_dict[key][0], behav_dict[key][1], behav_dict[key][2]])
                 else:
-                    cum_row.extend([0, '00:00:00.0', None])
+                    cum_row.extend([0, '00:00:00.0', empty_value])
 
             # Adding notes
             if df_group[0]['value'][14]:
                 cum_row.append(df_group[0]['value'][14])
             else:
-                cum_row.append(None)
+                cum_row.append(empty_value)
 
             # Adding SIB
             SIB_str = ''
@@ -178,7 +182,8 @@ class Pipeline:
 
         return cum_data
 
-    def get_avg_duration(self, dur_list):
+    @staticmethod
+    def get_avg_duration(dur_list):
         """
         Calculates the average timestamp of all timestamps in a list
         :param dur_list: list of timestamps
@@ -192,7 +197,8 @@ class Pipeline:
         time_sec = sec_avg - (time_min * 60)
         return f'00:{time_min:02d}:{time_sec:04.1f}'
 
-    def get_total_duration(self, dur_list):
+    @staticmethod
+    def get_total_duration(dur_list):
         """
         Calculates the total timestamp of dur_list
         :param dur_list: list of timestamps
@@ -205,10 +211,11 @@ class Pipeline:
         time_sec = total_sec - (time_min * 60)
         return f'00:{time_min:02d}:{time_sec:04.1f}'
 
-    def get_max_duration(self, dur_tup_list):
+    @staticmethod
+    def get_max_duration(dur_tup_list):
         """
         Calculates the max timestamp of dur_list
-        :param dur_list: list of timestamps
+        :param dur_tup_list: list of tuples as (behavior, timestamps)
         :return: max duration timestamp string
         """
         max_dur = [0, '']
@@ -218,11 +225,24 @@ class Pipeline:
                 max_dur = [dur_sec, dur_tup]
         return max_dur[1]
 
-    def export_data(self, df):
-        df.to_csv("output.csv", index_label=False)
+    @staticmethod
+    def create_excel(df, filename):
+        """
+        Creates new excel sheet and exports data without much formatting
+        :param df: dataframe to be exported
+        :return: none
+        """
+        df.to_excel('Output/other_' + filename + '.xlsx', index=False)
 
-
-
+    @staticmethod
+    def export_to_excel(df, filename):
+        """
+        Appends a dataframe to an existing excel sheet
+        :param df: dataframe to be exported
+        :return: none
+        """
+        append_df_to_excel(filename='Output/' + filename + '.xlsx', df=df, startrow=1,
+                           index=False, header=False)
 
     # Constants
     HEADERS = [
@@ -359,67 +379,6 @@ class Pipeline:
         'Other'
     ]
 
-    # df1 data
-
-    def bruh(self):
-        df_behav = self.df_list[1][1]
-        df_calc = pd.DataFrame(
-            [
-                'Inactive',
-            'Locomotion',
-            'Pacing',
-            'Jumping',
-            'Selfbite',
-            'Selfdirect',
-            'Swing / spin / flip',
-            'Headtoss',
-            'Rock',
-            'Salute',
-            'Feargrimace',
-            'Scratch',
-            'Yawn',
-            'Lipsmack',
-            'Present',
-            'Cling',
-            'Mantleshake',
-            'Vocal',
-            'Threat / display',
-            'Aggression',
-            'Eat / drink',
-            'Tactile / explore',
-            'Social / play',
-            'Groom',
-            'SocGroom',
-            'Sex / self / other',
-            'Other'
-            ]
-        )
-        #print(df_calc[0].tolist())
-        #for type in df_calc[0].tolist():
-        #    for behav in df_behav['BehavCode'].tolist():
-         #       if type == behav:
-          #         pass
-
-        data
-
-         #   print(behav)
-
-        #df_calc['Uniques aligned'] = ['3', '4']
-        #df_calc.columns = ['Behavior list', 'Uniques aligned', 'Uniques', 'Frequency Align', 'Duration Align']
-        #print(df_calc)
-
-
-    def export_excel(self):
-        info_df = pd.DataFrame(['Focal Animal Recording', '(c)Michael J. Renner', ''])
-        clear_df2 = self.df_list[1]
-        #print(info_df)
-        #self.df_list[0].to_excel('test.xlsx', startrow=3, index=False, header=False)
-        #info_df.to_excel('test.xlsx', index=False, header=False)
-
-        append_df_to_excel(filename='test.xlsx', df=info_df, startrow=0, index=False, header=False)
-        append_df_to_excel(filename='test.xlsx', df=self.df_list[0], startrow=3, index=False, header=False)
-        append_df_to_excel(filename='test.xlsx', df=self.df_list[1], startrow=19, index=False)
-
 
 def append_df_to_excel(filename, df, sheet_name='Sheet1', startrow=None,
                        truncate_sheet=False,
@@ -487,9 +446,32 @@ def append_df_to_excel(filename, df, sheet_name='Sheet1', startrow=None,
     # save the workbook
     writer.save()
 
-if __name__ == '__main__':
-    bass_pipe = Pipeline('Data')
-    data = bass_pipe.calc_cum_data()
-    bass_pipe.export_data(data)
-    #print(bass_pipe.get_max_duration(["01:20.0", "01:20.", "01:19.9",]))
 
+if __name__ == '__main__':
+    args = sys.argv
+    if len(args) == 1:
+        args.append(-99)
+        args.append('cummulative_data')
+    elif len(args) == 2:
+        args.append('cummulative_data')
+
+    try:
+        assert len(args) == 3
+        assert isinstance(args[1], (int, str))
+        assert isinstance(args[2], str)
+    except AssertionError:
+        print('Argument Error: pipeline.py only takes 2 arguements!')
+        print('Arg1 = null value to fill empty data')
+        print('Arg2 = name of output.xlsx')
+        exit()
+
+    print('Reading data...   ', end='')
+    bass_pipe = Pipeline('Data')
+    print('Done.')
+    print('Calculating new values...   ', end='')
+    data = bass_pipe.calc_cum_data(args[1])
+    print('Done.')
+    print('Exporting new data to excel files...   ', end='')
+    bass_pipe.export_to_excel(data, args[2])
+    bass_pipe.create_excel(data, args[2])
+    print('Data Exported. Pipeline complete.')
