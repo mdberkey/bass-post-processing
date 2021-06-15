@@ -11,7 +11,7 @@
 
 ## Command Line Usage:
 1. Add all properly formatted CSV files to Data folder.
-2. Activate virtual environment (Python 3.8 with pandas and openpyxl
+2. Activate virtual environment (Python 3.8 with pandas and openpyxl)
 3. run: python pipeline.py arg1 arg2
 - Note: arg1 = empty data placeholder, arg2 = name of output .xlsx file
 4. Processed data is stored in Output folder.
