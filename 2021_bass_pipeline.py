@@ -24,12 +24,11 @@ class Pipeline:
             except pd.errors.EmptyDataError:
                 print(filename + ' is causing problems and cannot be read. Please check it\'s formatting.')
 
-
     def calc_cum_data(self, empty_value):
         """
         Calculates required values for output dataframe
         :return: calculated values in a dataframe format
-        """
+         """
         cum_data = pd.DataFrame(columns=self.HEADERS)
 
         for df_group in self.df_list:
@@ -241,8 +240,7 @@ class Pipeline:
         :param df: dataframe to be exported
         :return: none
         """
-        append_df_to_excel(filename='Output/' + filename + '.xlsx', df=df, startrow=1,
-                           index=False, header=False)
+        append_df_to_excel(filename='Output/' + filename + '.xlsx', df=df, startrow=1, index=False, header=False)
 
     # Constants
     HEADERS = [
@@ -460,7 +458,7 @@ if __name__ == '__main__':
         assert isinstance(args[1], (int, str))
         assert isinstance(args[2], str)
     except AssertionError:
-        print('Argument Error: pipeline.py only takes 2 arguements!')
+        print('Argument Error: 2021_bass_pipeline.py only takes 2 arguements!')
         print('Arg1 = null value to fill empty data')
         print('Arg2 = name of output.xlsx')
         exit()
