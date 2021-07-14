@@ -3,6 +3,7 @@ import glob
 from openpyxl import load_workbook
 import os
 import sys
+import mysql_db
 
 
 # post-processing pipeline for BASS csv files
@@ -473,4 +474,8 @@ if __name__ == '__main__':
     bass_pipe.export_to_excel(data, args[2])
     bass_pipe.create_excel(data, args[2])
     print('Done')
+    # SQL Database
+    print('Exporting data to SQL database... ')
+    connection = mysql_db.connect_to_db()
+    mysql_db.write_to_db(data, connection)
     print('Pipeline complete.')
