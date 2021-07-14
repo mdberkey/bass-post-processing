@@ -1,0 +1,13 @@
+altgraph @ file:///home/linux1/recipes/ci/altgraph_1611055153312/work
+certifi==2021.5.30
+et-xmlfile==1.1.0
+jdcal==1.4.1
+macholib @ file:///home/linux1/recipes/ci/macholib_1611055836792/work
+mkl-service==2.3.0
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1622014634298/work
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1615411699337/work
+pandas==1.2.4
+pycryptodome @ file:///opt/concourse/worker/volumes/live/f98c3e7b-3d65-4ec7-751e-65b6202edf38/volume/pycryptodome_1613764571210/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
