@@ -1,0 +1,58 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,R02033,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,Ab117c17,,,,,,,,
+Behavior Date:,4/28/21,,,,,,,,
+Behavior Time:,11:48 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/28/21 11:50,,,,,,,,
+Coding Ended:,4/28/21 11:55,,,,,,,,
+Session duration:,0:05:08,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Inactive,11:50:00,00:01.4,00:01.4
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Vocal,11:50:02,00:00.8,00:02.2
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Inactive,11:50:02,02:04.2,02:06.4
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Social/play,11:52:07,00:24.3,02:30.7
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Sex/self/other,11:52:31,00:03.0,02:33.7
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Vocal,11:52:34,00:01.9,02:35.5
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Locomotion,11:52:36,00:05.6,02:41.1
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Social/play,11:52:41,01:15.0,03:56.1
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Sex/self/other,11:53:56,00:06.6,04:02.7
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Social/play,11:54:03,00:09.6,04:12.3
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Salute,11:54:13,00:39.6,04:51.9
+BNP,R02033,Pair,Ab117c17,4/28/21,1.0.43.0,Social/play,11:54:52,00:15.3,05:07.2
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,2,02:05.7,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,2,00:09.6,,,,,,,
+Locomotion,1,00:05.6,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,4,02:04.1,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,2,00:02.6,,,,,,,
+Salute,1,00:39.6,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

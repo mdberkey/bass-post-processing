@@ -1,0 +1,71 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,cy0729,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,mr1523c2,,,,,,,,
+Behavior Date:,4/20/21,,,,,,,,
+Behavior Time:,11:09 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/20/21 11:09,,,,,,,,
+Coding Ended:,4/20/21 11:14,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:09:36,00:08.4,00:08.4
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Scratch,11:09:45,00:03.0,00:11.3
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Yawn,11:09:48,00:01.8,00:13.2
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:09:50,00:47.3,01:00.4
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Locomotion,11:10:37,00:03.7,01:04.1
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Vocal,11:10:41,00:04.5,01:08.6
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Lipsmack,11:10:45,00:03.2,01:11.8
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:10:48,00:07.4,01:19.2
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Yawn,11:10:56,00:01.4,01:20.6
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:10:57,00:29.8,01:50.3
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Locomotion,11:11:27,00:03.6,01:54.0
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:11:30,00:03.1,01:57.1
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Yawn,11:11:34,00:00.9,01:58.0
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:11:34,00:14.5,02:12.4
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Vocal,11:11:49,00:02.1,02:14.6
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:11:51,01:15.3,03:29.8
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Yawn,11:13:06,00:00.9,03:30.7
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:13:07,00:09.7,03:40.5
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Groom,11:13:17,00:31.5,04:11.9
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:13:48,00:11.0,04:22.9
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Yawn,11:13:59,00:01.2,04:24.1
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Scratch,11:14:01,00:02.0,04:26.1
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:14:03,00:10.1,04:36.3
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Scratch,11:14:13,00:01.3,04:37.6
+ta,cy0729,Single,mr1523c2,4/20/21,1.0.43.0,Inactive,11:14:14,00:23.8,05:01.4
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,11,04:00.3,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,2,00:07.3,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,3,00:06.3,,,,,,,
+Lipsmack,1,00:03.2,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,5,00:06.2,,,,,,,
+Groom,1,00:31.5,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,2,00:06.6,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

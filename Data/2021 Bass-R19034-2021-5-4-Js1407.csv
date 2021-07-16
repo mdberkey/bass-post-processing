@@ -1,0 +1,90 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,Js,,,,,,,,
+Study Code:,2021bass,,,,,,,,
+Indiv ID:,R19034,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Group,,,,,,,,
+Room/Cage:,bmqh2c5,,,,,,,,
+Behavior Date:,5/4/21,,,,,,,,
+Behavior Time:,2:05 PM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,05/04/2021 14:07:21 PM,,,,,,,,
+Coding Ended:,05/04/2021 14:12:26 PM,,,,,,,,
+Session duration:,0:05:04,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+Notes:,groom - self ,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:07:21,00:03.8,00:03.8
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:07:25,00:01.8,00:05.6
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:07:27,00:02.2,00:07.8
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:07:29,00:09.6,00:17.4
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:07:38,00:04.2,00:21.6
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:07:43,00:02.6,00:24.2
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,FearGrimace,2:07:45,00:01.4,00:25.7
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:07:47,00:42.9,01:08.6
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Groom,2:08:30,00:02.2,01:10.8
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:08:32,00:13.6,01:24.3
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Scratch,2:08:45,00:03.1,01:27.5
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:08:48,00:05.4,01:32.8
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:08:54,00:03.1,01:35.9
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:08:57,00:01.0,01:37.0
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:08:58,00:05.8,01:42.7
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:09:04,00:08.0,01:50.8
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:09:12,00:01.7,01:52.5
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:09:13,00:19.2,02:11.7
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:09:33,00:01.5,02:13.2
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:09:34,00:13.3,02:26.5
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:09:47,00:03.6,02:30.1
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Tactile/explore,2:09:51,00:08.1,02:38.2
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:09:59,00:01.8,02:40.0
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:10:01,00:02.0,02:42.0
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:10:03,00:02.4,02:44.4
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:10:05,00:01.8,02:46.1
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:10:07,00:03.7,02:49.9
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:10:11,00:03.5,02:53.4
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:10:14,00:12.5,03:05.8
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:10:27,00:05.5,03:11.3
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:10:32,00:06.8,03:18.2
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Vocal,2:10:39,00:02.8,03:21.0
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:10:42,00:08.9,03:29.9
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:10:51,00:02.8,03:32.7
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:10:54,00:02.4,03:35.1
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:10:56,00:08.8,03:43.9
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:11:05,00:17.8,04:01.7
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Locomotion,2:11:23,00:01.9,04:03.6
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:11:25,00:23.5,04:27.1
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Groom,2:11:48,00:07.2,04:34.3
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:11:55,00:19.5,04:53.8
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Tactile/explore,2:12:15,00:05.7,04:59.5
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Inactive,2:12:20,00:02.6,05:02.0
+Js,R19034,Group,bmqh2c5,5/4/21,1.0.43.0,Scratch,2:12:23,00:01.0,05:03.1
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,21,03:39.4,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,15,00:52.2,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,1,00:01.4,,,,,,,
+Tactile/explore,2,00:13.7,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,2,00:04.2,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,2,00:09.4,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,1,00:02.8,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

@@ -1,0 +1,66 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass 2021,,,,,,,,
+Indiv ID:,Rh3010,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,Ab117c1,,,,,,,,
+Behavior Date:,4/28/21,,,,,,,,
+Behavior Time:,10:33 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/28/21 10:35,,,,,,,,
+Coding Ended:,4/28/21 10:40,,,,,,,,
+Session duration:,0:05:01,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Inactive,10:35:08,00:08.2,00:08.2
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Locomotion,10:35:16,00:03.0,00:11.1
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Threat/display,10:35:19,00:05.9,00:17.0
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Inactive,10:35:25,00:08.7,00:25.8
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Scratch,10:35:33,00:01.6,00:27.4
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Inactive,10:35:35,00:06.3,00:33.7
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Tactile/explore,10:35:41,00:02.2,00:36.0
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Inactive,10:35:44,00:01.6,00:37.6
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Locomotion,10:35:45,00:04.5,00:42.1
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Inactive,10:35:50,00:06.4,00:48.5
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Scratch,10:35:56,00:03.2,00:51.7
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Inactive,10:35:59,00:02.3,00:54.0
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Tactile/explore,10:36:02,00:42.6,01:36.6
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Locomotion,10:36:44,00:03.4,01:40.0
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Tactile/explore,10:36:48,00:20.7,02:00.7
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Locomotion,10:37:08,00:05.8,02:06.5
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Inactive,10:37:14,01:21.7,03:28.2
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Tactile/explore,10:38:36,00:07.6,03:35.8
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Inactive,10:38:43,01:03.7,04:39.5
+BNP,Rh3010,Pair,Ab117c1,4/28/21,1.0.43.0,Groom,10:39:47,00:20.7,05:00.2
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,8,02:58.9,,,,,,,
+Threat/display,1,00:05.9,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,4,00:16.7,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,4,01:13.1,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,2,00:04.8,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,1,00:20.7,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

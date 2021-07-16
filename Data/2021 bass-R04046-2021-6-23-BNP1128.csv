@@ -1,0 +1,53 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,R04046
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,Ab108c15
+Behavior Date:,2021-6-23
+Behavior Time:,11:28 AM
+Ethogram:,2021 bass.csv
+Coding Began:,06/23/2021 11:28:43 AM
+Coding Ended:,06/23/2021 11:33:45 AM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R04046,Pair,Ab108c15,2021-6-23,1.0.46.0,Social/play,11:28:43,00:00:07.1994147,00:00:07.1994147
+BNP,R04046,Pair,Ab108c15,2021-6-23,1.0.46.0,Groom,11:28:51,00:00:06.2602074,00:00:13.4596221
+BNP,R04046,Pair,Ab108c15,2021-6-23,1.0.46.0,Social/play,11:28:57,00:04:42.8827348,00:04:56.3423569
+BNP,R04046,Pair,Ab108c15,2021-6-23,1.0.46.0,Selfdirect,11:33:40,00:00:04.2261761,00:05:00.5685330
+
+BehavCode, Occurrences, totalTime
+Inactive,0,00:00:00
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,1,00:00:06.2602074
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,2,00:04:50.0821495
+Salute,0,00:00:00
+Selfdirect,1,00:00:04.2261761
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

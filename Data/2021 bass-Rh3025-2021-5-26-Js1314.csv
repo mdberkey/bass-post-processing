@@ -1,0 +1,81 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,2021bass
+Indiv ID:,Rh3025
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Group
+Room/Cage:,bmqh1c9
+Behavior Date:,2021-5-26
+Behavior Time:,01:13 PM
+Ethogram:,2021 bass.csv
+Coding Began:,05/26/2021 13:14:19 PM
+Coding Ended:,05/26/2021 13:19:22 PM
+Session duration:,00:05:02
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Tactile/explore,01:14:19,00:00:02.8436564,00:00:02.8436564
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Eat/drink,01:14:22,00:00:03.9898766,00:00:06.8335330
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:14:26,00:00:32.7763079,00:00:39.6098409
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Locomotion,01:14:58,00:00:03.2347940,00:00:42.8446349
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Tactile/explore,01:15:02,00:00:06.1632936,00:00:49.0079285
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Locomotion,01:15:08,00:00:04.8412645,00:00:53.8491930
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Tactile/explore,01:15:13,00:00:19.1328075,00:01:12.9820005
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:15:32,00:00:17.4452021,00:01:30.4272026
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Tactile/explore,01:15:49,00:00:23.7279918,00:01:54.1551944
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:16:13,00:00:07.7030296,00:02:01.8582240
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Tactile/explore,01:16:21,00:00:29.1154193,00:02:30.9736433
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:16:50,00:00:05.9137227,00:02:36.8873660
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Tactile/explore,01:16:56,00:00:05.8138556,00:02:42.7012216
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:17:02,00:00:24.0151271,00:03:06.7163487
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Tactile/explore,01:17:26,00:00:12.7686264,00:03:19.4849751
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:17:38,00:00:11.3692356,00:03:30.8542107
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Tactile/explore,01:17:50,00:00:28.1016702,00:03:58.9558809
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:18:18,00:00:02.0674331,00:04:01.0233140
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Rock,01:18:20,00:00:02.1178102,00:04:03.1411242
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:18:22,00:00:03.2896068,00:04:06.4307310
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Locomotion,01:18:25,00:00:03.4864197,00:04:09.9171507
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:18:29,00:00:03.3269533,00:04:13.2441040
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Locomotion,01:18:32,00:00:01.4940409,00:04:14.7381449
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:18:34,00:00:09.1167475,00:04:23.8548924
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Threat/display,01:18:43,00:00:01.5849481,00:04:25.4398405
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:18:44,00:00:02.0817528,00:04:27.5215933
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Scratch,01:18:46,00:00:01.9375323,00:04:29.4591256
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:18:48,00:00:01.5370854,00:04:30.9962110
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Locomotion,01:18:50,00:00:03.9223818,00:04:34.9185928
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Inactive,01:18:54,00:00:02.8849710,00:04:37.8035638
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Locomotion,01:18:57,00:00:04.7496357,00:04:42.5531995
+Js,Rh3025,Group,bmqh1c9,2021-5-26,1.0.46.0,Tactile/explore,01:19:01,00:00:18.4249237,00:05:00.9781232
+
+BehavCode, Occurrences, totalTime
+Inactive,13,00:02:03.5271749
+Threat/display,1,00:00:01.5849481
+Sex/self/other,0,00:00:00
+Locomotion,6,00:00:21.7285366
+Aggression,0,00:00:00
+Eat/drink,1,00:00:03.9898766
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,9,00:02:26.0922445
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,1,00:00:01.9375323
+Groom,0,00:00:00
+Rock,1,00:00:02.1178102
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

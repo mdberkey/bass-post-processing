@@ -1,0 +1,88 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,2021bass
+Indiv ID:,Rh3042
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,bmqq2c7
+Behavior Date:,2021-5-19
+Behavior Time:,12:52 PM
+Ethogram:,2021 bass.csv
+Coding Began:,05/19/2021 12:53:51 PM
+Coding Ended:,05/19/2021 12:59:58 PM
+Session duration:,00:06:07
+App Version:,1.0.46.0
+Notes:,Switch rh3034 and rh3042 with each other
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:53:51,00:00:34.3663282,00:00:34.3663282
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Locomotion,12:54:25,00:00:01.8994659,00:00:36.2657941
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:54:27,00:01:16.6578049,00:01:52.9235990
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Locomotion,12:55:43,00:00:03.2188005,00:01:56.1423995
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:55:47,00:00:12.1887838,00:02:08.3311833
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Locomotion,12:55:59,00:00:02.1414937,00:02:10.4726770
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:56:01,00:00:12.3792599,00:02:22.8519369
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:56:13,00:00:01.6039897,00:02:24.4559266
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:56:15,00:00:25.9847418,00:02:50.4406684
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:56:41,00:00:02.3343985,00:02:52.7750669
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:56:43,00:00:03.8160586,00:02:56.5911255
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Locomotion,12:56:47,00:00:02.7225623,00:02:59.3136878
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:56:50,00:00:02.3351390,00:03:01.6488268
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:56:52,00:00:09.5495104,00:03:11.1983372
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:57:02,00:00:01.9663330,00:03:13.1646702
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:57:04,00:00:04.6831363,00:03:17.8478065
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Locomotion,12:57:08,00:00:02.1470315,00:03:19.9948380
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:57:11,00:00:01.5123521,00:03:21.5071901
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Scratch,12:57:12,00:00:01.5206730,00:03:23.0278631
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:57:14,00:00:03.2639237,00:03:26.2917868
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Locomotion,12:57:17,00:00:01.9823496,00:03:28.2741364
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:57:19,00:00:02.1835650,00:03:30.4577014
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:57:21,00:00:03.5862158,00:03:34.0439172
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:57:25,00:00:03.2180863,00:03:37.2620035
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:57:28,00:00:03.4471981,00:03:40.7092016
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:57:31,00:00:04.8471688,00:03:45.5563704
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:57:36,00:00:07.5342035,00:03:53.0905739
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:57:44,00:00:02.7309131,00:03:55.8214870
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:57:46,00:00:06.6718183,00:04:02.4933053
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Locomotion,12:57:53,00:00:01.7348941,00:04:04.2281994
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:57:55,00:00:19.8917441,00:04:24.1199435
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Locomotion,12:58:15,00:00:01.6645079,00:04:25.7844514
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:58:16,00:00:06.9335087,00:04:32.7179601
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:58:23,00:00:12.3767805,00:04:45.0947406
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Locomotion,12:58:36,00:00:02.5047543,00:04:47.5994949
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:58:38,00:00:01.4841172,00:04:49.0836121
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:58:40,00:00:06.5684880,00:04:55.6521001
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Threat/display,12:58:46,00:00:02.1837594,00:04:57.8358595
+Js,Rh3042,Pair,bmqq2c7,2021-5-19,1.0.46.0,Inactive,12:58:48,00:00:03.8450406,00:05:01.6809001
+
+BehavCode, Occurrences, totalTime
+Inactive,17,00:04:06.8110365
+Threat/display,12,00:00:33.3333308
+Sex/self/other,0,00:00:00
+Locomotion,9,00:00:20.0158598
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,1,00:00:01.5206730
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

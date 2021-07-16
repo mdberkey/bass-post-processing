@@ -1,0 +1,58 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,Rh2132
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,Ab119c35
+Behavior Date:,2021-6-18
+Behavior Time:,10:27 AM
+Ethogram:,2021 bass.csv
+Coding Began:,06/18/2021 10:27:49 AM
+Coding Ended:,06/18/2021 10:32:50 AM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,Rh2132,Single,Ab119c35,2021-6-18,1.0.46.0,Eat/drink,10:27:49,00:01:35.7379102,00:01:35.7379102
+BNP,Rh2132,Single,Ab119c35,2021-6-18,1.0.46.0,Locomotion,10:29:25,00:00:02.9023023,00:01:38.6402125
+BNP,Rh2132,Single,Ab119c35,2021-6-18,1.0.46.0,Eat/drink,10:29:28,00:00:10.8881116,00:01:49.5283241
+BNP,Rh2132,Single,Ab119c35,2021-6-18,1.0.46.0,Lipsmack,10:29:39,00:00:04.5249541,00:01:54.0532782
+BNP,Rh2132,Single,Ab119c35,2021-6-18,1.0.46.0,Mantleshake,10:29:43,00:00:01.4296144,00:01:55.4828926
+BNP,Rh2132,Single,Ab119c35,2021-6-18,1.0.46.0,Lipsmack,10:29:45,00:00:05.2329469,00:02:00.7158395
+BNP,Rh2132,Single,Ab119c35,2021-6-18,1.0.46.0,Eat/drink,10:29:50,00:00:09.3364296,00:02:10.0522691
+BNP,Rh2132,Single,Ab119c35,2021-6-18,1.0.46.0,Scratch,10:29:59,00:00:03.7241085,00:02:13.7763776
+BNP,Rh2132,Single,Ab119c35,2021-6-18,1.0.46.0,Eat/drink,10:30:03,00:02:46.3646019,00:05:00.1409795
+
+BehavCode, Occurrences, totalTime
+Inactive,0,00:00:00
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,1,00:00:02.9023023
+Aggression,0,00:00:00
+Eat/drink,4,00:04:42.3270533
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,2,00:00:09.7579010
+Swing/spin/flip,0,00:00:00
+Scratch,1,00:00:03.7241085
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,1,00:00:01.4296144
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

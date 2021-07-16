@@ -1,0 +1,59 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,R07010,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,Ab117c3,,,,,,,,
+Behavior Date:,4/28/21,,,,,,,,
+Behavior Time:,10:40 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/28/21 10:40,,,,,,,,
+Coding Ended:,4/28/21 10:45,,,,,,,,
+Session duration:,0:05:01,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Inactive,10:40:50,01:12.3,01:12.3
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Yawn,10:42:03,00:01.6,01:14.0
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Inactive,10:42:04,00:58.9,02:12.9
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Threat/display,10:43:03,00:01.1,02:14.1
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Inactive,10:43:05,00:34.7,02:48.7
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Tactile/explore,10:43:39,00:22.5,03:11.3
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Inactive,10:44:02,00:22.1,03:33.3
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Salute,10:44:24,00:14.6,03:48.0
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Scratch,10:44:38,00:03.7,03:51.7
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Groom,10:44:42,00:17.2,04:08.9
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Inactive,10:44:59,00:21.5,04:30.4
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Threat/display,10:45:21,00:02.8,04:33.1
+BNP,R07010,Single,Ab117c3,4/28/21,1.0.43.0,Inactive,10:45:24,00:27.0,05:00.2
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,6,03:56.5,,,,,,,
+Threat/display,2,00:03.9,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,0,0:00:00,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,1,00:22.5,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:03.7,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,1,00:01.6,,,,,,,
+Groom,1,00:17.2,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,1,00:14.6,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

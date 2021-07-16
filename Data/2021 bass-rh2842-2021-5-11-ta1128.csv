@@ -1,0 +1,70 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,rh2842
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,a272c13
+Behavior Date:,2021-5-11
+Behavior Time:,11:23 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/11/2021 11:28:36 AM
+Coding Ended:,05/11/2021 11:33:40 AM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Inactive,11:28:36,00:00:05.5694717,00:00:05.5694717
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Scratch,11:28:42,00:00:03.8073859,00:00:09.3768576
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Locomotion,11:28:46,00:00:02.1720723,00:00:11.5489299
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Threat/display,11:28:48,00:00:03.9159796,00:00:15.4649095
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Inactive,11:28:52,00:00:10.9044015,00:00:26.3693110
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Scratch,11:29:03,00:00:04.2751790,00:00:30.6444900
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Groom,11:29:07,00:00:05.2227193,00:00:35.8672093
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Mantleshake,11:29:12,00:00:04.8688292,00:00:40.7360385
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Inactive,11:29:17,00:00:06.2751569,00:00:47.0111954
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Tactile/explore,11:29:24,00:00:34.2978157,00:01:21.3090111
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Inactive,11:29:58,00:00:06.8961532,00:01:28.2051643
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Locomotion,11:30:05,00:00:01.8363880,00:01:30.0415523
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Inactive,11:30:07,00:00:06.2113184,00:01:36.2528707
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Tactile/explore,11:30:13,00:00:47.0194004,00:02:23.2722711
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Inactive,11:31:00,00:00:11.1046355,00:02:34.3769066
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Locomotion,11:31:11,00:00:01.7326855,00:02:36.1095921
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Eat/drink,11:31:13,00:00:39.7325917,00:03:15.8421838
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Inactive,11:31:52,00:00:12.0111192,00:03:27.8533030
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Eat/drink,11:32:04,00:00:12.7350607,00:03:40.5883637
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Locomotion,11:32:17,00:00:04.3952482,00:03:44.9836119
+ta,rh2842,Pair,a272c13,2021-5-11,1.0.46.0,Tactile/explore,11:32:21,00:01:17.4332548,00:05:02.4168667
+
+BehavCode, Occurrences, totalTime
+Inactive,7,00:00:58.9722564
+Threat/display,1,00:00:03.9159796
+Sex/self/other,0,00:00:00
+Locomotion,4,00:00:10.1363940
+Aggression,0,00:00:00
+Eat/drink,2,00:00:52.4676524
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,3,00:02:38.7504709
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:08.0825649
+Groom,1,00:00:05.2227193
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,1,00:00:04.8688292
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

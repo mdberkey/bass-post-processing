@@ -1,0 +1,59 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,r98053
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,mr1527c14
+Behavior Date:,2021-5-10
+Behavior Time:,10:54 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/10/2021 10:55:11 AM
+Coding Ended:,05/10/2021 11:00:23 AM
+Session duration:,00:05:12
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r98053,Single,mr1527c14,2021-5-10,1.0.46.0,Groom,10:55:11,00:00:58.4747971,00:00:58.4747971
+ta,r98053,Single,mr1527c14,2021-5-10,1.0.46.0,Tactile/explore,10:56:09,00:00:04.6861602,00:01:03.1609573
+ta,r98053,Single,mr1527c14,2021-5-10,1.0.46.0,Vocal,10:56:14,00:00:00.8818821,00:01:04.0428394
+ta,r98053,Single,mr1527c14,2021-5-10,1.0.46.0,Tactile/explore,10:56:15,00:00:22.4267799,00:01:26.4696193
+ta,r98053,Single,mr1527c14,2021-5-10,1.0.46.0,Threat/display,10:56:37,00:00:02.5048425,00:01:28.9744618
+ta,r98053,Single,mr1527c14,2021-5-10,1.0.46.0,Inactive,10:56:40,00:00:25.2641926,00:01:54.2386544
+ta,r98053,Single,mr1527c14,2021-5-10,1.0.46.0,Locomotion,10:57:05,00:00:01.8676111,00:01:56.1062655
+ta,r98053,Single,mr1527c14,2021-5-10,1.0.46.0,Inactive,10:57:07,00:02:15.1018436,00:04:11.2081091
+ta,r98053,Single,mr1527c14,2021-5-10,1.0.46.0,Vocal,10:59:22,00:00:01.9184983,00:04:13.1266074
+ta,r98053,Single,mr1527c14,2021-5-10,1.0.46.0,Inactive,10:59:24,00:00:57.9366430,00:05:11.0632504
+
+BehavCode, Occurrences, totalTime
+Inactive,3,00:03:38.3026792
+Threat/display,1,00:00:02.5048425
+Sex/self/other,0,00:00:00
+Locomotion,1,00:00:01.8676111
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,2,00:00:27.1129401
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,1,00:00:58.4747971
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,2,00:00:02.8003804
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

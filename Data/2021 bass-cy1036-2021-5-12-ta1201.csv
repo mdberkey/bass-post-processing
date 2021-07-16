@@ -1,0 +1,65 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,cy1036
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,a271c10
+Behavior Date:,2021-5-12
+Behavior Time:,12:01 PM
+Ethogram:,2021 bass.csv
+Coding Began:,05/12/2021 12:01:41 PM
+Coding Ended:,05/12/2021 12:06:45 PM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Inactive,12:01:41,00:00:14.2523224,00:00:14.2523224
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Locomotion,12:01:55,00:00:05.9373377,00:00:20.1896601
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Tactile/explore,12:02:01,00:00:22.3279621,00:00:42.5176222
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Locomotion,12:02:23,00:00:01.4790554,00:00:43.9966776
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Inactive,12:02:25,00:00:13.6056243,00:00:57.6023019
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Mantleshake,12:02:38,00:00:01.1320498,00:00:58.7343517
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Inactive,12:02:40,00:00:15.4807720,00:01:14.2151237
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Vocal,12:02:55,00:00:03.7162703,00:01:17.9313940
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Inactive,12:02:59,00:00:02.3524743,00:01:20.2838683
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Lipsmack,12:03:01,00:00:01.1248893,00:01:21.4087576
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Vocal,12:03:02,00:00:04.6828336,00:01:26.0915912
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Lipsmack,12:03:07,00:00:01.0851497,00:01:27.1767409
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Inactive,12:03:08,00:00:52.1590359,00:02:19.3357768
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Locomotion,12:04:00,00:00:03.7902311,00:02:23.1260079
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Inactive,12:04:04,00:00:05.0544629,00:02:28.1804708
+ta,cy1036,Single,a271c10,2021-5-12,1.0.46.0,Tactile/explore,12:04:09,00:02:34.2120616,00:05:02.3925324
+
+BehavCode, Occurrences, totalTime
+Inactive,6,00:01:42.9046918
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,3,00:00:11.2066242
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,2,00:02:56.5400237
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,2,00:00:02.2100390
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,1,00:00:01.1320498
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,2,00:00:08.3991039
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

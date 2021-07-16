@@ -1,0 +1,63 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,rh2815,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,cb11c39,,,,,,,,
+Behavior Date:,4/21/21,,,,,,,,
+Behavior Time:,10:49 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/21/21 10:50,,,,,,,,
+Coding Ended:,4/21/21 10:55,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+Notes:,groom=groomed partner,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Scratch,10:50:54,00:06.3,00:06.3
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Mantleshake,10:51:00,00:03.1,00:09.3
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Inactive,10:51:03,00:04.4,00:13.7
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Locomotion,10:51:07,00:08.1,00:21.7
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Inactive,10:51:15,00:14.5,00:36.2
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Selfdirect,10:51:30,00:04.7,00:40.9
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Tactile/explore,10:51:34,00:09.8,00:50.7
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Threat/display,10:51:44,00:04.9,00:55.5
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Inactive,10:51:49,00:05.8,01:01.4
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Yawn,10:51:55,00:02.0,01:03.3
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Inactive,10:51:57,00:11.8,01:15.1
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Tactile/explore,10:52:09,00:28.9,01:44.0
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Locomotion,10:52:38,00:28.4,02:12.4
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Sex/self/other,10:53:06,00:08.9,02:21.3
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,SocGroom,10:53:15,00:27.6,02:49.0
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,Inactive,10:53:43,00:06.7,02:55.7
+mr,rh2815,Pair,cb11c39,4/21/21,1.0.43.0,SocGroom,10:53:49,02:05.2,05:00.9
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,5,00:43.2,,,,,,,
+Threat/display,1,00:04.9,,,,,,,
+Sex/self/other,1,00:08.9,,,,,,,
+Locomotion,2,00:36.5,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,2,00:38.7,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:06.3,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,1,00:02.0,,,,,,,
+SocGroom,2,02:32.8,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,1,00:03.1,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,1,00:04.7,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

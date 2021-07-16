@@ -1,0 +1,82 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,Js,,,,,,,,
+Study Code:,2021bass,,,,,,,,
+Indiv ID:,Cy1050,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,bmqh2c11,,,,,,,,
+Behavior Date:,5/5/21,,,,,,,,
+Behavior Time:,10:35 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,5/5/21 10:37,,,,,,,,
+Coding Ended:,5/5/21 10:42,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:37:20,00:17.5,00:17.5
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Headtoss,10:37:37,00:02.3,00:19.7
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:37:40,00:08.2,00:28.0
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Headtoss,10:37:48,00:01.4,00:29.3
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:37:49,00:13.4,00:42.7
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Headtoss,10:38:03,00:01.9,00:44.6
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:38:05,00:12.1,00:56.7
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Locomotion,10:38:17,00:02.0,00:58.7
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Headtoss,10:38:19,00:03.5,01:02.2
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:38:22,00:03.9,01:06.1
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Locomotion,10:38:26,00:04.1,01:10.2
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:38:30,00:03.6,01:13.8
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Locomotion,10:38:34,00:02.5,01:16.3
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:38:36,00:02.0,01:18.3
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Headtoss,10:38:38,00:01.3,01:19.6
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:38:40,00:19.1,01:38.7
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Locomotion,10:38:59,00:02.8,01:41.6
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Threat/display,10:39:02,00:05.2,01:46.8
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Locomotion,10:39:07,00:01.5,01:48.3
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:39:08,00:03.9,01:52.2
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Locomotion,10:39:12,00:03.0,01:55.2
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Headtoss,10:39:15,00:01.8,01:57.0
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Locomotion,10:39:17,00:04.3,02:01.3
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:39:21,00:13.7,02:15.1
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Headtoss,10:39:35,00:01.3,02:16.4
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:39:36,00:03.0,02:19.4
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Headtoss,10:39:39,00:01.4,02:20.7
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:39:41,00:05.4,02:26.1
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Threat/display,10:39:46,00:02.5,02:28.6
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:39:49,00:01.3,02:29.9
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Threat/display,10:39:50,00:01.9,02:31.8
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:39:52,00:29.3,03:01.1
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Locomotion,10:40:21,00:02.4,03:03.5
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:40:23,01:18.0,04:21.5
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Tactile/explore,10:41:41,00:02.6,04:24.1
+Js,Cy1050,Single,bmqh2c11,5/5/21,1.0.43.0,Inactive,10:41:44,00:38.1,05:02.1
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,16,04:12.5,,,,,,,
+Threat/display,3,00:09.6,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,8,00:22.6,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,1,00:02.6,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,8,00:14.8,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

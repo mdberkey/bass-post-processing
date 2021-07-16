@@ -1,0 +1,73 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,Rh2747,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Group,,,,,,,,
+Room/Cage:,Ab142c13,,,,,,,,
+Behavior Date:,5/6/21,,,,,,,,
+Behavior Time:,11:21 AM,,,,,,,,
+Ethogram:,2021 bass.csv,,,,,,,,
+Coding Began:,5/6/21 11:22,,,,,,,,
+Coding Ended:,5/6/21 11:27,,,,,,,,
+Session duration:,0:05:06,,,,,,,,
+App Version:,1.0.44.0,,,,,,,,
+Notes:,Groomed infant,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Inactive,11:22:11,00:38.3,00:38.3
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Locomotion,11:22:49,00:03.0,00:41.3
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Lipsmack,11:22:52,00:07.7,00:49.0
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Locomotion,11:23:00,00:05.0,00:54.0
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Inactive,11:23:05,00:06.6,01:00.6
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Social/play,11:23:11,00:03.7,01:04.3
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Lipsmack,11:23:15,00:05.1,01:09.4
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Social/play,11:23:20,00:05.6,01:15.0
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Locomotion,11:23:26,00:05.2,01:20.2
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Inactive,11:23:31,00:14.1,01:34.4
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Social/play,11:23:45,00:26.5,02:00.8
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Inactive,11:24:12,00:27.2,02:28.0
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Social/play,11:24:39,00:02.3,02:30.3
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Scratch,11:24:41,00:02.9,02:33.3
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Social/play,11:24:44,00:13.5,02:46.8
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Aggression,11:24:57,00:02.6,02:49.3
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Inactive,11:25:00,00:10.2,02:59.5
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Social/play,11:25:10,00:02.4,03:01.9
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Aggression,11:25:13,00:03.7,03:05.6
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Threat/display,11:25:16,00:02.0,03:07.6
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Locomotion,11:25:18,00:01.9,03:09.5
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Inactive,11:25:20,00:31.6,03:41.1
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,SocGroom,11:25:52,00:17.9,03:59.1
+BNP,Rh2747,Group,Ab142c13,5/6/21,1.0.44.0,Inactive,11:26:10,01:01.0,05:00.0
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,7,03:09.0,,,,,,,
+Threat/display,1,00:02.0,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,4,00:15.2,,,,,,,
+Aggression,2,00:06.3,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+Present,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Lipsmack,2,00:12.7,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Scratch,1,00:02.9,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+SocGroom,1,00:17.9,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,6,00:53.9,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Cling,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

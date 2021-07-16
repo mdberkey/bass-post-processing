@@ -1,0 +1,68 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,2021bass
+Indiv ID:,R10019
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,ab108c31
+Behavior Date:,2021-6-23
+Behavior Time:,12:29 PM
+Ethogram:,2021 bass.csv
+Coding Began:,06/23/2021 12:29:58 PM
+Coding Ended:,06/23/2021 12:35:01 PM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Inactive,12:29:58,00:00:02.5275827,00:00:02.5275827
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Tactile/explore,12:30:00,00:00:24.6290486,00:00:27.1566313
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Locomotion,12:30:25,00:00:02.3012903,00:00:29.4579216
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Inactive,12:30:27,00:00:05.3170637,00:00:34.7749853
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Locomotion,12:30:32,00:00:03.7592639,00:00:38.5342492
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Inactive,12:30:36,00:00:02.6861189,00:00:41.2203681
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Tactile/explore,12:30:39,00:01:11.7348387,00:01:52.9552068
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Inactive,12:31:51,00:00:27.8052364,00:02:20.7604432
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Tactile/explore,12:32:18,00:00:42.4785789,00:03:03.2390221
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Inactive,12:33:01,00:00:29.8671074,00:03:33.1061295
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Tactile/explore,12:33:31,00:00:06.9569731,00:03:40.0631026
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Inactive,12:33:38,00:00:05.6012319,00:03:45.6643345
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Tactile/explore,12:33:43,00:00:18.4900418,00:04:04.1543763
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Locomotion,12:34:02,00:00:03.2586049,00:04:07.4129812
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Inactive,12:34:05,00:00:09.7171566,00:04:17.1301378
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Locomotion,12:34:15,00:00:02.0868453,00:04:19.2169831
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Inactive,12:34:17,00:00:01.7730463,00:04:20.9900294
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Tactile/explore,12:34:19,00:00:33.1497375,00:04:54.1397669
+Js,R10019,Pair,ab108c31,2021-6-23,1.0.46.0,Eat/drink,12:34:52,00:00:07.0227107,00:05:01.1624776
+
+BehavCode, Occurrences, totalTime
+Inactive,8,00:01:25.2945439
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,4,00:00:11.4060044
+Aggression,0,00:00:00
+Eat/drink,1,00:00:07.0227107
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,6,00:03:17.4392186
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

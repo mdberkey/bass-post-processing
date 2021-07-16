@@ -1,0 +1,46 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,js
+Study Code:,2021 Bass
+Indiv ID:,rh2992
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,bmqh1c1
+Behavior Date:,2021-4-23
+Behavior Time:,12:06 PM
+Ethogram:,2021 Bass.csv
+Coding Began:,04/23/2021 12:10:45 PM
+Coding Ended:,04/23/2021 12:10:55 PM
+Session duration:,00:00:10
+App Version:,1.0.43.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+js,rh2992,Pair,bmqh1c1,2021-4-23,1.0.43.0,Inactive,12:10:45,00:00:07.0443543,00:00:07.0443543
+
+BehavCode, Occurrences, totalTime
+Inactive,1,00:00:07.0443543
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Present,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+FearGrimace,0,00:00:00
+Tactile/expl,0,00:00:00
+Jumping,0,00:00:00
+Scratch,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Yawn,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Headtoss,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Salute,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

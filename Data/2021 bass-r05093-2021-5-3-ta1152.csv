@@ -1,0 +1,69 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,r05093
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,a261c7
+Behavior Date:,2021-5-3
+Behavior Time:,11:51 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/03/2021 11:52:13 AM
+Coding Ended:,05/03/2021 11:57:15 AM
+Session duration:,00:05:02
+App Version:,1.0.44.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Locomotion,11:52:13,00:00:03.8359272,00:00:03.8359272
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Pacing,11:52:17,00:00:04.2757158,00:00:08.1116430
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Inactive,11:52:21,00:00:04.3393631,00:00:12.4510061
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Eat/drink,11:52:25,00:02:02.4576146,00:02:14.9086207
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Locomotion,11:54:28,00:00:07.5933836,00:02:22.5020043
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Pacing,11:54:35,00:00:04.6422108,00:02:27.1442151
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Eat/drink,11:54:40,00:00:14.4746904,00:02:41.6189055
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Locomotion,11:54:54,00:00:02.2595219,00:02:43.8784274
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Inactive,11:54:57,00:00:06.7946075,00:02:50.6730349
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Eat/drink,11:55:03,00:00:09.6674567,00:03:00.3404916
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Locomotion,11:55:13,00:00:04.8654734,00:03:05.2059650
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Pacing,11:55:18,00:00:07.1236733,00:03:12.3296383
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Eat/drink,11:55:25,00:00:16.8335122,00:03:29.1631505
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Locomotion,11:55:42,00:00:05.0970257,00:03:34.2601762
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Pacing,11:55:47,00:00:04.1955824,00:03:38.4557586
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Tactile/expl,11:55:51,00:00:15.0736528,00:03:53.5294114
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Locomotion,11:56:06,00:00:02.2857400,00:03:55.8151514
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Eat/drink,11:56:09,00:00:05.5313806,00:04:01.3465320
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Locomotion,11:56:14,00:00:03.9660298,00:04:05.3125618
+ta,r05093,Pair,a261c7,2021-5-3,1.0.44.0,Pacing,11:56:18,00:00:55.6231410,00:05:00.9357028
+
+BehavCode, Occurrences, totalTime
+Inactive,2,00:00:11.1339706
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,7,00:00:29.9031016
+Aggression,0,00:00:00
+Eat/drink,5,00:02:48.9646545
+Pacing,5,00:01:15.8603233
+Present,0,00:00:00
+Tactile/expl,1,00:00:15.0736528
+Jumping,0,00:00:00
+FearGrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

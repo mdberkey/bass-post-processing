@@ -1,0 +1,59 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,Rh2822
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,Ab144c11
+Behavior Date:,2021-6-21
+Behavior Time:,12:10 PM
+Ethogram:,2021 bass.csv
+Coding Began:,06/21/2021 12:10:51 PM
+Coding Ended:,06/21/2021 12:15:52 PM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,Rh2822,Pair,Ab144c11,2021-6-21,1.0.46.0,Inactive,12:10:51,00:01:47.0550808,00:01:47.0550808
+BNP,Rh2822,Pair,Ab144c11,2021-6-21,1.0.46.0,Locomotion,12:12:38,00:00:01.2842715,00:01:48.3393523
+BNP,Rh2822,Pair,Ab144c11,2021-6-21,1.0.46.0,Inactive,12:12:39,00:00:01.0651058,00:01:49.4044581
+BNP,Rh2822,Pair,Ab144c11,2021-6-21,1.0.46.0,Locomotion,12:12:40,00:00:02.9875708,00:01:52.3920289
+BNP,Rh2822,Pair,Ab144c11,2021-6-21,1.0.46.0,Threat/display,12:12:43,00:00:02.8906432,00:01:55.2826721
+BNP,Rh2822,Pair,Ab144c11,2021-6-21,1.0.46.0,Inactive,12:12:46,00:00:05.9284720,00:02:01.2111441
+BNP,Rh2822,Pair,Ab144c11,2021-6-21,1.0.46.0,Vocal,12:12:52,00:00:00.8622363,00:02:02.0733804
+BNP,Rh2822,Pair,Ab144c11,2021-6-21,1.0.46.0,Lipsmack,12:12:53,00:00:02.3995172,00:02:04.4728976
+BNP,Rh2822,Pair,Ab144c11,2021-6-21,1.0.46.0,Vocal,12:12:55,00:00:05.1210599,00:02:09.5939575
+BNP,Rh2822,Pair,Ab144c11,2021-6-21,1.0.46.0,SocGroom,12:13:00,00:02:50.9952154,00:05:00.5891729
+
+BehavCode, Occurrences, totalTime
+Inactive,3,00:01:54.0486586
+Threat/display,1,00:00:02.8906432
+Sex/self/other,0,00:00:00
+Locomotion,2,00:00:04.2718423
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,1,00:00:02.3995172
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,1,00:02:50.9952154
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,2,00:00:05.9832962
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

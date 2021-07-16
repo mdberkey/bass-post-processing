@@ -1,0 +1,80 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,r16035,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Group,,,,,,,,
+Room/Cage:,cb11c1,,,,,,,,
+Behavior Date:,4/19/21,,,,,,,,
+Behavior Time:,10:32 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/19/21 10:35,,,,,,,,
+Coding Ended:,4/19/21 10:40,,,,,,,,
+Session duration:,0:05:04,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Locomotion,10:35:12,00:00.3,00:00.3
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Locomotion,10:35:12,00:12.0,00:12.3
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Inactive,10:35:24,00:05.4,00:17.7
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,FearGrimace,10:35:29,00:11.5,00:29.2
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Locomotion,10:35:41,00:02.9,00:32.1
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Inactive,10:35:44,00:04.6,00:36.7
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,FearGrimace,10:35:48,00:07.7,00:44.4
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Eat/drink,10:35:56,00:16.8,01:01.2
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Inactive,10:36:13,00:19.4,01:20.6
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,FearGrimace,10:36:32,00:06.6,01:27.2
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Vocal,10:36:39,00:06.4,01:33.5
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,FearGrimace,10:36:45,00:03.7,01:37.2
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Inactive,10:36:49,00:08.3,01:45.5
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Salute,10:36:57,00:05.7,01:51.2
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Eat/drink,10:37:03,00:05.4,01:56.6
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Locomotion,10:37:08,00:06.7,02:03.4
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Inactive,10:37:15,00:13.5,02:16.9
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Eat/drink,10:37:28,00:11.8,02:28.6
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Locomotion,10:37:40,00:04.9,02:33.5
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Inactive,10:37:45,00:13.3,02:46.8
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,FearGrimace,10:37:58,00:01.5,02:48.3
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Vocal,10:38:00,00:03.6,02:51.9
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,FearGrimace,10:38:03,00:10.2,03:02.1
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Locomotion,10:38:14,00:04.1,03:06.2
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Inactive,10:38:18,00:11.4,03:17.6
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,FearGrimace,10:38:29,00:02.4,03:20.0
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Vocal,10:38:32,00:05.3,03:25.3
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,FearGrimace,10:38:37,00:23.5,03:48.7
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Inactive,10:39:00,00:14.6,04:03.4
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Locomotion,10:39:15,00:06.3,04:09.7
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Inactive,10:39:21,00:18.8,04:28.5
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Locomotion,10:39:40,00:11.7,04:40.3
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Inactive,10:39:52,00:16.2,04:56.5
+mr,r16035,Group,cb11c1,4/19/21,1.0.43.0,Locomotion,10:40:08,00:05.6,05:02.1
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,10,02:05.6,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,9,00:54.6,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,3,00:33.9,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,8,01:07.0,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,3,00:15.2,,,,,,,
+Salute,1,00:05.7,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

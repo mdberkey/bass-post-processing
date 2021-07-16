@@ -1,0 +1,66 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,cy0997,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,cb28c15,,,,,,,,
+Behavior Date:,4/28/21,,,,,,,,
+Behavior Time:,11:55 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/28/21 11:56,,,,,,,,
+Coding Ended:,4/28/21 12:01,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Tactile/explore,11:56:31,00:22.7,00:22.7
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Inactive,11:56:54,00:23.2,00:45.9
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Locomotion,11:57:17,00:12.0,00:57.9
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Inactive,11:57:29,00:16.2,01:14.1
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Locomotion,11:57:45,00:14.2,01:28.3
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Inactive,11:58:00,00:05.3,01:33.6
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Scratch,11:58:05,00:04.8,01:38.4
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Inactive,11:58:10,00:22.8,02:01.2
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Scratch,11:58:32,00:02.7,02:03.9
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Inactive,11:58:35,00:26.1,02:30.0
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Groom,11:59:01,00:05.7,02:35.7
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Locomotion,11:59:07,00:12.8,02:48.5
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Tactile/explore,11:59:20,00:12.7,03:01.2
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Inactive,11:59:32,00:22.3,03:23.5
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Tactile/explore,11:59:55,00:16.5,03:39.9
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Inactive,12:00:11,00:18.1,03:58.0
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Swing/spin/flip,12:00:29,00:03.9,04:01.9
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Inactive,12:00:33,00:14.2,04:16.1
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Scratch,12:00:47,00:03.9,04:20.0
+mr,cy0997,Pair,cb28c15,4/28/21,1.0.43.0,Inactive,12:00:51,00:41.2,05:01.2
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,9,03:09.4,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,3,00:39.0,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,3,00:51.9,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,3,00:11.3,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,1,00:03.9,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,1,00:05.7,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

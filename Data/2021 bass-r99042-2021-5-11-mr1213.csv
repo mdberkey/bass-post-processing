@@ -1,0 +1,60 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,mr
+Study Code:,2021 bass
+Indiv ID:,r99042
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,c327c11
+Behavior Date:,2021-5-11
+Behavior Time:,12:12 PM
+Ethogram:,2021 bass.csv
+Coding Began:,05/11/2021 12:13:47 PM
+Coding Ended:,05/11/2021 12:18:53 PM
+Session duration:,00:05:06
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,Inactive,12:13:47,00:00:03.8888619,00:00:03.8888619
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,Locomotion,12:13:51,00:00:36.7697165,00:00:40.6585784
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,Inactive,12:14:27,00:01:07.9096562,00:01:48.5682346
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,Threat/display,12:15:35,00:00:03.1919058,00:01:51.7601404
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,Locomotion,12:15:39,00:00:11.4422517,00:02:03.2023921
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,Inactive,12:15:50,00:00:16.9218649,00:02:20.1242570
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,Locomotion,12:16:07,00:00:13.8718765,00:02:33.9961335
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,Inactive,12:16:21,00:00:36.9526855,00:03:10.9488190
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,Locomotion,12:16:58,00:00:10.3749891,00:03:21.3238081
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,Inactive,12:17:08,00:00:49.0997457,00:04:10.4235538
+mr,r99042,Pair,c327c11,2021-5-11,1.0.46.0,SocGroom,12:17:57,00:00:50.6228704,00:05:01.0464242
+
+BehavCode, Occurrences, totalTime
+Inactive,5,00:02:54.7728142
+Threat/display,1,00:00:03.1919058
+Sex/self/other,0,00:00:00
+Locomotion,4,00:01:12.4588338
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,1,00:00:50.6228704
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

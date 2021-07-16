@@ -1,0 +1,68 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,r18002,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,cb30c13,,,,,,,,
+Behavior Date:,4/27/21,,,,,,,,
+Behavior Time:,11:34 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/27/21 11:36,,,,,,,,
+Coding Ended:,4/27/21 11:41,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Tactile/explore,11:36:13,00:10.5,00:10.5
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Locomotion,11:36:24,00:12.6,00:23.1
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Pacing,11:36:36,00:20.6,00:43.8
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Locomotion,11:36:57,00:34.9,01:18.7
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Tactile/explore,11:37:32,00:07.9,01:26.6
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Locomotion,11:37:40,00:10.6,01:37.2
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Tactile/explore,11:37:50,00:09.6,01:46.8
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Locomotion,11:38:00,00:14.0,02:00.7
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Scratch,11:38:14,00:05.0,02:05.7
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Tactile/explore,11:38:19,00:36.9,02:42.6
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Locomotion,11:38:56,00:19.2,03:01.8
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Inactive,11:39:15,00:06.3,03:08.1
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Locomotion,11:39:21,00:06.8,03:14.9
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Inactive,11:39:28,00:08.6,03:23.5
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Locomotion,11:39:37,00:14.8,03:38.2
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Tactile/explore,11:39:51,00:10.6,03:48.9
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Threat/display,11:40:02,00:04.6,03:53.5
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Locomotion,11:40:07,00:12.8,04:06.3
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Threat/display,11:40:19,00:06.6,04:12.9
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Groom,11:40:26,00:15.6,04:28.5
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Locomotion,11:40:42,00:28.3,04:56.8
+mr,r18002,Pair,cb30c13,4/27/21,1.0.43.0,Groom,11:41:10,00:04.3,05:01.1
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,2,00:14.9,,,,,,,
+Threat/display,2,00:11.2,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,9,02:34.0,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,1,00:20.6,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,5,01:15.5,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:05.0,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,2,00:19.9,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

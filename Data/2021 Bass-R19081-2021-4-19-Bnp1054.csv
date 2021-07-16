@@ -1,0 +1,76 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,Bnp,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,R19081,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,Ab120/6,,,,,,,,
+Behavior Date:,4/19/21,,,,,,,,
+Behavior Time:,10:53 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/19/21 10:54,,,,,,,,
+Coding Ended:,4/19/21 10:59,,,,,,,,
+Session duration:,0:05:01,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Locomotion,10:54:46,00:07.0,00:07.0
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Inactive,10:54:53,00:05.8,00:12.8
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Present,10:54:59,00:13.0,00:25.8
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Locomotion,10:55:12,00:02.5,00:28.3
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Threat/display,10:55:15,01:07.3,01:35.6
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Locomotion,10:56:22,00:13.8,01:49.4
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Threat/display,10:56:36,00:21.8,02:11.2
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Inactive,10:56:58,00:06.2,02:17.4
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Inactive,10:57:04,00:00.5,02:17.8
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Locomotion,10:57:04,00:13.4,02:31.2
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Selfdirect,10:57:18,00:04.2,02:35.4
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Social/play,10:57:22,00:06.8,02:42.2
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Locomotion,10:57:29,00:03.6,02:45.8
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Inactive,10:57:32,00:10.3,02:56.0
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Locomotion,10:57:42,00:01.8,02:57.8
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Inactive,10:57:44,00:19.0,03:16.8
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Threat/display,10:58:03,00:11.1,03:27.9
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Locomotion,10:58:14,00:05.3,03:33.1
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Pacing,10:58:20,00:00.9,03:34.0
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Jumping,10:58:21,00:08.0,03:42.1
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Inactive,10:58:29,00:03.5,03:45.6
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Eat/drink,10:58:32,00:02.5,03:48.1
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Vocal,10:58:35,00:03.6,03:51.7
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Eat/drink,10:58:38,00:09.6,04:01.4
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Locomotion,10:58:48,00:05.3,04:06.6
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Present,10:58:53,00:24.8,04:31.4
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Locomotion,10:59:18,00:09.4,04:40.8
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Present,10:59:27,00:01.8,04:42.6
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Selfdirect,10:59:29,00:06.2,04:48.8
+Bnp,R19081,Pair,Ab120/6,4/19/21,1.0.43.0,Locomotion,10:59:35,00:11.7,05:00.5
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,6,00:45.2,,,,,,,
+Threat/display,3,01:40.2,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,10,01:13.7,,,,,,,
+Present,3,00:39.6,,,,,,,
+Eat/drink,2,00:12.1,,,,,,,
+Pacing,1,00:00.9,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,1,00:08.0,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,1,00:06.8,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,2,00:10.4,,,,,,,
+Vocal,1,00:03.6,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

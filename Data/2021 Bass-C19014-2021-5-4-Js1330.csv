@@ -1,0 +1,87 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,Js,,,,,,,,
+Study Code:,2021bass,,,,,,,,
+Indiv ID:,C19014,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Group,,,,,,,,
+Room/Cage:,bmqh5c3,,,,,,,,
+Behavior Date:,5/4/21,,,,,,,,
+Behavior Time:,1:26 PM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,05/04/2021 13:30:25 PM,,,,,,,,
+Coding Ended:,05/04/2021 13:35:29 PM,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:30:25,00:01.5,00:01.5
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Inactive,1:30:27,00:02.7,00:04.2
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:30:29,00:03.8,00:08.1
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Locomotion,1:30:33,00:01.9,00:10.0
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:30:35,00:02.3,00:12.3
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Locomotion,1:30:38,00:02.7,00:15.0
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Vocal,1:30:40,00:02.8,00:17.7
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:30:43,00:05.9,00:23.7
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Locomotion,1:30:49,00:01.5,00:25.2
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Inactive,1:30:50,00:02.9,00:28.1
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:30:53,00:08.6,00:36.7
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Vocal,1:31:02,00:02.5,00:39.2
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:31:04,00:06.5,00:45.7
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Vocal,1:31:11,00:01.5,00:47.1
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:31:12,00:10.2,00:57.3
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Locomotion,1:31:23,00:02.7,01:00.0
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:31:25,00:16.9,01:16.9
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Locomotion,1:31:42,00:02.7,01:19.6
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:31:45,00:06.8,01:26.4
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Vocal,1:31:52,00:01.6,01:28.0
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:31:53,00:07.8,01:35.8
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Vocal,1:32:01,00:03.1,01:38.9
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:32:04,00:02.5,01:41.4
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Inactive,1:32:07,00:03.2,01:44.6
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Eat/drink,1:32:10,00:01.8,01:46.4
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:32:12,00:09.6,01:56.1
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:32:21,00:26.6,02:22.7
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Inactive,1:32:48,00:09.1,02:31.8
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:32:57,00:05.3,02:37.1
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Inactive,1:33:02,00:07.0,02:44.2
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:33:09,00:58.5,03:42.7
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Vocal,1:34:08,00:01.9,03:44.6
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:34:10,00:08.1,03:52.7
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Locomotion,1:34:18,00:03.9,03:56.6
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:34:22,00:06.4,04:03.0
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Inactive,1:34:28,00:07.4,04:10.4
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:34:36,00:13.8,04:24.2
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Inactive,1:34:49,00:11.9,04:36.1
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:35:01,00:02.7,04:38.8
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Vocal,1:35:04,00:01.1,04:39.9
+Js,C19014,Group,bmqh5c3,5/4/21,1.0.43.0,Lipsmack,1:35:05,00:21.2,05:01.2
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,7,00:44.2,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,6,00:15.5,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,1,00:01.8,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,20,03:45.2,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,7,00:14.4,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

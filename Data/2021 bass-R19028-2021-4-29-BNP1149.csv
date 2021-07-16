@@ -1,0 +1,58 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,R19028,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,Ab113/c15,,,,,,,,
+Behavior Date:,4/29/21,,,,,,,,
+Behavior Time:,11:48 AM,,,,,,,,
+Ethogram:,2021 bass.csv,,,,,,,,
+Coding Began:,4/29/21 11:49,,,,,,,,
+Coding Ended:,4/29/21 11:54,,,,,,,,
+Session duration:,0:05:01,,,,,,,,
+App Version:,1.0.44.0,,,,,,,,
+Notes:,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R19028,Pair,Ab113/c15,4/29/21,1.0.44.0,Social/play,11:49:39,00:27.6,00:27.6
+BNP,R19028,Pair,Ab113/c15,4/29/21,1.0.44.0,Scratch,11:50:07,00:14.1,00:41.8
+BNP,R19028,Pair,Ab113/c15,4/29/21,1.0.44.0,Social/play,11:50:21,00:12.7,00:54.5
+BNP,R19028,Pair,Ab113/c15,4/29/21,1.0.44.0,Scratch,11:50:33,00:05.8,01:00.3
+BNP,R19028,Pair,Ab113/c15,4/29/21,1.0.44.0,Social/play,11:50:39,01:14.5,02:14.7
+BNP,R19028,Pair,Ab113/c15,4/29/21,1.0.44.0,FearGrimace,11:51:54,00:05.2,02:19.9
+BNP,R19028,Pair,Ab113/c15,4/29/21,1.0.44.0,Vocal,11:51:59,00:03.9,02:23.8
+BNP,R19028,Pair,Ab113/c15,4/29/21,1.0.44.0,Social/play,11:52:03,00:05.1,02:28.9
+BNP,R19028,Pair,Ab113/c15,4/29/21,1.0.44.0,SocGroom,11:52:08,02:31.0,05:00.0
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,0,0:00:00,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,0,0:00:00,,,,,,,
+Aggression,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+Present,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+FearGrimace,1,00:05.2,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Scratch,2,00:19.9,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+SocGroom,1,02:31.0,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,4,01:59.9,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,1,00:03.9,,,,,,,
+Cling,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

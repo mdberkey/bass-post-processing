@@ -1,0 +1,71 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass 2021,,,,,,,,
+Indiv ID:,R19090,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Group,,,,,,,,
+Room/Cage:,Ab112/13,,,,,,,,
+Behavior Date:,4/15/21,,,,,,,,
+Behavior Time:,11:43 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/15/21 11:43,,,,,,,,
+Coding Ended:,4/15/21 11:49,,,,,,,,
+Session duration:,0:06:01,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:43:21,01:40.4,01:40.4
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Lipsmack,11:45:02,00:04.8,01:45.2
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:45:06,00:53.0,02:38.2
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Lipsmack,11:45:59,00:08.3,02:46.5
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:46:08,00:08.8,02:55.2
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Lipsmack,11:46:16,00:07.7,03:02.9
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:46:24,00:21.1,03:24.0
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:46:45,00:08.0,03:32.0
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:46:53,00:10.4,03:42.4
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Swing/spin/flip,11:47:04,00:01.5,03:43.9
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:47:05,00:53.6,04:37.6
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Pacing,11:47:59,00:11.3,04:48.9
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:48:10,00:06.8,04:55.7
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Threat/display,11:48:17,00:04.6,05:00.3
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:48:21,00:05.7,05:06.1
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Swing/spin/flip,11:48:27,00:03.5,05:09.6
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:48:31,00:03.2,05:12.8
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:48:34,00:29.2,05:42.0
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Threat/display,11:49:03,00:02.4,05:44.4
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:49:05,00:02.4,05:46.8
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Scratch,11:49:08,00:01.3,05:48.1
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:49:09,00:03.9,05:52.0
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:49:13,00:02.4,05:54.3
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:49:15,00:04.9,05:59.2
+BNP,R19090,Group,Ab112/13,4/15/21,1.0.43.0,Swing/spin/flip,11:49:20,00:01.7,06:00.9
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,8,03:30.9,,,,,,,
+Threat/display,2,00:07.0,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,7,01:42.9,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,1,00:11.3,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:01.3,,,,,,,
+Lipsmack,3,00:20.8,,,,,,,
+Swing/spin/flip,3,00:06.7,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

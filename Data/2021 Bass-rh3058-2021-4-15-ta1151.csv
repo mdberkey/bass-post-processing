@@ -1,0 +1,116 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,,,,,,,,,
+Indiv ID:,rh3058,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,a244acg3,,,,,,,,
+Behavior Date:,4/15/21,,,,,,,,
+Behavior Time:,11:50 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/15/21 11:51,,,,,,,,
+Coding Ended:,4/15/21 11:56,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Eat/drink,11:51:38,00:04.1,00:04.1
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:51:43,00:02.0,00:06.1
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:51:45,00:01.9,00:08.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:51:46,00:07.8,00:15.8
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:51:54,00:07.8,00:23.6
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:52:02,00:04.2,00:27.8
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:52:06,00:03.2,00:31.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:52:09,00:02.1,00:33.2
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:52:12,00:04.2,00:37.4
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Groom,11:52:16,00:02.6,00:40.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:52:18,00:01.7,00:41.7
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:52:20,00:08.7,00:50.4
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:52:29,00:10.6,01:01.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:52:39,00:02.7,01:03.7
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:52:42,00:04.0,01:07.6
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Tactile/explore,11:52:46,00:07.1,01:14.8
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Scratch,11:52:53,00:02.4,01:17.1
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:52:56,00:04.2,01:21.4
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:53:00,00:02.1,01:23.4
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:53:02,00:07.7,01:31.1
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Scratch,11:53:10,00:02.9,01:34.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:53:12,00:03.2,01:37.3
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Scratch,11:53:16,00:02.7,01:40.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Mantleshake,11:53:18,00:02.9,01:42.9
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:53:21,00:03.9,01:46.8
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Present,11:53:25,00:02.9,01:49.7
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:53:28,00:04.5,01:54.2
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Present,11:53:33,00:02.8,01:57.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:53:35,00:03.5,02:00.6
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:53:39,00:05.8,02:06.4
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:53:45,00:03.3,02:09.7
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Tactile/explore,11:53:48,00:05.0,02:14.7
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:53:53,00:02.1,02:16.8
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:53:55,00:07.2,02:24.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Eat/drink,11:54:03,00:03.0,02:27.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:54:06,00:08.4,02:35.4
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:54:14,00:04.2,02:39.6
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:54:18,00:02.8,02:42.4
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:54:21,00:06.2,02:48.6
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:54:27,00:01.4,02:49.9
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:54:28,00:03.4,02:53.3
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Tactile/explore,11:54:32,00:05.4,02:58.7
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:54:37,00:04.0,03:02.7
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:54:41,00:01.4,03:04.1
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Eat/drink,11:54:43,00:03.5,03:07.6
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:54:46,00:01.9,03:09.5
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Eat/drink,11:54:48,00:03.0,03:12.5
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Tactile/explore,11:54:51,00:04.5,03:17.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:54:55,00:07.1,03:24.1
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:55:03,00:02.3,03:26.4
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:55:05,00:11.2,03:37.6
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:55:16,00:04.3,03:42.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Present,11:55:20,00:04.2,03:46.1
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:55:25,00:01.8,03:47.9
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:55:26,00:03.3,03:51.2
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Groom,11:55:30,00:10.2,04:01.4
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Scratch,11:55:40,00:04.2,04:05.5
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:55:44,00:02.7,04:08.3
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:55:47,00:04.1,04:12.3
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:55:51,00:16.4,04:28.8
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:56:07,00:05.3,04:34.1
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:56:13,00:02.4,04:36.5
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:56:15,00:05.0,04:41.5
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Groom,11:56:20,00:03.4,04:45.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:56:23,00:00.7,04:45.7
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:56:24,00:03.3,04:49.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:56:27,00:03.1,04:52.0
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:56:31,00:03.2,04:55.3
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Scratch,11:56:34,00:02.3,04:57.6
+ta,rh3058,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:56:36,00:04.0,05:01.7
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,13,01:22.2,,,,,,,
+Threat/display,12,00:51.9,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,17,01:12.5,,,,,,,
+Present,3,00:09.9,,,,,,,
+Eat/drink,4,00:13.6,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,4,00:22.0,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,5,00:14.5,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,3,00:16.3,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,1,00:02.9,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,8,00:15.9,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

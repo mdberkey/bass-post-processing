@@ -1,0 +1,58 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,2021bass
+Indiv ID:,Rh2499
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,bmab2c25
+Behavior Date:,2021-5-20
+Behavior Time:,12:56 PM
+Ethogram:,2021 bass.csv
+Coding Began:,05/20/2021 12:57:34 PM
+Coding Ended:,05/20/2021 13:02:37 PM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,Rh2499,Pair,bmab2c25,2021-5-20,1.0.46.0,Inactive,12:57:34,00:00:03.4524013,00:00:03.4524013
+Js,Rh2499,Pair,bmab2c25,2021-5-20,1.0.46.0,Scratch,12:57:37,00:00:01.8033001,00:00:05.2557014
+Js,Rh2499,Pair,bmab2c25,2021-5-20,1.0.46.0,Inactive,12:57:39,00:00:36.2120730,00:00:41.4677744
+Js,Rh2499,Pair,bmab2c25,2021-5-20,1.0.46.0,Eat/drink,12:58:15,00:00:17.9715676,00:00:59.4393420
+Js,Rh2499,Pair,bmab2c25,2021-5-20,1.0.46.0,Inactive,12:58:33,00:00:48.8344366,00:01:48.2737786
+Js,Rh2499,Pair,bmab2c25,2021-5-20,1.0.46.0,Locomotion,12:59:22,00:00:01.9004245,00:01:50.1742031
+Js,Rh2499,Pair,bmab2c25,2021-5-20,1.0.46.0,Inactive,12:59:24,00:01:53.7820125,00:03:43.9562156
+Js,Rh2499,Pair,bmab2c25,2021-5-20,1.0.46.0,Tactile/explore,01:01:17,00:00:08.1959782,00:03:52.1521938
+Js,Rh2499,Pair,bmab2c25,2021-5-20,1.0.46.0,Inactive,01:01:26,00:01:09.2432906,00:05:01.3954844
+
+BehavCode, Occurrences, totalTime
+Inactive,5,00:04:31.5242140
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,1,00:00:01.9004245
+Aggression,0,00:00:00
+Eat/drink,1,00:00:17.9715676
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,1,00:00:08.1959782
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,1,00:00:01.8033001
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

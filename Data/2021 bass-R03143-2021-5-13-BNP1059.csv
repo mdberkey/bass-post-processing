@@ -1,0 +1,63 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,R03143
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,Ab140c23
+Behavior Date:,2021-5-13
+Behavior Time:,10:58 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/13/2021 10:59:32 AM
+Coding Ended:,05/13/2021 11:04:33 AM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Inactive,10:59:32,00:00:21.8290757,00:00:21.8290757
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Vocal,10:59:53,00:00:00.9288021,00:00:22.7578778
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Inactive,10:59:54,00:00:06.4396408,00:00:29.1975186
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Vocal,11:00:01,00:00:00.8644780,00:00:30.0619966
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Inactive,11:00:02,00:00:11.9479877,00:00:42.0099843
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Vocal,11:00:14,00:00:00.7795232,00:00:42.7895075
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Inactive,11:00:14,00:02:20.1695213,00:03:02.9590288
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Vocal,11:02:35,00:00:00.7359528,00:03:03.6949816
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Inactive,11:02:35,00:01:30.1848163,00:04:33.8797979
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Scratch,11:04:06,00:00:04.8685450,00:04:38.7483429
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Inactive,11:04:10,00:00:08.5338645,00:04:47.2822074
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Locomotion,11:04:19,00:00:01.8138183,00:04:49.0960257
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Inactive,11:04:21,00:00:03.8311984,00:04:52.9272241
+BNP,R03143,Single,Ab140c23,2021-5-13,1.0.46.0,Scratch,11:04:25,00:00:07.4619932,00:05:00.3892173
+
+BehavCode, Occurrences, totalTime
+Inactive,7,00:04:42.9361047
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,1,00:00:01.8138183
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:12.3305382
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,4,00:00:03.3087561
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

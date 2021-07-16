@@ -1,0 +1,81 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,,,,,,,,,
+Indiv ID:,rh3059,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,a244acg3,,,,,,,,
+Behavior Date:,4/15/21,,,,,,,,
+Behavior Time:,11:56 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/15/21 11:57,,,,,,,,
+Coding Ended:,4/15/21 12:02,,,,,,,,
+Session duration:,0:05:14,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:57:21,00:12.5,00:12.5
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:57:33,00:02.1,00:14.6
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:57:35,00:01.4,00:16.0
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:57:37,00:08.8,00:24.8
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:57:46,00:01.7,00:26.5
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:57:47,00:03.7,00:30.2
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:57:51,00:01.8,00:32.0
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:57:53,00:01.2,00:33.2
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:57:54,00:18.9,00:52.0
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:58:13,00:02.2,00:54.2
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:58:15,00:05.5,00:59.7
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:58:20,00:02.2,01:01.9
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,11:58:23,00:02.1,01:04.0
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,11:58:25,00:02.0,01:06.0
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:58:27,00:04.1,01:10.1
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:58:31,00:02.7,01:12.8
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:58:34,00:44.1,01:56.9
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:59:18,00:02.5,01:59.4
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:59:20,00:30.7,02:30.1
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:59:51,00:01.7,02:31.8
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,11:59:53,00:05.3,02:37.1
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,11:59:58,00:02.3,02:39.4
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Threat/display,12:00:00,00:04.5,02:43.9
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,12:00:05,00:05.8,02:49.7
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,12:00:10,00:02.3,02:52.0
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Locomotion,12:00:13,00:02.9,02:54.9
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,12:00:16,00:03.0,02:58.0
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,12:00:19,00:00.8,02:58.7
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,12:00:19,00:03.5,03:02.2
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,12:00:23,00:00.8,03:03.0
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,12:00:24,00:02.8,03:05.8
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,12:00:27,00:00.8,03:06.6
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,12:00:27,00:05.6,03:12.2
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Vocal,12:00:33,00:00.8,03:13.0
+ta,rh3059,Pair,a244acg3,4/15/21,1.0.43.0,Inactive,12:00:34,01:59.9,05:12.9
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,15,04:34.1,,,,,,,
+Threat/display,3,00:08.4,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,7,00:15.9,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,10,00:14.4,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

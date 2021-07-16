@@ -1,0 +1,66 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,cy0681,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,mr1552c17,,,,,,,,
+Behavior Date:,4/26/21,,,,,,,,
+Behavior Time:,12:45 PM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/26/21 12:45,,,,,,,,
+Coding Ended:,4/26/21 12:50,,,,,,,,
+Session duration:,0:05:01,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Inactive,12:45:52,00:11.0,00:11.0
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Locomotion,12:46:03,00:02.7,00:13.8
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Tactile/explore,12:46:05,00:21.9,00:35.7
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Locomotion,12:46:27,00:18.1,00:53.8
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Pacing,12:46:46,00:52.9,01:46.7
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Inactive,12:47:38,00:18.9,02:05.7
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Locomotion,12:47:57,00:06.0,02:11.7
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Inactive,12:48:03,00:10.0,02:21.7
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Groom,12:48:13,00:18.7,02:40.5
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Inactive,12:48:32,00:08.0,02:48.4
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Locomotion,12:48:40,00:14.3,03:02.8
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Pacing,12:48:54,00:16.6,03:19.4
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Inactive,12:49:11,00:05.6,03:25.0
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Scratch,12:49:17,00:01.8,03:26.8
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Inactive,12:49:19,00:05.1,03:31.9
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Groom,12:49:24,00:32.2,04:04.1
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Tactile/explore,12:49:56,00:36.1,04:40.2
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Inactive,12:50:32,00:04.1,04:44.3
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Salute,12:50:36,00:02.5,04:46.7
+ta,cy0681,Single,mr1552c17,4/26/21,1.0.43.0,Inactive,12:50:38,00:14.2,05:00.9
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,8,01:16.9,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,4,00:41.2,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,2,01:09.6,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,2,00:58.0,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:01.8,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,2,00:51.0,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,1,00:02.5,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

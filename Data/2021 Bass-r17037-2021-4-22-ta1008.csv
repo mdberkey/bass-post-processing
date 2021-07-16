@@ -1,0 +1,71 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,r17037,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,mr1520c1,,,,,,,,
+Behavior Date:,4/22/21,,,,,,,,
+Behavior Time:,10:06 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/22/21 10:08,,,,,,,,
+Coding Ended:,4/22/21 10:13,,,,,,,,
+Session duration:,0:05:10,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+Notes:,sex - being mounted by partner; grrom - being groomed by partner,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Eat/drink,10:08:44,00:09.7,00:09.7
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Locomotion,10:08:54,00:00.8,00:10.5
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Eat/drink,10:08:55,00:03.6,00:14.1
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Locomotion,10:08:59,00:01.6,00:15.7
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Eat/drink,10:09:00,00:09.3,00:25.1
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Locomotion,10:09:10,00:07.8,00:32.9
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Eat/drink,10:09:17,00:06.0,00:38.8
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Locomotion,10:09:23,00:02.0,00:40.8
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Eat/drink,10:09:25,00:33.9,01:14.8
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Locomotion,10:09:59,00:01.7,01:16.5
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Eat/drink,10:10:01,00:19.6,01:36.1
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Locomotion,10:10:21,00:05.1,01:41.2
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Social/play,10:10:26,00:03.0,01:44.3
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Sex/self/other,10:10:29,00:07.8,01:52.1
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Inactive,10:10:37,00:14.0,02:06.1
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Eat/drink,10:10:51,00:07.9,02:14.0
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Locomotion,10:10:58,00:02.1,02:16.1
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Eat/drink,10:11:01,00:03.5,02:19.6
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Locomotion,10:11:04,00:02.8,02:22.5
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Sex/self/other,10:11:07,00:19.4,02:41.9
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Locomotion,10:11:26,00:06.1,02:48.0
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Social/play,10:11:32,00:09.5,02:57.5
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,SocGroom,10:11:42,01:40.3,04:37.8
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,Locomotion,10:13:22,00:04.4,04:42.2
+ta,r17037,Pair,mr1520c1,4/22/21,1.0.43.0,SocGroom,10:13:27,00:27.5,05:09.8
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,1,00:14.0,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,2,00:27.2,,,,,,,
+Locomotion,10,00:34.6,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,8,01:33.6,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+SocGroom,2,02:07.8,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,2,00:12.6,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

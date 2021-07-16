@@ -1,0 +1,62 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,rh3060
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,mr1527c31
+Behavior Date:,2021-5-21
+Behavior Time:,09:43 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/21/2021 09:44:11 AM
+Coding Ended:,05/21/2021 09:49:13 AM
+Session duration:,00:05:02
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Inactive,09:44:11,00:00:31.5644824,00:00:31.5644824
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Locomotion,09:44:43,00:00:03.2801891,00:00:34.8446715
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Inactive,09:44:46,00:00:18.2611195,00:00:53.1057910
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Locomotion,09:45:04,00:00:01.8661712,00:00:54.9719622
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Social/play,09:45:06,00:00:06.3419966,00:01:01.3139588
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,SocGroom,09:45:12,00:00:35.0731201,00:01:36.3870789
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Locomotion,09:45:47,00:00:02.5041861,00:01:38.8912650
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Threat/display,09:45:50,00:00:01.5606692,00:01:40.4519342
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Locomotion,09:45:51,00:00:02.5482088,00:01:43.0001430
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Social/play,09:45:54,00:00:17.0652656,00:02:00.0654086
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Inactive,09:46:11,00:00:49.8144868,00:02:49.8798954
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Locomotion,09:47:01,00:00:01.5414373,00:02:51.4213327
+ta,rh3060,Pair,mr1527c31,2021-5-21,1.0.46.0,Social/play,09:47:02,00:02:09.6013134,00:05:01.0226461
+
+BehavCode, Occurrences, totalTime
+Inactive,3,00:01:39.6400887
+Threat/display,1,00:00:01.5606692
+Sex/self/other,0,00:00:00
+Locomotion,5,00:00:11.7401925
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,1,00:00:35.0731201
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,3,00:02:33.0085756
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

@@ -1,0 +1,62 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,cy0707
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,mr1527c19
+Behavior Date:,2021-5-14
+Behavior Time:,10:57 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/14/2021 10:57:54 AM
+Coding Ended:,05/14/2021 11:02:58 AM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Inactive,10:57:54,00:01:53.6687411,00:01:53.6687411
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Social/play,10:59:48,00:01:17.1694347,00:03:10.8381758
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Locomotion,11:01:05,00:00:03.1808137,00:03:14.0189895
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Vocal,11:01:08,00:00:02.8543484,00:03:16.8733379
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Social/play,11:01:11,00:00:08.6808858,00:03:25.5542237
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Locomotion,11:01:20,00:00:02.9148623,00:03:28.4690860
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Inactive,11:01:23,00:00:04.1085389,00:03:32.5776249
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Mantleshake,11:01:27,00:00:01.2217565,00:03:33.7993814
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Inactive,11:01:28,00:00:20.9001795,00:03:54.6995609
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Locomotion,11:01:49,00:00:03.0783684,00:03:57.7779293
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Inactive,11:01:52,00:00:58.5964002,00:04:56.3743295
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Locomotion,11:02:51,00:00:01.7470760,00:04:58.1214055
+ta,cy0707,Pair,mr1527c19,2021-5-14,1.0.46.0,Inactive,11:02:52,00:00:03.7936603,00:05:01.9150658
+
+BehavCode, Occurrences, totalTime
+Inactive,5,00:03:21.0675200
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,4,00:00:10.9211204
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,1,00:00:01.2217565
+Social/play,2,00:01:25.8503205
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,1,00:00:02.8543484
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

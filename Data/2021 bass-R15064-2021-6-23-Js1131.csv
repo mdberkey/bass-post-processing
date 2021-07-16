@@ -1,0 +1,63 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,2021bass
+Indiv ID:,R15064
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,ab108c43
+Behavior Date:,2021-6-23
+Behavior Time:,11:30 AM
+Ethogram:,2021 bass.csv
+Coding Began:,06/23/2021 11:31:32 AM
+Coding Ended:,06/23/2021 11:36:38 AM
+Session duration:,00:05:05
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Inactive,11:31:32,00:00:14.0788007,00:00:14.0788007
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Tactile/explore,11:31:46,00:00:04.4362794,00:00:18.5150801
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Inactive,11:31:51,00:00:14.4855878,00:00:33.0006679
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Tactile/explore,11:32:05,00:00:03.8361424,00:00:36.8368103
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Inactive,11:32:09,00:00:30.2540712,00:01:07.0908815
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Tactile/explore,11:32:39,00:00:10.5604640,00:01:17.6513455
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Eat/drink,11:32:50,00:00:02.2118992,00:01:19.8632447
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Inactive,11:32:52,00:02:08.1690096,00:03:28.0322543
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Locomotion,11:35:00,00:00:09.5678562,00:03:37.6001105
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Inactive,11:35:10,00:00:08.1516588,00:03:45.7517693
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Locomotion,11:35:18,00:00:06.3660899,00:03:52.1178592
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Pacing,11:35:24,00:00:43.0107527,00:04:35.1286119
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Inactive,11:36:07,00:00:19.0135724,00:04:54.1421843
+Js,R15064,Single,ab108c43,2021-6-23,1.0.46.0,Locomotion,11:36:26,00:00:06.8606949,00:05:01.0028792
+
+BehavCode, Occurrences, totalTime
+Inactive,6,00:03:34.1527005
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,3,00:00:22.7946410
+Aggression,0,00:00:00
+Eat/drink,1,00:00:02.2118992
+Pacing,1,00:00:43.0107527
+Present,0,00:00:00
+Tactile/explore,3,00:00:18.8328858
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

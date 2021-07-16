@@ -3,7 +3,7 @@ import glob
 from openpyxl import load_workbook
 import os
 import sys
-import mysql_db
+
 
 
 # post-processing pipeline for BASS csv files
@@ -24,6 +24,9 @@ class Pipeline:
                 self.df_list.append([df1, df2, df3, filename[5:-4]])
             except pd.errors.EmptyDataError:
                 print(filename + ' is causing problems and cannot be read. Please check it\'s formatting.')
+            except KeyError:
+                print(filename + ' is causing problems.')
+                continue
 
     def calc_cum_data(self, empty_value):
         """
@@ -77,7 +80,13 @@ class Pipeline:
             for behav, dur in zip(df_group[1]['BehavCode'], df_group[1]['Duration']):
                 # print(dur)
                 # values : frequency, total Duration, Avg. Duration, list of timestamps
-                prev_values = behav_dict[behav]
+                if behav == 'Tactile/expl':
+                    behav = 'Tactile/explore'
+                try:
+                    prev_values = behav_dict[behav]
+                except KeyError:
+                    print(behav)
+                    continue
                 new_values = []
                 if not prev_values:
                     new_values = [1, dur, dur, [dur]]
@@ -191,7 +200,10 @@ class Pipeline:
         """
         total_sec = 0
         for dur in dur_list:
-            total_sec += (int(dur[3:5]) * 60) + float(dur[6:])
+            try:
+                total_sec += (int(dur[3:5]) * 60) + float(dur[6:])
+            except ValueError:
+                total_sec += (int(dur[3:5]) * 60) + float(dur[7:])
         sec_avg = total_sec / len(dur_list)
         time_min = int(sec_avg / 60)
         time_sec = sec_avg - (time_min * 60)
@@ -206,7 +218,10 @@ class Pipeline:
         """
         total_sec = 0
         for dur in dur_list:
-            total_sec += (int(dur[3:5]) * 60) + float(dur[6:])
+            try:
+                total_sec += (int(dur[3:5]) * 60) + float(dur[6:])
+            except ValueError:
+                total_sec += (int(dur[3:5]) * 60) + float(dur[7:])
         time_min = int(total_sec / 60)
         time_sec = total_sec - (time_min * 60)
         return f'00:{time_min:02d}:{time_sec:04.1f}'
@@ -220,7 +235,10 @@ class Pipeline:
         """
         max_dur = [0, '']
         for dur_tup in dur_tup_list:
-            dur_sec = (int(dur_tup[1][3:5]) * 60) + float(dur_tup[1][6:])
+            try:
+                dur_sec = (int(dur_tup[1][3:5]) * 60) + float(dur_tup[1][6:])
+            except ValueError:
+                dur_sec = (int(dur_tup[1][3:5]) * 60) + float(dur_tup[1][7:])
             if dur_sec > max_dur[0]:
                 max_dur = [dur_sec, dur_tup]
         return max_dur[1]

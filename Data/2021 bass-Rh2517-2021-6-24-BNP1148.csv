@@ -1,0 +1,61 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,Rh2517
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,Ab119c10
+Behavior Date:,2021-6-24
+Behavior Time:,11:42 AM
+Ethogram:,2021 bass.csv
+Coding Began:,06/24/2021 11:48:45 AM
+Coding Ended:,06/24/2021 11:53:47 AM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Inactive,11:48:45,00:00:07.1725929,00:00:07.1725929
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Vocal,11:48:52,00:00:02.1818327,00:00:09.3544256
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Inactive,11:48:55,00:01:13.3196241,00:01:22.6740497
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Vocal,11:50:08,00:00:00.6470756,00:01:23.3211253
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Threat/display,11:50:09,00:00:01.9149427,00:01:25.2360680
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Inactive,11:50:10,00:00:10.8792445,00:01:36.1153125
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Threat/display,11:50:21,00:00:01.7273626,00:01:37.8426751
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Inactive,11:50:23,00:00:22.3518492,00:02:00.1945243
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Vocal,11:50:45,00:00:01.5227061,00:02:01.7172304
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Inactive,11:50:47,00:00:43.6217074,00:02:45.3389378
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,SocGroom,11:51:31,00:00:06.5936218,00:02:51.9325596
+BNP,Rh2517,Pair,Ab119c10,2021-6-24,1.0.46.0,Inactive,11:51:37,00:02:08.6945118,00:05:00.6270714
+
+BehavCode, Occurrences, totalTime
+Inactive,6,00:04:46.0395299
+Threat/display,2,00:00:03.6423053
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,1,00:00:06.5936218
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,3,00:00:04.3516144
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

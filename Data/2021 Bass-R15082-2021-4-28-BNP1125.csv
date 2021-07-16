@@ -1,0 +1,75 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,R15082,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,Ab117c11,,,,,,,,
+Behavior Date:,4/28/21,,,,,,,,
+Behavior Time:,11:25 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/28/21 11:25,,,,,,,,
+Coding Ended:,4/28/21 11:30,,,,,,,,
+Session duration:,0:05:07,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Locomotion,11:25:44,00:10.1,00:10.1
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:25:54,00:43.3,00:53.4
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Locomotion,11:26:37,00:03.1,00:56.5
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Vocal,11:26:40,00:01.3,00:57.7
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:26:41,00:01.5,00:59.2
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Vocal,11:26:43,00:01.1,01:00.4
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:26:44,00:03.4,01:03.7
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Vocal,11:26:47,00:07.8,01:11.5
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Locomotion,11:26:55,00:01.4,01:13.0
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:26:57,00:07.2,01:20.2
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Locomotion,11:27:04,00:02.6,01:22.7
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:27:06,01:11.0,02:33.7
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Locomotion,11:28:17,00:01.5,02:35.2
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:28:19,00:00.2,02:35.4
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:28:19,00:20.7,02:56.2
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Scratch,11:28:40,00:03.3,02:59.5
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Vocal,11:28:43,00:01.3,03:00.8
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:28:44,00:14.8,03:15.6
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Locomotion,11:28:59,00:08.4,03:24.0
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Pacing,11:29:08,00:36.6,04:00.5
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:29:44,00:03.4,04:04.0
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Locomotion,11:29:48,00:13.8,04:17.7
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Pacing,11:30:01,00:05.8,04:23.5
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:30:07,00:04.3,04:27.7
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Locomotion,11:30:11,00:08.1,04:35.9
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Pacing,11:30:19,00:05.9,04:41.8
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:30:25,00:19.8,05:01.6
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Locomotion,11:30:45,00:02.7,05:04.3
+BNP,R15082,Single,Ab117c11,4/28/21,1.0.43.0,Inactive,11:30:48,00:01.9,05:06.2
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,12,03:11.5,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,9,00:51.7,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,3,00:48.2,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:03.3,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,4,00:11.5,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

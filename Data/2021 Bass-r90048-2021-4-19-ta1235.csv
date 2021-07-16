@@ -1,0 +1,68 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,r90048,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,a242c9,,,,,,,,
+Behavior Date:,4/19/21,,,,,,,,
+Behavior Time:,12:34 PM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/19/21 12:35,,,,,,,,
+Coding Ended:,4/19/21 12:40,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+Notes:,"""groom"" - being groomed by partner",,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Inactive,12:35:29,00:03.2,00:03.2
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Locomotion,12:35:32,00:04.9,00:08.1
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Tactile/explore,12:35:37,00:08.3,00:16.3
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Yawn,12:35:45,00:03.2,00:19.6
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Inactive,12:35:48,00:21.4,00:41.0
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Locomotion,12:36:10,00:02.5,00:43.5
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Inactive,12:36:12,00:23.6,01:07.1
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Vocal,12:36:36,00:01.7,01:08.8
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Inactive,12:36:37,00:04.9,01:13.7
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Vocal,12:36:42,00:01.3,01:15.0
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Inactive,12:36:44,00:15.3,01:30.3
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Locomotion,12:36:59,00:09.8,01:40.1
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Vocal,12:37:09,00:00.6,01:40.7
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Tactile/explore,12:37:09,00:04.2,01:44.9
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Yawn,12:37:13,00:02.7,01:47.7
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Inactive,12:37:16,00:17.0,02:04.6
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Social/play,12:37:33,02:02.0,04:06.6
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,SocGroom,12:39:35,00:18.9,04:25.5
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Inactive,12:39:54,00:24.2,04:49.7
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Locomotion,12:40:18,00:04.7,04:54.4
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Threat/display,12:40:23,00:01.7,04:56.1
+ta,r90048,Pair,a242c9,4/19/21,1.0.43.0,Inactive,12:40:25,00:04.8,05:00.9
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,8,01:54.4,,,,,,,
+Threat/display,1,00:01.7,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,4,00:21.8,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,2,00:12.5,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,2,00:06.0,,,,,,,
+SocGroom,1,00:18.9,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,1,02:02.0,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,3,00:03.7,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

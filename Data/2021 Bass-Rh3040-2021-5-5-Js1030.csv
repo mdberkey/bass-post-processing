@@ -1,0 +1,152 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,Js,,,,,,,,
+Study Code:,2021bass,,,,,,,,
+Indiv ID:,Rh3040,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,bmqh2c9,,,,,,,,
+Behavior Date:,5/5/21,,,,,,,,
+Behavior Time:,10:28 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,5/5/21 10:30,,,,,,,,
+Coding Ended:,5/5/21 10:35,,,,,,,,
+Session duration:,0:05:04,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:30:31,00:02.8,00:02.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:30:34,00:10.8,00:13.6
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:30:45,00:03.3,00:16.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Vocal,10:30:48,00:01.2,00:18.0
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:30:49,00:01.2,00:19.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:30:50,00:03.1,00:22.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:30:53,00:03.0,00:25.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:30:57,00:02.6,00:28.0
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:30:59,00:02.3,00:30.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:31:01,00:02.2,00:32.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:31:04,00:02.5,00:34.9
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:31:06,00:02.2,00:37.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Vocal,10:31:08,00:02.0,00:39.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:31:10,00:02.5,00:41.6
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Vocal,10:31:13,00:02.5,00:44.0
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:31:15,00:01.9,00:46.0
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:31:17,00:03.6,00:49.5
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Vocal,10:31:21,00:02.7,00:52.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:31:23,00:01.7,00:53.9
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:31:25,00:02.7,00:56.6
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:31:28,00:03.1,00:59.6
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:31:31,00:01.6,01:01.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:31:32,00:01.3,01:02.5
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:31:34,00:01.7,01:04.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:31:35,00:03.4,01:07.7
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:31:39,00:01.7,01:09.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:31:40,00:03.3,01:12.7
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Scratch,10:31:44,00:02.1,01:14.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:31:46,00:01.7,01:16.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:31:48,00:02.8,01:19.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:31:50,00:03.2,01:22.5
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:31:54,00:02.4,01:24.9
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:31:56,00:03.4,01:28.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Scratch,10:31:59,00:02.0,01:30.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:32:01,00:01.9,01:32.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:32:03,00:01.6,01:33.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:32:05,00:03.7,01:37.5
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:32:09,00:01.8,01:39.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:32:10,00:02.9,01:42.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:32:13,00:01.3,01:43.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Scratch,10:32:15,00:03.3,01:46.7
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:32:18,00:01.4,01:48.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:32:19,00:02.4,01:50.5
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:32:22,00:03.9,01:54.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:32:26,00:01.2,01:55.7
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Vocal,10:32:27,00:01.3,01:57.0
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:32:28,00:04.5,02:01.5
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:32:33,00:05.8,02:07.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:32:38,00:01.6,02:08.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:32:40,00:03.8,02:12.6
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Sex/self/other,10:32:44,00:01.6,02:14.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:32:45,00:07.4,02:21.6
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:32:53,00:04.5,02:26.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:32:57,00:01.6,02:27.7
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:32:59,00:02.5,02:30.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:33:01,00:04.8,02:35.0
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:33:06,00:02.0,02:36.9
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:33:08,00:01.2,02:38.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Sex/self/other,10:33:09,00:02.1,02:40.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:33:11,00:02.5,02:42.7
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:33:14,00:02.6,02:45.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Scratch,10:33:16,00:04.8,02:50.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:33:21,00:03.0,02:53.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:33:24,00:02.5,02:55.6
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:33:27,00:04.7,03:00.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:33:31,00:02.7,03:03.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:33:34,00:01.1,03:04.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Vocal,10:33:35,00:01.6,03:05.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:33:37,00:01.6,03:07.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:33:39,00:03.1,03:10.5
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:33:42,00:01.3,03:11.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Vocal,10:33:43,00:01.2,03:13.0
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:33:44,00:02.4,03:15.5
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:33:47,00:06.4,03:21.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Jumping,10:33:53,00:02.3,03:24.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:33:55,00:06.2,03:30.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:34:02,00:02.4,03:32.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:34:04,00:08.5,03:41.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:34:12,00:03.8,03:45.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:34:16,00:01.2,03:46.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:34:18,00:02.5,03:48.9
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:34:20,00:01.7,03:50.6
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:34:22,00:01.7,03:52.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:34:23,00:03.0,03:55.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Jumping,10:34:26,00:03.1,03:58.4
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:34:30,00:02.7,04:01.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:34:32,00:03.7,04:04.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Jumping,10:34:36,00:03.7,04:08.5
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:34:40,00:01.8,04:10.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:34:41,00:01.8,04:12.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Jumping,10:34:43,00:02.0,04:14.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:34:45,00:02.9,04:17.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:34:48,00:06.8,04:23.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:34:55,00:01.5,04:25.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Sex/self/other,10:34:56,00:03.5,04:28.9
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:35:00,00:03.9,04:32.7
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:35:04,00:08.2,04:40.9
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Locomotion,10:35:12,00:01.1,04:42.0
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Vocal,10:35:13,00:01.1,04:43.1
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:35:14,00:01.7,04:44.8
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Jumping,10:35:16,00:04.5,04:49.3
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:35:20,00:01.9,04:51.2
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:35:22,00:05.5,04:56.7
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Inactive,10:35:28,00:01.0,04:57.7
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Sex/self/other,10:35:29,00:04.2,05:01.9
+Js,Rh3040,Pair,bmqh2c9,5/5/21,1.0.43.0,Threat/display,10:35:33,00:00.9,05:02.7
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,24,01:20.0,,,,,,,
+Threat/display,32,01:35.0,,,,,,,
+Sex/self/other,4,00:11.4,,,,,,,
+Locomotion,29,01:14.9,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,5,00:15.6,,,,,,,
+Scratch,4,00:12.2,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,8,00:13.6,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

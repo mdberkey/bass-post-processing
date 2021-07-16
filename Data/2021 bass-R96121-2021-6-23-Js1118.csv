@@ -1,0 +1,65 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,2021bass
+Indiv ID:,R96121
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,ab108c45
+Behavior Date:,2021-6-23
+Behavior Time:,11:17 AM
+Ethogram:,2021 bass.csv
+Coding Began:,06/23/2021 11:18:33 AM
+Coding Ended:,06/23/2021 11:23:38 AM
+Session duration:,00:05:04
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Inactive,11:18:33,00:00:07.8164320,00:00:07.8164320
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,SocGroom,11:18:41,00:00:01.7561587,00:00:09.5725907
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Inactive,11:18:43,00:00:03.0478738,00:00:12.6204645
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Scratch,11:18:46,00:00:01.7173676,00:00:14.3378321
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Inactive,11:18:48,00:00:25.0671243,00:00:39.4049564
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Yawn,11:19:13,00:00:01.4843237,00:00:40.8892801
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Inactive,11:19:14,00:00:03.5151803,00:00:44.4044604
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Locomotion,11:19:18,00:00:04.3896783,00:00:48.7941387
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Inactive,11:19:22,00:02:15.7132059,00:03:04.5073446
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Scratch,11:21:38,00:00:02.0817068,00:03:06.5890514
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Inactive,11:21:40,00:01:11.2248046,00:04:17.8138560
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Locomotion,11:22:51,00:00:04.2653509,00:04:22.0792069
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Inactive,11:22:55,00:00:30.7123243,00:04:52.7915312
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Scratch,11:23:26,00:00:04.0008362,00:04:56.7923674
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Inactive,11:23:30,00:00:03.2509888,00:05:00.0433562
+Js,R96121,Pair,ab108c45,2021-6-23,1.0.46.0,Groom,11:23:33,00:00:01.3243604,00:05:01.3677166
+
+BehavCode, Occurrences, totalTime
+Inactive,8,00:04:40.3479340
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,2,00:00:08.6550292
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,3,00:00:07.7999106
+Groom,1,00:00:01.3243604
+Rock,0,00:00:00
+Yawn,1,00:00:01.4843237
+SocGroom,1,00:00:01.7561587
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

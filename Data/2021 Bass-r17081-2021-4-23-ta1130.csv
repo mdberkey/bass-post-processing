@@ -1,0 +1,79 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,r17081,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,a263bc7,,,,,,,,
+Behavior Date:,4/23/21,,,,,,,,
+Behavior Time:,11:30 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/23/21 11:30,,,,,,,,
+Coding Ended:,4/23/21 11:35,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+Notes:,groom - self ,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Inactive,11:30:49,00:06.6,00:06.6
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Locomotion,11:30:55,00:07.8,00:14.3
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Eat/drink,11:31:03,00:44.7,00:59.0
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Locomotion,11:31:48,00:07.7,01:06.7
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Inactive,11:31:55,00:04.3,01:11.1
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Locomotion,11:32:00,00:01.2,01:12.3
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Eat/drink,11:32:01,00:17.1,01:29.4
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Locomotion,11:32:18,00:02.9,01:32.4
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Inactive,11:32:21,00:15.7,01:48.0
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Salute,11:32:37,00:08.6,01:56.6
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Locomotion,11:32:45,00:03.1,01:59.7
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Eat/drink,11:32:48,00:18.3,02:18.0
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Locomotion,11:33:07,00:12.6,02:30.5
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Eat/drink,11:33:19,00:04.7,02:35.2
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Inactive,11:33:24,00:06.4,02:41.6
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Locomotion,11:33:30,00:02.6,02:44.2
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Inactive,11:33:33,00:04.0,02:48.2
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Scratch,11:33:37,00:02.5,02:50.7
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Locomotion,11:33:39,00:07.9,02:58.6
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Eat/drink,11:33:47,00:13.0,03:11.5
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Locomotion,11:34:00,00:04.0,03:15.5
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Inactive,11:34:04,00:07.6,03:23.2
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Locomotion,11:34:12,00:03.0,03:26.2
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Inactive,11:34:15,00:08.8,03:35.0
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Scratch,11:34:24,00:04.3,03:39.3
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Salute,11:34:28,00:11.4,03:50.7
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Groom,11:34:39,00:29.7,04:20.3
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Inactive,11:35:09,00:02.6,04:22.9
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Scratch,11:35:12,00:02.5,04:25.4
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Inactive,11:35:14,00:12.6,04:38.0
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Groom,11:35:27,00:11.9,04:50.0
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Inactive,11:35:39,00:08.0,04:57.9
+ta,r17081,Pair,a263bc7,4/23/21,1.0.43.0,Groom,11:35:47,00:04.4,05:02.3
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,10,01:16.5,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,10,00:52.8,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,5,01:37.8,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,3,00:09.3,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,3,00:46.0,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,2,00:20.0,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,
