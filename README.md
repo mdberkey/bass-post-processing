@@ -4,10 +4,27 @@
 ![platform](https://img.shields.io/badge/Linux%20-red.svg)
 ![Version](https://img.shields.io/badge/Version-0.1-green)
 
+## Setup:
+1. Clone repo
+```
+git clone https://github.com/mdberkey/bass-post-processing.git
+```
+2. Create python virtual environment that program runs
+```
+python3 -m venv Desktop/bass/venv
+```
+3. Install modules on venv with requirements.txt
+```
+source Desktop/bass/venv/bin/activate && pip install -r requirements.txt
+```
+
 ## Usage:
 1. Add all properly formatted CSV files to Data folder.
-2. Run 'pipeline' executable.
-3. Processed data is stored in Output folder
+2. Run program through venv
+```
+cd Desktop/bass && source venv/bin/activate && python 2021_bass_pipeline.py
+```
+4. Processed data is stored in Output folder
 
 ## Command Line Usage:
 1. Add all properly formatted CSV files to Data folder.
