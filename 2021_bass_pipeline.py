@@ -475,7 +475,7 @@ if __name__ == '__main__':
     bass_pipe.create_excel(data, args[2])
     print('Done')
     # SQL Database
-    print('Exporting data to SQL database... ')
-    connection = mysql_db.connect_to_db()
-    mysql_db.write_to_db(data, connection)
+    #print('Exporting data to SQL database... ')
+    #connection = mysql_db.connect_to_db()
+    #mysql_db.write_to_db(data, connection)
     print('Pipeline complete.')
