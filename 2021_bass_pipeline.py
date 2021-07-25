@@ -3,6 +3,7 @@ import glob
 from openpyxl import load_workbook
 import os
 import sys
+import sorting
 
 
 
@@ -491,6 +492,9 @@ if __name__ == '__main__':
     print('Exporting new data to excel files...   ', end='')
     bass_pipe.export_to_excel(data, args[2])
     bass_pipe.create_excel(data, args[2])
+    print('Done')
+    print('Quicksorting behavior frequencies...   ', end='')
+    sorting.main(data, bass_pipe.HEADERS)
     print('Done')
     # SQL Database
     #print('Exporting data to SQL database... ')
