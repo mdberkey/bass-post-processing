@@ -1,0 +1,60 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,cy0924
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,mr1552c21
+Behavior Date:,2021-5-21
+Behavior Time:,10:22 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/21/2021 10:23:17 AM
+Coding Ended:,05/21/2021 10:28:20 AM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Inactive,10:23:17,00:01:27.3678057,00:01:27.3678057
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Locomotion,10:24:44,00:00:05.5418534,00:01:32.9096591
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Inactive,10:24:50,00:01:11.8102505,00:02:44.7199096
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Locomotion,10:26:02,00:00:02.9440488,00:02:47.6639584
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Inactive,10:26:05,00:00:19.6021268,00:03:07.2660852
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Tactile/explore,10:26:24,00:00:35.8011168,00:03:43.0672020
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Groom,10:27:00,00:00:19.4397560,00:04:02.5069580
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Locomotion,10:27:19,00:00:01.9524096,00:04:04.4593676
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Inactive,10:27:21,00:00:27.4069131,00:04:31.8662807
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Locomotion,10:27:49,00:00:02.1816958,00:04:34.0479765
+ta,cy0924,Pair,mr1552c21,2021-5-21,1.0.46.0,Inactive,10:27:51,00:00:27.4037486,00:05:01.4517251
+
+BehavCode, Occurrences, totalTime
+Inactive,5,00:03:53.5908447
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,4,00:00:12.6200076
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,1,00:00:35.8011168
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,1,00:00:19.4397560
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

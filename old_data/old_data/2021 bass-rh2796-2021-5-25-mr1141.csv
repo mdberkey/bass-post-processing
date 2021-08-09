@@ -1,0 +1,68 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,mr
+Study Code:,2021 bass
+Indiv ID:,rh2796
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,c436c17
+Behavior Date:,2021-5-25
+Behavior Time:,11:39 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/25/2021 11:41:25 AM
+Coding Ended:,05/25/2021 11:46:28 AM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Inactive,11:41:25,00:00:05.5992828,00:00:05.5992828
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Locomotion,11:41:30,00:00:10.3853347,00:00:15.9846175
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Threat/display,11:41:41,00:00:03.2929108,00:00:19.2775283
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Locomotion,11:41:44,00:00:05.1870295,00:00:24.4645578
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Inactive,11:41:49,00:00:26.8232137,00:00:51.2877715
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Scratch,11:42:16,00:00:11.6252583,00:01:02.9130298
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Groom,11:42:27,00:00:10.3455532,00:01:13.2585830
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Locomotion,11:42:38,00:00:04.2935367,00:01:17.5521197
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Inactive,11:42:42,00:01:02.1279884,00:02:19.6801081
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Locomotion,11:43:44,00:00:03.0544891,00:02:22.7345972
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Inactive,11:43:47,00:01:14.8723132,00:03:37.6069104
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Locomotion,11:45:02,00:00:30.2361119,00:04:07.8430223
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Inactive,11:45:32,00:00:14.6115356,00:04:22.4545579
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Tactile/explore,11:45:47,00:00:07.1460846,00:04:29.6006425
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Inactive,11:45:54,00:00:06.7605400,00:04:36.3611825
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Tactile/explore,11:46:01,00:00:05.4259696,00:04:41.7871521
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Locomotion,11:46:06,00:00:04.1594646,00:04:45.9466167
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Inactive,11:46:10,00:00:10.7052892,00:04:56.6519059
+mr,rh2796,Pair,c436c17,2021-5-25,1.0.46.0,Locomotion,11:46:21,00:00:04.8260433,00:05:01.4779492
+
+BehavCode, Occurrences, totalTime
+Inactive,7,00:03:21.5001629
+Threat/display,1,00:00:03.2929108
+Sex/self/other,0,00:00:00
+Locomotion,7,00:01:02.1420098
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,2,00:00:12.5720542
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,1,00:00:11.6252583
+Groom,1,00:00:10.3455532
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

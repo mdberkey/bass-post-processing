@@ -1,0 +1,80 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,rhbd87,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,cb36c9,,,,,,,,
+Behavior Date:,4/20/21,,,,,,,,
+Behavior Time:,11:08 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/20/21 11:10,,,,,,,,
+Coding Ended:,4/20/21 11:15,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:10:07,00:40.1,00:40.1
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Scratch,11:10:48,00:01.9,00:42.0
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Locomotion,11:10:49,00:08.4,00:50.3
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Threat/display,11:10:58,00:05.3,00:55.6
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:11:03,00:06.2,01:01.9
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Locomotion,11:11:09,00:07.5,01:09.3
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:11:17,00:02.7,01:12.0
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Scratch,11:11:19,00:07.8,01:19.8
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:11:27,00:08.0,01:27.8
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Locomotion,11:11:35,00:07.1,01:34.9
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:11:42,00:16.5,01:51.4
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Locomotion,11:11:59,00:09.0,02:00.4
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Tactile/explore,11:12:08,00:04.0,02:04.4
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:12:12,00:10.9,02:15.3
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Mantleshake,11:12:23,00:02.1,02:17.4
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Locomotion,11:12:25,00:04.1,02:21.5
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:12:29,00:07.2,02:28.6
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Salute,11:12:36,00:05.9,02:34.5
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:12:42,00:02.6,02:37.2
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Scratch,11:12:45,00:04.2,02:41.4
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Salute,11:12:49,00:05.2,02:46.6
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:12:54,00:06.0,02:52.6
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Threat/display,11:13:00,00:05.6,02:58.2
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:13:06,00:34.0,03:32.2
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Locomotion,11:13:40,00:13.0,03:45.3
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Pacing,11:13:53,00:13.6,03:58.8
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:14:06,00:05.8,04:04.6
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Threat/display,11:14:12,00:04.3,04:08.9
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:14:16,00:03.7,04:12.6
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Scratch,11:14:20,00:03.5,04:16.1
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Locomotion,11:14:24,00:05.4,04:21.5
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:14:29,00:06.5,04:28.0
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Yawn,11:14:35,00:02.3,04:30.2
+mr,rhbd87,Pair,cb36c9,4/20/21,1.0.43.0,Inactive,11:14:38,00:30.9,05:01.2
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,14,03:01.0,,,,,,,
+Threat/display,3,00:15.2,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,7,00:54.5,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,1,00:13.6,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,1,00:04.0,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,4,00:17.4,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,1,00:02.3,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,1,00:02.1,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,2,00:11.1,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

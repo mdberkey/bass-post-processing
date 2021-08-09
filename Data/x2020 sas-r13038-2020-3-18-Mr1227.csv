@@ -1,0 +1,55 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Mr
+Study Code:,Sass
+Indiv ID:,r13038
+Obs Site:,Blank Park Zoo
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-3-18
+Behavior Time:,12:26 PM
+Ethogram:,2020 sas.csv
+Coding Began:,03/18/2020 12:27:39 PM
+Coding Ended:,03/18/2020 12:32:41 PM
+Session duration:,00:05:02
+App Version:,1.0.39.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Mr,r13038,Sunny,,2020-3-18,1.0.39.0,Scratch,12:27:39,00:00:04.4745286,00:00:04.4745286
+Mr,r13038,Sunny,,2020-3-18,1.0.39.0,Locomotion,12:27:43,00:00:09.6680645,00:00:14.1425931
+Mr,r13038,Sunny,,2020-3-18,1.0.39.0,Inactive,12:27:53,00:00:02.3965606,00:00:16.5391537
+Mr,r13038,Sunny,,2020-3-18,1.0.39.0,Locomotion,12:27:55,00:00:02.3707726,00:00:18.9099263
+Mr,r13038,Sunny,,2020-3-18,1.0.39.0,Display,12:27:58,00:00:03.9028463,00:00:22.8127726
+Mr,r13038,Sunny,,2020-3-18,1.0.39.0,Inactive,12:28:02,00:00:28.6625937,00:00:51.4753663
+Mr,r13038,Sunny,,2020-3-18,1.0.39.0,Locomotion,12:28:30,00:00:02.0813417,00:00:53.5567080
+Mr,r13038,Sunny,,2020-3-18,1.0.39.0,Inactive,12:28:32,00:01:41.1596049,00:02:34.7163129
+Mr,r13038,Sunny,,2020-3-18,1.0.39.0,Scratch,12:30:14,00:00:03.1068586,00:02:37.8231715
+Mr,r13038,Sunny,,2020-3-18,1.0.39.0,Inactive,12:30:17,00:02:23.2233239,00:05:01.0464954
+
+BehavCode, Occurrences, totalTime
+Inactive,4,00:04:35.4420831
+Threat,0,00:00:00
+Eat/drink,0,00:00:00
+Locomotion,3,00:00:14.1201788
+Display,1,00:00:03.9028463
+Tactile/explore,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Lipsmack,0,00:00:00
+Jumping,0,00:00:00
+Fear grimace,0,00:00:00
+Groom,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:07.5813872
+Hair pluck,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+Self-direct,0,00:00:00
+Head toss,0,00:00:00
+Mantle shake,0,00:00:00
+Self bite,0,00:00:00
+Salute,0,00:00:00
+Vocal,0,00:00:00
+Other,0,00:00:00

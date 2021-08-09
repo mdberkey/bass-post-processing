@@ -1,0 +1,66 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,R18041
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,Ab108c23
+Behavior Date:,2021-6-23
+Behavior Time:,12:08 PM
+Ethogram:,2021 bass.csv
+Coding Began:,06/23/2021 12:09:22 PM
+Coding Ended:,06/23/2021 12:14:24 PM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Tactile/explore,12:09:22,00:00:45.5532138,00:00:45.5532138
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Locomotion,12:10:08,00:00:02.0266263,00:00:47.5798401
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Inactive,12:10:10,00:00:02.5937534,00:00:50.1735935
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Locomotion,12:10:13,00:00:04.6475115,00:00:54.8211050
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Tactile/explore,12:10:17,00:01:53.4031788,00:02:48.2242838
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Locomotion,12:12:11,00:00:04.7917281,00:02:53.0160119
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Tactile/explore,12:12:16,00:00:04.1548586,00:02:57.1708705
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Locomotion,12:12:20,00:00:06.7361765,00:03:03.9070470
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Pacing,12:12:26,00:00:09.8767278,00:03:13.7837748
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Threat/display,12:12:36,00:00:02.1922635,00:03:15.9760383
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Inactive,12:12:38,00:00:25.5341291,00:03:41.5101674
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Locomotion,12:13:04,00:00:01.3112278,00:03:42.8213952
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Tactile/explore,12:13:05,00:00:43.3764152,00:04:26.1978104
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Locomotion,12:13:49,00:00:02.3992050,00:04:28.5970154
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Inactive,12:13:51,00:00:03.6773919,00:04:32.2744073
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Locomotion,12:13:55,00:00:05.1953834,00:04:37.4697907
+BNP,R18041,Single,Ab108c23,2021-6-23,1.0.46.0,Tactile/explore,12:14:00,00:00:22.9498679,00:05:00.4196586
+
+BehavCode, Occurrences, totalTime
+Inactive,3,00:00:31.8052744
+Threat/display,1,00:00:02.1922635
+Sex/self/other,0,00:00:00
+Locomotion,7,00:00:27.1078586
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,1,00:00:09.8767278
+Present,0,00:00:00
+Tactile/explore,5,00:03:49.4375343
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

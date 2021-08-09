@@ -1,0 +1,66 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,r17067,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,a263bc4,,,,,,,,
+Behavior Date:,4/21/21,,,,,,,,
+Behavior Time:,12:34 PM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/21/21 12:34,,,,,,,,
+Coding Ended:,4/21/21 12:40,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Locomotion,12:34:57,00:05.1,00:05.1
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Pacing,12:35:02,00:26.3,00:31.3
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Inactive,12:35:29,00:12.1,00:43.4
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Locomotion,12:35:41,00:02.9,00:46.3
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Inactive,12:35:44,01:27.1,02:13.4
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Locomotion,12:37:11,00:10.3,02:23.7
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Inactive,12:37:21,00:03.3,02:27.0
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Scratch,12:37:24,00:02.0,02:29.0
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Inactive,12:37:26,00:04.6,02:33.6
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Locomotion,12:37:31,00:05.6,02:39.2
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Inactive,12:37:37,00:02.8,02:41.9
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Vocal,12:37:39,00:03.8,02:45.7
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Inactive,12:37:43,00:01.9,02:47.6
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Locomotion,12:37:45,00:08.8,02:56.4
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Pacing,12:37:54,00:17.5,03:13.9
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Vocal,12:38:11,00:01.6,03:15.5
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Inactive,12:38:13,00:10.7,03:26.2
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Locomotion,12:38:24,00:06.1,03:32.3
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Pacing,12:38:30,01:15.1,04:47.4
+ta,r17067,Single,a263bc4,4/21/21,1.0.43.0,Inactive,12:39:45,00:13.6,05:01.0
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,8,02:16.1,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,6,00:38.7,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,3,01:58.9,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:02.0,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,2,00:05.3,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

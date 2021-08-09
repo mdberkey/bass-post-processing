@@ -1,0 +1,62 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,bNP
+Study Code:,Bass2021
+Indiv ID:,R21004
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Group
+Room/Cage:,Ab126c1
+Behavior Date:,2021-6-15
+Behavior Time:,11:42 AM
+Ethogram:,2021 bass.csv
+Coding Began:,06/15/2021 11:43:24 AM
+Coding Ended:,06/15/2021 11:48:25 AM
+Session duration:,00:05:00
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Social/play,11:43:24,00:00:08.9049919,00:00:08.9049919
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Locomotion,11:43:33,00:00:02.8048069,00:00:11.7097988
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Selfdirect,11:43:36,00:00:28.3716778,00:00:40.0814766
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Locomotion,11:44:04,00:00:05.1863168,00:00:45.2677934
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Social/play,11:44:10,00:00:36.4735107,00:01:21.7413041
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Locomotion,11:44:46,00:00:00.6432794,00:01:22.3845835
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Inactive,11:44:47,00:00:04.6534088,00:01:27.0379923
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Social/play,11:44:51,00:02:28.7764134,00:03:55.8144057
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Eat/drink,11:47:20,00:00:04.7885219,00:04:00.6029276
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Social/play,11:47:25,00:00:45.1475515,00:04:45.7504791
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Tactile/explore,11:48:10,00:00:03.6023480,00:04:49.3528271
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Locomotion,11:48:14,00:00:05.0907036,00:04:54.4435307
+bNP,R21004,Group,Ab126c1,2021-6-15,1.0.46.0,Tactile/explore,11:48:19,00:00:05.7241011,00:05:00.1676318
+
+BehavCode, Occurrences, totalTime
+Inactive,1,00:00:04.6534088
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,4,00:00:13.7251067
+Aggression,0,00:00:00
+Eat/drink,1,00:00:04.7885219
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,2,00:00:09.3264491
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,4,00:03:59.3024675
+Salute,0,00:00:00
+Selfdirect,1,00:00:28.3716778
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

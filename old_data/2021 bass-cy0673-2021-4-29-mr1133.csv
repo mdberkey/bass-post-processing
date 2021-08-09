@@ -1,0 +1,67 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,mr
+Study Code:,2021 bass
+Indiv ID:,cy0673
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,cb27c13
+Behavior Date:,2021-4-29
+Behavior Time:,11:32 AM
+Ethogram:,2021 bass.csv
+Coding Began:,04/29/2021 11:33:38 AM
+Coding Ended:,04/29/2021 11:38:41 AM
+Session duration:,00:05:03
+App Version:,1.0.44.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Locomotion,11:33:38,00:00:07.2513102,00:00:07.2513102
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Yawn,11:33:45,00:00:02.4058125,00:00:09.6571227
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Inactive,11:33:48,00:00:12.9220598,00:00:22.5791825
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Scratch,11:34:00,00:00:05.3731488,00:00:27.9523313
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Locomotion,11:34:06,00:00:04.2446263,00:00:32.1969576
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Tactile/expl,11:34:10,00:00:11.6247193,00:00:43.8216769
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Lipsmack,11:34:22,00:00:04.4086656,00:00:48.2303425
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Tactile/expl,11:34:26,00:00:05.9810561,00:00:54.2113986
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Locomotion,11:34:32,00:00:03.5325443,00:00:57.7439429
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Scratch,11:34:36,00:00:04.1167233,00:01:01.8606662
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Inactive,11:34:40,00:00:39.9493424,00:01:41.8100086
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Threat/display,11:35:20,00:00:09.5818308,00:01:51.3918394
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Locomotion,11:35:29,00:00:24.2438434,00:02:15.6356828
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Mantleshake,11:35:53,00:00:04.5791249,00:02:20.2148077
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Inactive,11:35:58,00:00:39.2642984,00:02:59.4791061
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Lipsmack,11:36:37,00:00:14.7752990,00:03:14.2544051
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Locomotion,11:36:52,00:00:19.7846283,00:03:34.0390334
+mr,cy0673,Pair,cb27c13,2021-4-29,1.0.44.0,Inactive,11:37:12,00:01:27.2844405,00:05:01.3234739
+
+BehavCode, Occurrences, totalTime
+Inactive,4,00:02:59.4201411
+Threat/display,1,00:00:09.5818308
+Sex/self/other,0,00:00:00
+Locomotion,5,00:00:59.0569525
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/expl,2,00:00:17.6057754
+Jumping,0,00:00:00
+FearGrimace,0,00:00:00
+Lipsmack,2,00:00:19.1839646
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:09.4898721
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,1,00:00:02.4058125
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,1,00:00:04.5791249
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

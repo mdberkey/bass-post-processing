@@ -1,0 +1,29 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,SAs
+Indiv ID:,Rh2519
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-1-13
+Behavior Time:,02:38 PM
+Ethogram:,2020 sas.csv
+Coding Began:,01/13/2020 14:39:08 PM
+Coding Ended:,01/13/2020 14:44:09 PM
+Session duration:,00:05:01
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,Rh2519,Sunny,,2020-1-13,1.0.37.0,Inactive,02:39:08,00:00:04.8956298,00:00:04.8956298
+Bnp,Rh2519,Sunny,,2020-1-13,1.0.37.0,Threat,02:39:13,00:00:32.1740411,00:00:37.0696709
+Bnp,Rh2519,Sunny,,2020-1-13,1.0.37.0,Inactive,02:39:45,00:00:17.3727706,00:00:54.4424415
+Bnp,Rh2519,Sunny,,2020-1-13,1.0.37.0,Tactile/explore,02:40:02,00:00:15.5435310,00:01:09.9859725
+Bnp,Rh2519,Sunny,,2020-1-13,1.0.37.0,Inactive,02:40:18,00:01:02.8231399,00:02:12.8091124
+Bnp,Rh2519,Sunny,,2020-1-13,1.0.37.0,Threat,02:41:21,00:00:11.1543038,00:02:23.9634162
+Bnp,Rh2519,Sunny,,2020-1-13,1.0.37.0,Yawn,02:41:32,00:00:03.6723265,00:02:27.6357427
+Bnp,Rh2519,Sunny,,2020-1-13,1.0.37.0,Inactive,02:41:35,00:00:24.1561435,00:02:51.7918862
+Bnp,Rh2519,Sunny,,2020-1-13,1.0.37.0,Hair pluck,02:42:00,00:00:39.3918252,00:03:31.1837114
+Bnp,Rh2519,Sunny,,2020-1-13,1.0.37.0,Inactive,02:42:39,00:01:29.3446252,00:05:00.5283366

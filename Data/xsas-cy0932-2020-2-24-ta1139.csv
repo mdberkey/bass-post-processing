@@ -1,0 +1,32 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,sas
+Indiv ID:,cy0932
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-2-24
+Behavior Time:,11:38 AM
+Ethogram:,2020 sas.csv
+Coding Began:,02/24/2020 11:39:05 AM
+Coding Ended:,02/24/2020 11:44:10 AM
+Session duration:,00:05:04
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Inactive,11:39:05,00:00:45.3346658,00:00:45.3346658
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Scratch,11:39:51,00:00:04.2249889,00:00:49.5596547
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Inactive,11:39:55,00:00:07.6241673,00:00:57.1838220
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Scratch,11:40:03,00:00:02.1428322,00:00:59.3266542
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Inactive,11:40:05,00:00:06.2604787,00:01:05.5871329
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Groom,11:40:11,00:00:15.8641114,00:01:21.4512443
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Inactive,11:40:27,00:01:23.5692713,00:02:45.0205156
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Scratch,11:41:50,00:00:05.2293822,00:02:50.2498978
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Inactive,11:41:56,00:00:23.7486167,00:03:13.9985145
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Scratch,11:42:19,00:00:05.2212980,00:03:19.2198125
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Inactive,11:42:25,00:00:49.4179710,00:04:08.6377835
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Scratch,11:43:14,00:00:01.7324327,00:04:10.3702162
+ta,cy0932,Sunny,,2020-2-24,1.0.37.0,Inactive,11:43:16,00:00:52.1574203,00:05:02.5276365

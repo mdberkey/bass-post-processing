@@ -1,0 +1,28 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,SAs2020
+Indiv ID:,Rh2850
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-2-28
+Behavior Time:,11:52 AM
+Ethogram:,2020 sas.csv
+Coding Began:,02/28/2020 11:52:48 AM
+Coding Ended:,02/28/2020 11:57:49 AM
+Session duration:,00:05:01
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,Rh2850,Sunny,,2020-2-28,1.0.37.0,Jumping,11:52:48,00:02:03.0344516,00:02:03.0344516
+Bnp,Rh2850,Sunny,,2020-2-28,1.0.37.0,Inactive,11:54:51,00:00:14.9533468,00:02:17.9877984
+Bnp,Rh2850,Sunny,,2020-2-28,1.0.37.0,Jumping,11:55:06,00:01:43.5539839,00:04:01.5417823
+Bnp,Rh2850,Sunny,,2020-2-28,1.0.37.0,Inactive,11:56:49,00:00:04.5362220,00:04:06.0780043
+Bnp,Rh2850,Sunny,,2020-2-28,1.0.37.0,Locomotion,11:56:54,00:00:12.3674791,00:04:18.4454834
+Bnp,Rh2850,Sunny,,2020-2-28,1.0.37.0,Jumping,11:57:06,00:00:07.9658364,00:04:26.4113198
+Bnp,Rh2850,Sunny,,2020-2-28,1.0.37.0,Swing/spin/flip,11:57:14,00:00:03.7432494,00:04:30.1545692
+Bnp,Rh2850,Sunny,,2020-2-28,1.0.37.0,Jumping,11:57:18,00:00:27.7230994,00:04:57.8776686
+Bnp,Rh2850,Sunny,,2020-2-28,1.0.37.0,Inactive,11:57:45,00:00:02.6881891,00:05:00.5658577

@@ -1,0 +1,28 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,sas
+Indiv ID:,cy0619
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-2-26
+Behavior Time:,10:30 AM
+Ethogram:,2020 sas.csv
+Coding Began:,02/26/2020 10:31:35 AM
+Coding Ended:,02/26/2020 10:36:40 AM
+Session duration:,00:05:04
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy0619,Sunny,,2020-2-26,1.0.37.0,Inactive,10:31:35,00:00:13.4006136,00:00:13.4006136
+ta,cy0619,Sunny,,2020-2-26,1.0.37.0,Yawn,10:31:49,00:00:01.6793180,00:00:15.0799316
+ta,cy0619,Sunny,,2020-2-26,1.0.37.0,Inactive,10:31:50,00:01:17.2817274,00:01:32.3616590
+ta,cy0619,Sunny,,2020-2-26,1.0.37.0,Tactile/explore,10:33:08,00:01:56.3148464,00:03:28.6765054
+ta,cy0619,Sunny,,2020-2-26,1.0.37.0,Inactive,10:35:04,00:00:00.6106253,00:03:29.2871307
+ta,cy0619,Sunny,,2020-2-26,1.0.37.0,Inactive,10:35:04,00:01:18.8410876,00:04:48.1282183
+ta,cy0619,Sunny,,2020-2-26,1.0.37.0,Lipsmack,10:36:23,00:00:05.8623947,00:04:53.9906130
+ta,cy0619,Sunny,,2020-2-26,1.0.37.0,Inactive,10:36:29,00:00:05.0124470,00:04:59.0030600
+ta,cy0619,Sunny,,2020-2-26,1.0.37.0,Lipsmack,10:36:34,00:00:04.1296975,00:05:03.1327575

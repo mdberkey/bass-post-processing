@@ -1,0 +1,77 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,2021bass
+Indiv ID:,Rh3093
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,bmqq1c7
+Behavior Date:,2021-5-18
+Behavior Time:,02:24 PM
+Ethogram:,2021 bass.csv
+Coding Began:,05/18/2021 14:25:22 PM
+Coding Ended:,05/18/2021 14:30:25 PM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Locomotion,02:25:22,00:00:04.8477091,00:00:04.8477091
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:25:27,00:00:30.9021481,00:00:35.7498572
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Locomotion,02:25:57,00:00:04.9694499,00:00:40.7193071
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:26:02,00:00:03.3389287,00:00:44.0582358
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Scratch,02:26:06,00:00:01.8778578,00:00:45.9360936
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:26:08,00:00:17.4034931,00:01:03.3395867
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Locomotion,02:26:25,00:00:04.5711274,00:01:07.9107141
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:26:30,00:00:07.4039786,00:01:15.3146927
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Scratch,02:26:37,00:00:05.5020528,00:01:20.8167455
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:26:43,00:00:23.6315383,00:01:44.4482838
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Locomotion,02:27:06,00:00:01.5405714,00:01:45.9888552
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:27:08,00:00:16.7557047,00:02:02.7445599
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Tactile/explore,02:27:24,00:00:02.6641632,00:02:05.4087231
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Locomotion,02:27:27,00:00:01.0650971,00:02:06.4738202
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:27:28,00:00:02.3344271,00:02:08.8082473
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Locomotion,02:27:31,00:00:04.3812563,00:02:13.1895036
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:27:35,00:00:05.7024593,00:02:18.8919629
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Groom,02:27:41,00:00:19.5835820,00:02:38.4755449
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:28:00,00:00:17.6722440,00:02:56.1477889
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Groom,02:28:18,00:00:08.0963298,00:03:04.2441187
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:28:26,00:00:02.2069713,00:03:06.4510900
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Groom,02:28:28,00:00:19.3527916,00:03:25.8038816
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:28:48,00:00:45.8780621,00:04:11.6819437
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Locomotion,02:29:33,00:00:01.5508754,00:04:13.2328191
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:29:35,00:00:00.3563715,00:04:13.5891906
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:29:35,00:00:38.8103931,00:04:52.3995837
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Groom,02:30:14,00:00:05.4908549,00:04:57.8904386
+Js,Rh3093,Pair,bmqq1c7,2021-5-18,1.0.46.0,Inactive,02:30:20,00:00:03.4900055,00:05:01.3804441
+
+BehavCode, Occurrences, totalTime
+Inactive,14,00:03:35.8867254
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,7,00:00:22.9260866
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,1,00:00:02.6641632
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:07.3799106
+Groom,4,00:00:52.5235583
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

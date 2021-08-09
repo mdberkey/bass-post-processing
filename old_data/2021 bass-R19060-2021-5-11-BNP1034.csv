@@ -1,0 +1,65 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,R19060
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Group
+Room/Cage:,Ab113c21
+Behavior Date:,2021-5-11
+Behavior Time:,10:33 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/11/2021 10:34:12 AM
+Coding Ended:,05/11/2021 10:39:13 AM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Social/play,10:34:12,00:00:18.8408847,00:00:18.8408847
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,SocGroom,10:34:30,00:00:01.1107696,00:00:19.9516543
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Social/play,10:34:31,00:02:46.9498901,00:03:06.9015444
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Locomotion,10:37:18,00:00:22.8062362,00:03:29.7077806
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Inactive,10:37:41,00:00:10.2424757,00:03:39.9502563
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Tactile/explore,10:37:51,00:00:22.8910110,00:04:02.8412673
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Locomotion,10:38:14,00:00:05.4205192,00:04:08.2617865
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Groom,10:38:20,00:00:07.8941187,00:04:16.1559052
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Inactive,10:38:28,00:00:04.9881255,00:04:21.1440307
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Tactile/explore,10:38:33,00:00:06.5137665,00:04:27.6577972
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Eat/drink,10:38:39,00:00:13.2148908,00:04:40.8726880
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Locomotion,10:38:52,00:00:07.5061339,00:04:48.3788219
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Eat/drink,10:39:00,00:00:06.3692593,00:04:54.7480812
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Scratch,10:39:06,00:00:01.9751302,00:04:56.7232114
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Inactive,10:39:08,00:00:02.9259228,00:04:59.6491342
+BNP,R19060,Group,Ab113c21,2021-5-11,1.0.46.0,Social/play,10:39:11,00:00:01.1674355,00:05:00.8165697
+
+BehavCode, Occurrences, totalTime
+Inactive,3,00:00:18.1565240
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,3,00:00:35.7328893
+Aggression,0,00:00:00
+Eat/drink,2,00:00:19.5841501
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,2,00:00:29.4047775
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,1,00:00:01.9751302
+Groom,1,00:00:07.8941187
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,1,00:00:01.1107696
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,3,00:03:06.9582103
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

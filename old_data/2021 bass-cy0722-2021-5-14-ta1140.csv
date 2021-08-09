@@ -1,0 +1,63 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,cy0722
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,mr1527c27
+Behavior Date:,2021-5-14
+Behavior Time:,11:40 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/14/2021 11:40:49 AM
+Coding Ended:,05/14/2021 11:45:54 AM
+Session duration:,00:05:04
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Inactive,11:40:49,00:00:51.4830028,00:00:51.4830028
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Vocal,11:41:41,00:00:03.3199384,00:00:54.8029412
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Inactive,11:41:44,00:00:15.7135204,00:01:10.5164616
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Scratch,11:42:00,00:00:01.0974424,00:01:11.6139040
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Inactive,11:42:01,00:00:17.0173880,00:01:28.6312920
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Tactile/explore,11:42:18,00:00:11.2962328,00:01:39.9275248
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Inactive,11:42:29,00:00:16.5032431,00:01:56.4307679
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Scratch,11:42:46,00:00:01.5829961,00:01:58.0137640
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Inactive,11:42:47,00:00:16.4412258,00:02:14.4549898
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Vocal,11:43:04,00:00:01.3818213,00:02:15.8368111
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Inactive,11:43:05,00:01:06.7014098,00:03:22.5382209
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Locomotion,11:44:12,00:00:17.3236079,00:03:39.8618288
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Locomotion,11:44:29,00:00:27.4735568,00:04:07.3353856
+ta,cy0722,Pair,mr1527c27,2021-5-14,1.0.46.0,Inactive,11:44:56,00:00:56.0162317,00:05:03.3516173
+
+BehavCode, Occurrences, totalTime
+Inactive,7,00:03:59.8760216
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,2,00:00:44.7971647
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,1,00:00:11.2962328
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:02.6804385
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,2,00:00:04.7017597
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

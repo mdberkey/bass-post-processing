@@ -1,0 +1,55 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,mr
+Study Code:,2021 bass
+Indiv ID:,r17086
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,c436c19
+Behavior Date:,2021-5-25
+Behavior Time:,10:54 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/25/2021 10:55:08 AM
+Coding Ended:,05/25/2021 11:00:12 AM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,r17086,Pair,c436c19,2021-5-25,1.0.46.0,Inactive,10:55:08,00:02:57.3684809,00:02:57.3684809
+mr,r17086,Pair,c436c19,2021-5-25,1.0.46.0,Locomotion,10:58:05,00:00:05.5466980,00:03:02.9151789
+mr,r17086,Pair,c436c19,2021-5-25,1.0.46.0,Inactive,10:58:11,00:00:42.3696947,00:03:45.2848736
+mr,r17086,Pair,c436c19,2021-5-25,1.0.46.0,Scratch,10:58:53,00:00:03.9061681,00:03:49.1910417
+mr,r17086,Pair,c436c19,2021-5-25,1.0.46.0,Inactive,10:58:57,00:00:20.8936067,00:04:10.0846484
+mr,r17086,Pair,c436c19,2021-5-25,1.0.46.0,Other,10:59:18,00:00:51.7949077,00:05:01.8795561
+
+BehavCode, Occurrences, totalTime
+Inactive,3,00:04:00.6317823
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,1,00:00:05.5466980
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,1,00:00:03.9061681
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,1,00:00:51.7949077

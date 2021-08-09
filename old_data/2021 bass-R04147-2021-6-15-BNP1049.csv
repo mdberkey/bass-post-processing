@@ -1,0 +1,58 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,R04147
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,Ab110c3
+Behavior Date:,2021-6-15
+Behavior Time:,10:49 AM
+Ethogram:,2021 bass.csv
+Coding Began:,06/15/2021 10:49:59 AM
+Coding Ended:,06/15/2021 10:55:24 AM
+Session duration:,00:05:24
+App Version:,1.0.46.0
+Notes:,Other = bizarre posture & floating limb
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R04147,Single,Ab110c3,2021-6-15,1.0.46.0,Inactive,10:49:59,00:00:11.5400001,00:00:11.5400001
+BNP,R04147,Single,Ab110c3,2021-6-15,1.0.46.0,Other,10:50:10,00:01:07.7534354,00:01:19.2934355
+BNP,R04147,Single,Ab110c3,2021-6-15,1.0.46.0,Inactive,10:51:18,00:00:06.8372046,00:01:26.1306401
+BNP,R04147,Single,Ab110c3,2021-6-15,1.0.46.0,Scratch,10:51:25,00:00:02.7482397,00:01:28.8788798
+BNP,R04147,Single,Ab110c3,2021-6-15,1.0.46.0,Selfbite,10:51:28,00:00:03.1852487,00:01:32.0641285
+BNP,R04147,Single,Ab110c3,2021-6-15,1.0.46.0,Inactive,10:51:31,00:02:45.1117524,00:04:17.1758809
+BNP,R04147,Single,Ab110c3,2021-6-15,1.0.46.0,Scratch,10:54:16,00:00:06.0242283,00:04:23.2001092
+BNP,R04147,Single,Ab110c3,2021-6-15,1.0.46.0,Other,10:54:22,00:00:20.0462379,00:04:43.2463471
+BNP,R04147,Single,Ab110c3,2021-6-15,1.0.46.0,Inactive,10:54:42,00:00:17.5595598,00:05:00.8059069
+
+BehavCode, Occurrences, totalTime
+Inactive,4,00:03:21.0485169
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:08.7724680
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,1,00:00:03.1852487
+Other,2,00:01:27.7996733

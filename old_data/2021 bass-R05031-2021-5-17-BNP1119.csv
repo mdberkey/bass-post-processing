@@ -1,0 +1,56 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,R05031
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Group
+Room/Cage:,Ab119c17
+Behavior Date:,2021-5-17
+Behavior Time:,11:17 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/17/2021 11:19:02 AM
+Coding Ended:,05/17/2021 11:24:03 AM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R05031,Group,Ab119c17,2021-5-17,1.0.46.0,Threat/display,11:19:02,00:00:08.8069687,00:00:08.8069687
+BNP,R05031,Group,Ab119c17,2021-5-17,1.0.46.0,Vocal,11:19:10,00:00:02.4040365,00:00:11.2110052
+BNP,R05031,Group,Ab119c17,2021-5-17,1.0.46.0,Threat/display,11:19:13,00:00:02.3624893,00:00:13.5734945
+BNP,R05031,Group,Ab119c17,2021-5-17,1.0.46.0,Inactive,11:19:15,00:00:11.2409802,00:00:24.8144747
+BNP,R05031,Group,Ab119c17,2021-5-17,1.0.46.0,Threat/display,11:19:26,00:00:01.5185488,00:00:26.3330235
+BNP,R05031,Group,Ab119c17,2021-5-17,1.0.46.0,Vocal,11:19:28,00:00:01.0447651,00:00:27.3777886
+BNP,R05031,Group,Ab119c17,2021-5-17,1.0.46.0,Inactive,11:19:29,00:04:33.3328394,00:05:00.7106280
+
+BehavCode, Occurrences, totalTime
+Inactive,2,00:04:44.5738196
+Threat/display,3,00:00:12.6880068
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,2,00:00:03.4488016
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

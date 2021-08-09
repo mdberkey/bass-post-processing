@@ -1,0 +1,65 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,cy0890
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,mr1523c23
+Behavior Date:,2021-5-26
+Behavior Time:,09:50 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/26/2021 09:50:45 AM
+Coding Ended:,05/26/2021 09:55:49 AM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Groom,09:50:45,00:00:17.8645168,00:00:17.8645168
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Inactive,09:51:03,00:00:28.0491444,00:00:45.9136612
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Groom,09:51:31,00:00:22.5949236,00:01:08.5085848
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Eat/drink,09:51:53,00:00:34.2028277,00:01:42.7114125
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Inactive,09:52:28,00:01:06.2047448,00:02:48.9161573
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Groom,09:53:34,00:00:09.8060850,00:02:58.7222423
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Inactive,09:53:44,00:00:05.7132038,00:03:04.4354461
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Vocal,09:53:49,00:00:00.9922102,00:03:05.4276563
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Inactive,09:53:50,00:00:20.5420146,00:03:25.9696709
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Vocal,09:54:11,00:00:00.9661101,00:03:26.9357810
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Inactive,09:54:12,00:00:22.8815194,00:03:49.8173004
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Groom,09:54:35,00:00:17.1362448,00:04:06.9535452
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Vocal,09:54:52,00:00:02.3803665,00:04:09.3339117
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Inactive,09:54:54,00:00:06.1254107,00:04:15.4593224
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Vocal,09:55:00,00:00:00.9381406,00:04:16.3974630
+ta,cy0890,Pair,mr1523c23,2021-5-26,1.0.46.0,Inactive,09:55:01,00:00:45.9390764,00:05:02.3365394
+
+BehavCode, Occurrences, totalTime
+Inactive,7,00:03:15.4551141
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Aggression,0,00:00:00
+Eat/drink,1,00:00:34.2028277
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,4,00:01:07.4017702
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,4,00:00:05.2768274
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

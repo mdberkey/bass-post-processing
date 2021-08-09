@@ -1,0 +1,69 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,r12052
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,a261c15
+Behavior Date:,2021-5-3
+Behavior Time:,11:22 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/03/2021 11:23:38 AM
+Coding Ended:,05/03/2021 11:29:05 AM
+Session duration:,00:05:26
+App Version:,1.0.44.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Inactive,11:23:38,00:00:19.2635590,00:00:19.2635590
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Locomotion,11:23:58,00:00:01.1923987,00:00:20.4559577
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Vocal,11:23:59,00:00:01.4712627,00:00:21.9272204
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Threat/display,11:24:00,00:00:02.0642979,00:00:23.9915183
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Locomotion,11:24:02,00:00:07.6620450,00:00:31.6535633
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Vocal,11:24:10,00:00:02.2955906,00:00:33.9491539
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Locomotion,11:24:12,00:00:05.0987701,00:00:39.0479240
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Inactive,11:24:17,00:00:10.3165179,00:00:49.3644419
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Locomotion,11:24:28,00:00:07.0868842,00:00:56.4513261
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Pacing,11:24:35,00:00:44.5740586,00:01:41.0253847
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Vocal,11:25:19,00:00:01.8806831,00:01:42.9060678
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Threat/display,11:25:21,00:00:03.8372044,00:01:46.7432722
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Inactive,11:25:25,00:00:04.2895986,00:01:51.0328708
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Locomotion,11:25:29,00:00:06.3559879,00:01:57.3888587
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Pacing,11:25:36,00:00:38.4332796,00:02:35.8221383
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Inactive,11:26:14,00:00:10.5779684,00:02:46.4001067
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Locomotion,11:26:25,00:00:09.4936122,00:02:55.8937189
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Pacing,11:26:34,00:01:14.6742317,00:04:10.5679506
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Vocal,11:27:49,00:00:01.3425930,00:04:11.9105436
+ta,r12052,Single,a261c15,2021-5-3,1.0.44.0,Pacing,11:27:50,00:01:12.9151675,00:05:24.8257111
+
+BehavCode, Occurrences, totalTime
+Inactive,4,00:00:44.4476439
+Threat/display,2,00:00:05.9015023
+Sex/self/other,0,00:00:00
+Locomotion,6,00:00:36.8896981
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,4,00:03:50.5967374
+Present,0,00:00:00
+Tactile/expl,0,00:00:00
+Jumping,0,00:00:00
+FearGrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,4,00:00:06.9901294
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

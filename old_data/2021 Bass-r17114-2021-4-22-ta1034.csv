@@ -1,0 +1,81 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,r17114,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Group,,,,,,,,
+Room/Cage:,mr1520c13,,,,,,,,
+Behavior Date:,4/22/21,,,,,,,,
+Behavior Time:,10:33 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/22/21 10:34,,,,,,,,
+Coding Ended:,4/22/21 10:39,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+Notes:,sex - mounted by r17049; groom - grooming r17049; groom - being groomed by r17049,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Eat/drink,10:34:01,00:08.8,00:08.8
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Locomotion,10:34:10,00:03.0,00:11.8
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Inactive,10:34:13,00:08.3,00:20.1
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Social/play,10:34:21,00:03.9,00:24.0
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Locomotion,10:34:25,00:01.4,00:25.4
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Eat/drink,10:34:26,00:07.3,00:32.7
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Social/play,10:34:33,00:05.6,00:38.3
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Sex/self/other,10:34:39,00:10.4,00:48.7
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Social/play,10:34:49,00:02.4,00:51.1
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,SocGroom,10:34:52,00:11.8,01:02.9
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Locomotion,10:35:04,00:01.9,01:04.8
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Inactive,10:35:06,00:08.9,01:13.8
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Social/play,10:35:14,00:11.4,01:25.2
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Tactile/explore,10:35:26,00:02.1,01:27.3
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Scratch,10:35:28,00:04.8,01:32.0
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Inactive,10:35:33,00:14.4,01:46.5
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Sex/self/other,10:35:47,00:10.1,01:56.5
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Inactive,10:35:57,00:03.1,01:59.6
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Eat/drink,10:36:00,00:07.3,02:06.9
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Social/play,10:36:08,00:02.7,02:09.6
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,SocGroom,10:36:10,00:09.7,02:19.3
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Sex/self/other,10:36:20,00:07.9,02:27.2
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,SocGroom,10:36:28,00:36.6,03:03.7
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Scratch,10:37:04,00:03.2,03:06.9
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Social/play,10:37:08,00:10.2,03:17.1
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Inactive,10:37:18,00:03.8,03:20.8
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Locomotion,10:37:22,00:04.4,03:25.2
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Sex/self/other,10:37:26,00:07.0,03:32.2
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Social/play,10:37:33,00:03.3,03:35.5
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Scratch,10:37:36,00:02.5,03:38.0
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,SocGroom,10:37:39,00:56.3,04:34.3
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Locomotion,10:38:35,00:03.7,04:38.0
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Eat/drink,10:38:39,00:11.7,04:49.7
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Tactile/explore,10:38:50,00:05.4,04:55.1
+ta,r17114,Group,mr1520c13,4/22/21,1.0.43.0,Scratch,10:38:56,00:06.0,05:01.1
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,5,00:38.5,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,4,00:35.3,,,,,,,
+Locomotion,5,00:14.3,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,4,00:35.2,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,2,00:07.4,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,4,00:16.4,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+SocGroom,4,01:54.4,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,7,00:39.7,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

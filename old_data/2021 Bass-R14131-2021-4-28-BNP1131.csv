@@ -1,0 +1,79 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,R14131,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,Ab117c13,,,,,,,,
+Behavior Date:,4/28/21,,,,,,,,
+Behavior Time:,11:30 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/28/21 11:31,,,,,,,,
+Coding Ended:,4/28/21 11:36,,,,,,,,
+Session duration:,0:05:00,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:31:57,00:07.8,00:07.8
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Present,11:32:04,00:11.6,00:19.4
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:32:16,00:03.0,00:22.4
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:32:19,00:04.9,00:27.3
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:32:24,00:04.0,00:31.3
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:32:28,00:11.0,00:42.3
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:32:39,00:07.4,00:49.7
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Pacing,11:32:46,00:13.7,01:03.4
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:33:00,00:01.8,01:05.2
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:33:02,00:07.3,01:12.5
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Pacing,11:33:09,00:29.1,01:41.7
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:33:38,00:08.1,01:49.8
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:33:46,00:04.5,01:54.3
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:33:51,00:03.5,01:57.8
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:33:54,00:02.1,01:59.9
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:33:57,00:05.0,02:04.9
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:34:02,00:09.9,02:14.8
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Present,11:34:11,00:05.8,02:20.6
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:34:17,00:15.9,02:36.6
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:34:33,00:03.4,02:40.0
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:34:37,00:08.9,02:48.9
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:34:46,00:05.5,02:54.4
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Pacing,11:34:51,00:16.0,03:10.5
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Threat/display,11:35:07,00:03.6,03:14.1
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:35:11,00:03.5,03:17.5
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:35:14,00:02.4,03:19.9
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:35:17,00:10.8,03:30.8
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:35:27,00:15.6,03:46.4
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Locomotion,11:35:43,00:02.8,03:49.2
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Eat/drink,11:35:46,00:02.7,03:51.9
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:35:48,00:32.6,04:24.5
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Scratch,11:36:21,00:03.7,04:28.2
+BNP,R14131,Single,Ab117c13,4/28/21,1.0.43.0,Inactive,11:36:25,00:31.4,04:59.6
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,12,02:21.1,,,,,,,
+Threat/display,1,00:03.6,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,13,01:12.2,,,,,,,
+Present,2,00:17.3,,,,,,,
+Eat/drink,1,00:02.7,,,,,,,
+Pacing,3,00:58.8,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:03.7,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

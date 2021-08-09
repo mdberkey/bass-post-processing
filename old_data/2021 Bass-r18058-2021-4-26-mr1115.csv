@@ -1,0 +1,81 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,r18058,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,cb22c14,,,,,,,,
+Behavior Date:,4/26/21,,,,,,,,
+Behavior Time:,11:14 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/26/21 11:15,,,,,,,,
+Coding Ended:,4/26/21 11:20,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Tactile/explore,11:15:44,00:04.4,00:04.4
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:15:49,00:07.2,00:11.6
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Tactile/explore,11:15:56,00:04.2,00:15.8
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:16:00,00:05.0,00:20.7
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Inactive,11:16:05,00:04.7,00:25.5
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:16:10,00:07.8,00:33.3
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:16:18,00:05.8,00:39.1
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:16:23,00:08.1,00:47.2
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Tactile/explore,11:16:31,00:10.3,00:57.6
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:16:42,00:03.6,01:01.1
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:16:45,00:20.7,01:21.8
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:17:06,00:04.7,01:26.5
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:17:11,00:06.5,01:32.9
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:17:17,00:05.1,01:38.0
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Threat/display,11:17:22,00:03.7,01:41.7
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:17:26,00:02.9,01:44.6
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:17:29,00:03.6,01:48.2
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:17:32,00:03.9,01:52.1
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:17:36,00:10.4,02:02.5
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Pacing,11:17:47,00:16.8,02:19.3
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:18:04,00:08.4,02:27.7
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:18:12,00:18.4,02:46.1
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:18:30,00:08.5,02:54.6
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Tactile/explore,11:18:39,00:05.3,02:59.9
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Inactive,11:18:44,00:10.0,03:09.8
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:18:54,00:07.6,03:17.4
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Threat/display,11:19:02,00:09.6,03:27.0
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:19:11,00:05.6,03:32.6
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:19:17,00:11.6,03:44.2
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:19:28,00:09.6,03:53.7
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Salute,11:19:38,00:07.3,04:01.0
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:19:45,00:13.7,04:14.7
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Inactive,11:19:59,00:10.8,04:25.5
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Locomotion,11:20:10,00:13.9,04:39.3
+mr,r18058,Single,cb22c14,4/26/21,1.0.43.0,Pacing,11:20:24,00:22.4,05:01.7
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,3,00:25.5,,,,,,,
+Threat/display,2,00:13.2,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,12,01:53.7,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,2,00:39.2,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,4,00:24.2,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,12,01:25.9,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

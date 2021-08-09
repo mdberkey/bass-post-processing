@@ -1,0 +1,66 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,js,,,,,,,,
+Study Code:,2021bass,,,,,,,,
+Indiv ID:,rh2994,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,bmqh1c1,,,,,,,,
+Behavior Date:,4/23/21,,,,,,,,
+Behavior Time:,12:10 PM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/23/21 12:13,,,,,,,,
+Coding Ended:,4/23/21 12:18,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:13:21,00:20.1,00:20.1
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:13:41,00:01.5,00:21.6
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:13:43,00:01.4,00:23.0
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:13:44,00:03.8,00:26.8
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:13:48,00:25.9,00:52.8
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:14:14,00:02.2,00:55.0
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:14:16,00:08.9,01:03.9
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Vocal,12:14:25,00:01.7,01:05.6
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:14:27,00:01.5,01:07.1
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Vocal,12:14:28,00:01.9,01:09.0
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:14:30,01:14.4,02:23.3
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:15:44,00:07.9,02:31.2
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Threat/display,12:15:52,00:03.3,02:34.5
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:15:56,00:22.5,02:57.1
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Scratch,12:16:18,00:01.9,02:59.0
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:16:20,00:07.5,03:06.4
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:16:27,00:08.4,03:14.8
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:16:36,00:33.2,03:48.0
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Tactile/explore,12:17:09,00:02.1,03:50.2
+js,rh2994,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:17:11,01:11.2,05:01.4
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,10,04:26.6,,,,,,,
+Threat/display,1,00:03.3,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,5,00:23.8,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,1,00:02.1,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:01.9,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,2,00:03.6,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

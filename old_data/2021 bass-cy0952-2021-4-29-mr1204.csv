@@ -1,0 +1,51 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,mr
+Study Code:,2021 bass
+Indiv ID:,cy0952
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,cb27c7
+Behavior Date:,2021-4-29
+Behavior Time:,12:04 PM
+Ethogram:,2021 bass.csv
+Coding Began:,04/29/2021 12:04:34 PM
+Coding Ended:,04/29/2021 12:09:37 PM
+Session duration:,00:05:02
+App Version:,1.0.44.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,cy0952,Pair,cb27c7,2021-4-29,1.0.44.0,Inactive,12:04:34,00:04:41.6930422,00:04:41.6930422
+mr,cy0952,Pair,cb27c7,2021-4-29,1.0.44.0,Groom,12:09:16,00:00:19.4248104,00:05:01.1178526
+
+BehavCode, Occurrences, totalTime
+Inactive,1,00:04:41.6930422
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/expl,0,00:00:00
+Jumping,0,00:00:00
+FearGrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,1,00:00:19.4248104
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

@@ -1,0 +1,65 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,r17058,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,mr1520c11,,,,,,,,
+Behavior Date:,4/22/21,,,,,,,,
+Behavior Time:,11:27 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/22/21 11:28,,,,,,,,
+Coding Ended:,4/22/21 11:33,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+Notes:,groom - self,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Inactive,11:28:06,00:30.2,00:30.2
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Locomotion,11:28:36,00:09.6,00:39.8
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Pacing,11:28:45,00:11.1,00:51.0
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Inactive,11:28:57,00:23.9,01:14.9
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Locomotion,11:29:20,00:07.4,01:22.3
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Tactile/explore,11:29:28,00:19.3,01:41.6
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Groom,11:29:47,00:05.9,01:47.5
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Inactive,11:29:53,01:24.5,03:12.0
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Locomotion,11:31:18,00:06.5,03:18.6
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Pacing,11:31:24,00:11.8,03:30.3
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Inactive,11:31:36,00:05.8,03:36.1
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Groom,11:31:42,00:07.3,03:43.5
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Inactive,11:31:49,00:07.4,03:50.9
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Locomotion,11:31:56,00:01.6,03:52.5
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Inactive,11:31:58,00:04.4,03:56.8
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Yawn,11:32:02,00:02.2,03:59.0
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Inactive,11:32:05,00:15.2,04:14.3
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Social/play,11:32:20,00:06.6,04:20.8
+ta,r17058,Pair,mr1520c11,4/22/21,1.0.43.0,Inactive,11:32:26,00:40.5,05:01.3
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,8,03:31.9,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,4,00:25.1,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,2,00:22.9,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,1,00:19.3,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,1,00:02.2,,,,,,,
+Groom,2,00:13.3,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,1,00:06.6,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

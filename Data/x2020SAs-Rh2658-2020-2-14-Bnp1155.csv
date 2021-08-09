@@ -1,0 +1,27 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,2020SAs
+Indiv ID:,Rh2658
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-2-14
+Behavior Time:,11:54 AM
+Ethogram:,2020 sas.csv
+Coding Began:,02/14/2020 11:55:45 AM
+Coding Ended:,02/14/2020 12:00:46 PM
+Session duration:,00:05:01
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,Rh2658,Sunny,,2020-2-14,1.0.37.0,Locomotion,11:55:45,00:00:06.2169328,00:00:06.2169328
+Bnp,Rh2658,Sunny,,2020-2-14,1.0.37.0,Inactive,11:55:51,00:01:07.4046025,00:01:13.6215353
+Bnp,Rh2658,Sunny,,2020-2-14,1.0.37.0,Mantle shake,11:56:59,00:00:03.2935802,00:01:16.9151155
+Bnp,Rh2658,Sunny,,2020-2-14,1.0.37.0,Inactive,11:57:02,00:00:26.2005476,00:01:43.1156631
+Bnp,Rh2658,Sunny,,2020-2-14,1.0.37.0,Locomotion,11:57:28,00:00:06.6239481,00:01:49.7396112
+Bnp,Rh2658,Sunny,,2020-2-14,1.0.37.0,Inactive,11:57:35,00:01:54.7561209,00:03:44.4957321
+Bnp,Rh2658,Sunny,,2020-2-14,1.0.37.0,Scratch,11:59:29,00:00:02.5053773,00:03:47.0011094
+Bnp,Rh2658,Sunny,,2020-2-14,1.0.37.0,Inactive,11:59:32,00:01:13.4132719,00:05:00.4143813

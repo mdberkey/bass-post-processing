@@ -1,0 +1,55 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,,,,,,,,,
+Study Code:,,,,,,,,,
+Indiv ID:,,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Live,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,,,,,,,,,
+Behavior Date:,4/27/21,,,,,,,,
+Behavior Time:,12:19 PM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,04/28/2021 15:47:08 PM,,,,,,,,
+Coding Ended:,4/29/21 9:25,,,,,,,,
+Session duration:,17:38:28,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+,,Single,,4/27/21,1.0.43.0,Inactive,3:47:08,00:01.5,00:01.5
+,,Single,,4/27/21,1.0.43.0,Inactive,3:47:09,00:00.7,00:02.2
+,,Single,,4/27/21,1.0.43.0,Locomotion,3:47:10,00:00.4,00:02.7
+,,Single,,4/27/21,1.0.43.0,Pacing,3:47:10,00:00.4,00:03.1
+,,Single,,4/27/21,1.0.43.0,Jumping,3:47:11,00:00.4,00:03.5
+,,Single,,4/27/21,1.0.43.0,Swing/spin/flip,3:47:11,00:00.5,00:04.0
+,,Single,,4/27/21,1.0.43.0,Rock,3:47:12,00:00.4,00:04.4
+,,Single,,4/27/21,1.0.43.0,Headtoss,3:47:12,00:00.4,00:04.8
+,,Single,,4/27/21,1.0.43.0,Salute,3:47:13,38:19.9,38:24.8
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,2,00:02.2,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,1,00:00.4,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,1,00:00.4,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,1,00:00.4,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,1,00:00.5,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,1,00:00.4,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,1,00:00.4,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,1,38:19.9,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

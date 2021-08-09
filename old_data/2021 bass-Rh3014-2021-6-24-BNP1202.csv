@@ -1,0 +1,51 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,Rh3014
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,Ab108c35
+Behavior Date:,2021-6-24
+Behavior Time:,12:01 PM
+Ethogram:,2021 bass.csv
+Coding Began:,06/24/2021 12:02:45 PM
+Coding Ended:,06/24/2021 12:07:47 PM
+Session duration:,00:05:02
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,Rh3014,Pair,Ab108c35,2021-6-24,1.0.46.0,Inactive,12:02:45,00:04:39.1135289,00:04:39.1135289
+BNP,Rh3014,Pair,Ab108c35,2021-6-24,1.0.46.0,Social/play,12:07:24,00:00:22.2066605,00:05:01.3201894
+
+BehavCode, Occurrences, totalTime
+Inactive,1,00:04:39.1135289
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,1,00:00:22.2066605
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

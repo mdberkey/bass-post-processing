@@ -1,0 +1,61 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,mr
+Study Code:,2021 bass
+Indiv ID:,r04159
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,c436c1
+Behavior Date:,2021-5-17
+Behavior Time:,10:21 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/17/2021 10:21:52 AM
+Coding Ended:,05/17/2021 10:26:57 AM
+Session duration:,00:05:05
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Eat/drink,10:21:52,00:00:40.8811305,00:00:40.8811305
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Mantleshake,10:22:33,00:00:01.6033177,00:00:42.4844482
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Eat/drink,10:22:35,00:01:25.0296848,00:02:07.5141330
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Social/play,10:24:00,00:00:11.1399468,00:02:18.6540798
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Locomotion,10:24:11,00:00:03.1750163,00:02:21.8290961
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Eat/drink,10:24:14,00:00:13.9765554,00:02:35.8056515
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Locomotion,10:24:28,00:00:05.6659479,00:02:41.4715994
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Eat/drink,10:24:34,00:00:16.5736991,00:02:58.0452985
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Locomotion,10:24:50,00:00:05.4929320,00:03:03.5382305
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Eat/drink,10:24:56,00:00:39.6904195,00:03:43.2286500
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Locomotion,10:25:35,00:00:02.3805530,00:03:45.6092030
+mr,r04159,Pair,c436c1,2021-5-17,1.0.46.0,Eat/drink,10:25:38,00:01:17.7222463,00:05:03.3314493
+
+BehavCode, Occurrences, totalTime
+Inactive,0,00:00:00
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,4,00:00:16.7144492
+Aggression,0,00:00:00
+Eat/drink,6,00:04:33.8737356
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,1,00:00:01.6033177
+Social/play,1,00:00:11.1399468
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

@@ -1,0 +1,55 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,r14095,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Group,,,,,,,,
+Room/Cage:,cb11c5,,,,,,,,
+Behavior Date:,4/19/21,,,,,,,,
+Behavior Time:,10:52 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/19/21 10:54,,,,,,,,
+Coding Ended:,4/19/21 10:59,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,r14095,Group,cb11c5,4/19/21,1.0.43.0,Eat/drink,10:54:13,01:34.3,01:34.3
+mr,r14095,Group,cb11c5,4/19/21,1.0.43.0,Scratch,10:55:47,00:03.2,01:37.5
+mr,r14095,Group,cb11c5,4/19/21,1.0.43.0,Locomotion,10:55:50,00:26.8,02:04.3
+mr,r14095,Group,cb11c5,4/19/21,1.0.43.0,Inactive,10:56:17,00:13.8,02:18.1
+mr,r14095,Group,cb11c5,4/19/21,1.0.43.0,Locomotion,10:56:31,00:23.7,02:41.8
+mr,r14095,Group,cb11c5,4/19/21,1.0.43.0,Inactive,10:56:55,00:13.2,02:55.1
+mr,r14095,Group,cb11c5,4/19/21,1.0.43.0,Locomotion,10:57:08,00:21.9,03:16.9
+mr,r14095,Group,cb11c5,4/19/21,1.0.43.0,Pacing,10:57:30,01:38.2,04:55.1
+mr,r14095,Group,cb11c5,4/19/21,1.0.43.0,Eat/drink,10:59:08,00:05.8,05:00.9
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,2,00:27.0,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,3,01:12.4,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,2,01:40.0,,,,,,,
+Pacing,1,01:38.2,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:03.2,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

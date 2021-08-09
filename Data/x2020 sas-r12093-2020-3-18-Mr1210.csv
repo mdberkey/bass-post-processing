@@ -1,0 +1,48 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Mr
+Study Code:,Sass
+Indiv ID:,r12093
+Obs Site:,Blank Park Zoo
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-3-18
+Behavior Time:,12:09 PM
+Ethogram:,2020 sas.csv
+Coding Began:,03/18/2020 12:10:13 PM
+Coding Ended:,03/18/2020 12:15:16 PM
+Session duration:,00:05:03
+App Version:,1.0.39.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Mr,r12093,Sunny,,2020-3-18,1.0.39.0,Inactive,12:10:13,00:04:48.0188849,00:04:48.0188849
+Mr,r12093,Sunny,,2020-3-18,1.0.39.0,Locomotion,12:15:01,00:00:05.6848039,00:04:53.7036888
+Mr,r12093,Sunny,,2020-3-18,1.0.39.0,Inactive,12:15:07,00:00:08.1412931,00:05:01.8449819
+
+BehavCode, Occurrences, totalTime
+Inactive,2,00:04:56.1601780
+Threat,0,00:00:00
+Eat/drink,0,00:00:00
+Locomotion,1,00:00:05.6848039
+Display,0,00:00:00
+Tactile/explore,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Lipsmack,0,00:00:00
+Jumping,0,00:00:00
+Fear grimace,0,00:00:00
+Groom,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Hair pluck,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+Self-direct,0,00:00:00
+Head toss,0,00:00:00
+Mantle shake,0,00:00:00
+Self bite,0,00:00:00
+Salute,0,00:00:00
+Vocal,0,00:00:00
+Other,0,00:00:00

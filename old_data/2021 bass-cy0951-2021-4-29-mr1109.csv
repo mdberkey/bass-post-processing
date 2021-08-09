@@ -1,0 +1,67 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,mr
+Study Code:,2021 bass
+Indiv ID:,cy0951
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,cb27c15
+Behavior Date:,2021-4-29
+Behavior Time:,11:07 AM
+Ethogram:,2021 bass.csv
+Coding Began:,04/29/2021 11:09:04 AM
+Coding Ended:,04/29/2021 11:14:07 AM
+Session duration:,00:05:03
+App Version:,1.0.44.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Inactive,11:09:04,00:00:30.4302969,00:00:30.4302969
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Mantleshake,11:09:35,00:00:03.4660860,00:00:33.8963829
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Inactive,11:09:38,00:00:15.9203289,00:00:49.8167118
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Groom,11:09:54,00:00:13.0670371,00:01:02.8837489
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Inactive,11:10:07,00:00:11.9796758,00:01:14.8634247
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Locomotion,11:10:19,00:00:08.0929800,00:01:22.9564047
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Inactive,11:10:27,00:00:09.2506290,00:01:32.2070337
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Lipsmack,11:10:36,00:00:05.6708022,00:01:37.8778359
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Inactive,11:10:42,00:00:20.1524335,00:01:58.0302694
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Groom,11:11:02,00:00:09.4525326,00:02:07.4828020
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Tactile/expl,11:11:12,00:00:06.6198921,00:02:14.1026941
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Inactive,11:11:18,00:00:15.8439048,00:02:29.9465989
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Scratch,11:11:34,00:00:08.3033318,00:02:38.2499307
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Inactive,11:11:43,00:00:05.7550373,00:02:44.0049680
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Locomotion,11:11:48,00:00:13.5874737,00:02:57.5924417
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Inactive,11:12:02,00:01:16.1289768,00:04:13.7214185
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Scratch,11:13:18,00:00:04.2133265,00:04:17.9347450
+mr,cy0951,Pair,cb27c15,2021-4-29,1.0.44.0,Inactive,11:13:22,00:00:43.4459766,00:05:01.3807216
+
+BehavCode, Occurrences, totalTime
+Inactive,9,00:03:48.9072596
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,2,00:00:21.6804537
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/expl,1,00:00:06.6198921
+Jumping,0,00:00:00
+FearGrimace,0,00:00:00
+Lipsmack,1,00:00:05.6708022
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:12.5166583
+Groom,2,00:00:22.5195697
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,1,00:00:03.4660860
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

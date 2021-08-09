@@ -1,0 +1,66 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,r14082,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,cb11c57,,,,,,,,
+Behavior Date:,4/23/21,,,,,,,,
+Behavior Time:,10:17 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/23/21 10:18,,,,,,,,
+Coding Ended:,4/23/21 10:23,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Eat/drink,10:18:18,00:18.6,00:18.6
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Inactive,10:18:36,00:10.4,00:29.0
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Locomotion,10:18:47,00:02.0,00:31.0
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Sex/self/other,10:18:49,00:03.6,00:34.6
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Locomotion,10:18:52,00:27.5,01:02.1
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Inactive,10:19:20,00:06.9,01:09.0
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Eat/drink,10:19:27,00:31.8,01:40.8
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Tactile/explore,10:19:59,00:15.8,01:56.6
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Inactive,10:20:14,00:07.2,02:03.8
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Eat/drink,10:20:22,00:14.0,02:17.8
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Scratch,10:20:36,00:05.7,02:23.5
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Inactive,10:20:41,00:31.9,02:55.4
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Scratch,10:21:13,00:04.4,02:59.8
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Tactile/explore,10:21:18,00:07.7,03:07.5
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Eat/drink,10:21:25,00:15.6,03:23.1
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Tactile/explore,10:21:41,00:10.3,03:33.4
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Eat/drink,10:21:51,00:13.7,03:47.0
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Inactive,10:22:05,00:09.5,03:56.5
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Eat/drink,10:22:14,00:31.1,04:27.6
+mr,r14082,Pair,cb11c57,4/23/21,1.0.43.0,Inactive,10:22:45,00:33.1,05:00.7
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,6,01:39.0,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,1,00:03.6,,,,,,,
+Locomotion,2,00:29.5,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,6,02:04.8,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,3,00:33.8,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,2,00:10.1,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

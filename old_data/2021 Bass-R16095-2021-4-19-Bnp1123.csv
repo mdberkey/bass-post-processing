@@ -1,0 +1,68 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,Bnp,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,R16095,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,Ab120/14,,,,,,,,
+Behavior Date:,4/19/21,,,,,,,,
+Behavior Time:,11:23 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/19/21 11:23,,,,,,,,
+Coding Ended:,4/19/21 11:28,,,,,,,,
+Session duration:,0:05:01,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Locomotion,11:23:13,00:04.8,00:04.8
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Threat/display,11:23:18,00:04.5,00:09.4
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Inactive,11:23:23,00:07.5,00:16.8
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Yawn,11:23:30,00:02.7,00:19.5
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Inactive,11:23:33,00:33.4,00:52.9
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Yawn,11:24:06,00:01.3,00:54.2
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Inactive,11:24:08,00:04.5,00:58.7
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Threat/display,11:24:12,00:01.5,01:00.3
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Inactive,11:24:14,00:47.7,01:47.9
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Yawn,11:25:01,00:03.5,01:51.5
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Locomotion,11:25:05,00:03.5,01:54.9
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Inactive,11:25:08,00:16.3,02:11.2
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Scratch,11:25:25,00:06.1,02:17.3
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Tactile/explore,11:25:31,00:18.1,02:35.5
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Mantleshake,11:25:49,00:01.5,02:37.0
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Inactive,11:25:50,00:59.1,03:36.1
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Yawn,11:26:50,00:02.6,03:38.7
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Inactive,11:26:52,00:08.9,03:47.6
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Social/play,11:27:01,00:12.0,03:59.6
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Inactive,11:27:13,00:36.4,04:36.0
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Social/play,11:27:49,00:09.9,04:45.8
+Bnp,R16095,Pair,Ab120/14,4/19/21,1.0.43.0,Inactive,11:27:59,00:14.1,04:59.9
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,9,03:47.8,,,,,,,
+Threat/display,2,00:06.0,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,2,00:08.3,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,1,00:18.1,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:06.1,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,4,00:10.2,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,1,00:01.5,,,,,,,
+Social/play,2,00:21.9,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

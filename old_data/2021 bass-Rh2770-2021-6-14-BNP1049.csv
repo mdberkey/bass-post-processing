@@ -1,0 +1,60 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,Rh2770
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,Ab119c31
+Behavior Date:,2021-6-14
+Behavior Time:,10:48 AM
+Ethogram:,2021 bass.csv
+Coding Began:,06/14/2021 10:49:02 AM
+Coding Ended:,06/14/2021 10:54:04 AM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Inactive,10:49:02,00:00:37.9056419,00:00:37.9056419
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Threat/display,10:49:40,00:00:01.8455086,00:00:39.7511505
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Inactive,10:49:42,00:00:12.7878989,00:00:52.5390494
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Vocal,10:49:55,00:00:02.0732716,00:00:54.6123210
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Scratch,10:49:57,00:00:03.5389050,00:00:58.1512260
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Threat/display,10:50:01,00:00:03.4184746,00:01:01.5697006
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Inactive,10:50:04,00:00:30.5122177,00:01:32.0819183
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Scratch,10:50:35,00:00:01.8718168,00:01:33.9537351
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Inactive,10:50:36,00:03:06.1317111,00:04:40.0854462
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Threat/display,10:53:43,00:00:01.6637238,00:04:41.7491700
+BNP,Rh2770,Single,Ab119c31,2021-6-14,1.0.46.0,Inactive,10:53:44,00:00:18.4626552,00:05:00.2118252
+
+BehavCode, Occurrences, totalTime
+Inactive,5,00:04:45.8001248
+Threat/display,3,00:00:06.9277070
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:05.4107218
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,1,00:00:02.0732716
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

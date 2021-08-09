@@ -1,0 +1,20 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Ta
+Study Code:,SAs
+Indiv ID:,Rh2881
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-2-6
+Behavior Time:,10:39 AM
+Ethogram:,2020 sas.csv
+Coding Began:,02/06/2020 10:40:38 AM
+Coding Ended:,02/06/2020 10:45:41 AM
+Session duration:,00:05:03
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Ta,Rh2881,Sunny,,2020-2-6,1.0.37.0,Inactive,10:40:38,00:05:01.6204217,00:05:01.6204217

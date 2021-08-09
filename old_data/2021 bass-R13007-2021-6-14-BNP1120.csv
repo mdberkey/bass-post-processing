@@ -1,0 +1,60 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,R13007
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,Ab119c40
+Behavior Date:,2021-6-14
+Behavior Time:,11:18 AM
+Ethogram:,2021 bass.csv
+Coding Began:,06/14/2021 11:20:01 AM
+Coding Ended:,06/14/2021 11:25:02 AM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Inactive,11:20:01,00:01:58.3187582,00:01:58.3187582
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Threat/display,11:21:59,00:00:00.9406446,00:01:59.2594028
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Inactive,11:22:00,00:01:09.4115618,00:03:08.6709646
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Locomotion,11:23:10,00:00:02.5769883,00:03:11.2479529
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Threat/display,11:23:12,00:00:01.2936203,00:03:12.5415732
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Inactive,11:23:14,00:00:36.8268761,00:03:49.3684493
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Locomotion,11:23:50,00:00:02.1240892,00:03:51.4925385
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Threat/display,11:23:52,00:00:02.0022799,00:03:53.4948184
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Inactive,11:23:54,00:01:03.2384257,00:04:56.7332441
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Locomotion,11:24:58,00:00:02.1778394,00:04:58.9110835
+BNP,R13007,Single,Ab119c40,2021-6-14,1.0.46.0,Inactive,11:25:00,00:00:01.4207653,00:05:00.3318488
+
+BehavCode, Occurrences, totalTime
+Inactive,5,00:04:49.2163871
+Threat/display,3,00:00:04.2365448
+Sex/self/other,0,00:00:00
+Locomotion,3,00:00:06.8789169
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

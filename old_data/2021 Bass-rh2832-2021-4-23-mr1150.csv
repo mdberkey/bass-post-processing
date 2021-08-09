@@ -1,0 +1,55 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,rh2832,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,cb11c79,,,,,,,,
+Behavior Date:,4/23/21,,,,,,,,
+Behavior Time:,11:49 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/23/21 11:50,,,,,,,,
+Coding Ended:,4/23/21 11:55,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,rh2832,Single,cb11c79,4/23/21,1.0.43.0,Locomotion,11:50:31,00:14.2,00:14.2
+mr,rh2832,Single,cb11c79,4/23/21,1.0.43.0,Inactive,11:50:45,00:05.6,00:19.8
+mr,rh2832,Single,cb11c79,4/23/21,1.0.43.0,Tactile/explore,11:50:50,00:07.0,00:26.9
+mr,rh2832,Single,cb11c79,4/23/21,1.0.43.0,Locomotion,11:50:57,00:07.8,00:34.7
+mr,rh2832,Single,cb11c79,4/23/21,1.0.43.0,Inactive,11:51:05,00:05.2,00:40.0
+mr,rh2832,Single,cb11c79,4/23/21,1.0.43.0,Scratch,11:51:11,00:10.4,00:50.4
+mr,rh2832,Single,cb11c79,4/23/21,1.0.43.0,Eat/drink,11:51:21,01:43.0,02:33.4
+mr,rh2832,Single,cb11c79,4/23/21,1.0.43.0,Locomotion,11:53:04,00:10.0,02:43.4
+mr,rh2832,Single,cb11c79,4/23/21,1.0.43.0,Eat/drink,11:53:14,02:18.0,05:01.3
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,2,00:10.9,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,3,00:32.0,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,2,04:01.0,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,1,00:07.0,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:10.4,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

@@ -1,0 +1,65 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,Rh2934,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,Ab111c9,,,,,,,,
+Behavior Date:,5/5/21,,,,,,,,
+Behavior Time:,11:45 AM,,,,,,,,
+Ethogram:,2021 bass.csv,,,,,,,,
+Coding Began:,5/5/21 11:46,,,,,,,,
+Coding Ended:,5/5/21 11:51,,,,,,,,
+Session duration:,0:05:01,,,,,,,,
+App Version:,1.0.44.0,,,,,,,,
+Notes:,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Social/play,11:46:40,00:04.3,00:04.3
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Scratch,11:46:45,00:05.6,00:09.8
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Social/play,11:46:50,00:04.0,00:13.9
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Scratch,11:46:54,00:06.6,00:20.5
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Social/play,11:47:01,00:11.7,00:32.2
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Inactive,11:47:13,00:16.3,00:48.5
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Scratch,11:47:29,00:06.4,00:54.9
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Groom,11:47:35,00:18.4,01:13.3
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,SocGroom,11:47:54,00:34.4,01:47.7
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Yawn,11:48:28,00:03.1,01:50.8
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Social/play,11:48:31,00:02.9,01:53.7
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,SocGroom,11:48:34,01:05.9,02:59.6
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Threat/display,11:49:40,00:03.1,03:02.7
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,SocGroom,11:49:43,01:52.3,04:54.9
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Yawn,11:51:35,00:03.1,04:58.0
+BNP,Rh2934,Pair,Ab111c9,5/5/21,1.0.44.0,Social/play,11:51:38,00:02.2,05:00.2
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,1,00:16.3,,,,,,,
+Threat/display,1,00:03.1,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,0,0:00:00,,,,,,,
+Aggression,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+Present,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Scratch,3,00:18.6,,,,,,,
+Groom,1,00:18.4,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Yawn,2,00:06.2,,,,,,,
+SocGroom,3,03:32.5,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,5,00:25.1,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Cling,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

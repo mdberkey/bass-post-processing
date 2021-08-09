@@ -1,0 +1,52 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,rh2492
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,mr1527c12
+Behavior Date:,2021-5-10
+Behavior Time:,10:43 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/10/2021 10:43:59 AM
+Coding Ended:,05/10/2021 10:49:01 AM
+Session duration:,00:05:02
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,rh2492,Single,mr1527c12,2021-5-10,1.0.46.0,Inactive,10:43:59,00:00:21.4734445,00:00:21.4734445
+ta,rh2492,Single,mr1527c12,2021-5-10,1.0.46.0,Tactile/explore,10:44:21,00:00:06.6467912,00:00:28.1202357
+ta,rh2492,Single,mr1527c12,2021-5-10,1.0.46.0,Inactive,10:44:27,00:04:32.9696410,00:05:01.0898767
+
+BehavCode, Occurrences, totalTime
+Inactive,2,00:04:54.4430855
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,1,00:00:06.6467912
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

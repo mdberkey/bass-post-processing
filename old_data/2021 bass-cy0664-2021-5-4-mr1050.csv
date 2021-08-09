@@ -1,0 +1,58 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,cy0664,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,cb22c24,,,,,,,,
+Behavior Date:,5/4/21,,,,,,,,
+Behavior Time:,10:49 AM,,,,,,,,
+Ethogram:,2021 bass.csv,,,,,,,,
+Coding Began:,5/4/21 10:50,,,,,,,,
+Coding Ended:,5/4/21 10:55,,,,,,,,
+Session duration:,0:05:07,,,,,,,,
+App Version:,1.0.44.0,,,,,,,,
+Notes:,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,cy0664,Single,cb22c24,5/4/21,1.0.44.0,Eat/drink,10:50:12,00:36.2,00:36.2
+mr,cy0664,Single,cb22c24,5/4/21,1.0.44.0,Locomotion,10:50:49,00:33.2,01:09.4
+mr,cy0664,Single,cb22c24,5/4/21,1.0.44.0,Inactive,10:51:22,00:19.1,01:28.5
+mr,cy0664,Single,cb22c24,5/4/21,1.0.44.0,Eat/drink,10:51:41,00:21.1,01:49.6
+mr,cy0664,Single,cb22c24,5/4/21,1.0.44.0,Threat/display,10:52:02,00:02.6,01:52.2
+mr,cy0664,Single,cb22c24,5/4/21,1.0.44.0,Locomotion,10:52:05,00:02.2,01:54.3
+mr,cy0664,Single,cb22c24,5/4/21,1.0.44.0,Eat/drink,10:52:07,02:21.8,04:16.2
+mr,cy0664,Single,cb22c24,5/4/21,1.0.44.0,Threat/display,10:54:29,00:06.0,04:22.2
+mr,cy0664,Single,cb22c24,5/4/21,1.0.44.0,Eat/drink,10:54:35,00:40.6,05:02.8
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,1,00:19.1,,,,,,,
+Threat/display,2,00:08.6,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,2,00:35.3,,,,,,,
+Aggression,0,0:00:00,,,,,,,
+Eat/drink,4,03:59.7,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+Present,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+SocGroom,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Cling,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

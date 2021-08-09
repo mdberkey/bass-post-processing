@@ -1,0 +1,32 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,2020SAs
+Indiv ID:,Cy0719
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-2-14
+Behavior Time:,11:19 AM
+Ethogram:,2020 sas.csv
+Coding Began:,02/14/2020 11:20:20 AM
+Coding Ended:,02/14/2020 11:25:22 AM
+Session duration:,00:05:01
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Inactive,11:20:20,00:00:05.2361854,00:00:05.2361854
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Vocal,11:20:25,00:00:03.2305304,00:00:08.4667158
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Inactive,11:20:28,00:00:05.0018247,00:00:13.4685405
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Vocal,11:20:33,00:00:04.6882560,00:00:18.1567965
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Inactive,11:20:38,00:00:05.1662062,00:00:23.3230027
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Vocal,11:20:43,00:00:01.1839860,00:00:24.5069887
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Inactive,11:20:44,00:01:24.9680367,00:01:49.4750254
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Groom,11:22:09,00:00:17.3051226,00:02:06.7801480
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Inactive,11:22:27,00:01:09.4958907,00:03:16.2760387
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Vocal,11:23:36,00:00:01.9870382,00:03:18.2630769
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Inactive,11:23:38,00:00:16.1059539,00:03:34.3690308
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Scratch,11:23:54,00:00:02.3978446,00:03:36.7668754
+Bnp,Cy0719,Sunny,,2020-2-14,1.0.37.0,Inactive,11:23:57,00:01:24.0580655,00:05:00.8249409

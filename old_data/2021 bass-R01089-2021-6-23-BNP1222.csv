@@ -1,0 +1,61 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,R01089
+Obs Site:,Other Site
+Obs Type:,Live
+Housing:,Single
+Room/Cage:,Ab108c27
+Behavior Date:,2021-6-23
+Behavior Time:,12:21 PM
+Ethogram:,2021 bass.csv
+Coding Began:,06/23/2021 12:22:34 PM
+Coding Ended:,06/23/2021 12:27:36 PM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Inactive,12:22:34,00:00:38.8250482,00:00:38.8250482
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Scratch,12:23:13,00:00:08.0329917,00:00:46.8580399
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Inactive,12:23:21,00:00:13.0852272,00:00:59.9432671
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Scratch,12:23:34,00:00:08.0685875,00:01:08.0118546
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Inactive,12:23:42,00:00:35.0294509,00:01:43.0413055
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Scratch,12:24:17,00:00:01.4633264,00:01:44.5046319
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Inactive,12:24:19,00:01:25.5227517,00:03:10.0273836
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Scratch,12:25:44,00:00:09.0534552,00:03:19.0808388
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Inactive,12:25:53,00:00:44.5840763,00:04:03.6649151
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Groom,12:26:38,00:00:35.0940318,00:04:38.7589469
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Inactive,12:27:13,00:00:05.8933733,00:04:44.6523202
+BNP,R01089,Single,Ab108c27,2021-6-23,1.0.46.0,Groom,12:27:19,00:00:16.0074143,00:05:00.6597345
+
+BehavCode, Occurrences, totalTime
+Inactive,6,00:03:42.9399276
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,0,00:00:00
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,4,00:00:26.6183608
+Groom,2,00:00:51.1014461
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

@@ -1,0 +1,31 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,SAs
+Indiv ID:,R14010
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-1-16
+Behavior Time:,10:36 AM
+Ethogram:,2020 sas.csv
+Coding Began:,01/16/2020 10:43:52 AM
+Coding Ended:,01/16/2020 10:48:53 AM
+Session duration:,00:05:01
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Locomotion,10:43:52,00:00:05.2814607,00:00:05.2814607
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Inactive,10:43:57,00:00:18.9491476,00:00:24.2306083
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Locomotion,10:44:16,00:00:07.5976611,00:00:31.8282694
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Inactive,10:44:24,00:00:05.7954036,00:00:37.6236730
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Locomotion,10:44:29,00:00:06.2353289,00:00:43.8590019
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Pacing,10:44:36,00:00:14.9691047,00:00:58.8281066
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Inactive,10:44:51,00:00:05.1565844,00:01:03.9846910
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Locomotion,10:44:56,00:00:09.9205060,00:01:13.9051970
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Pacing,10:45:06,00:00:14.4514275,00:01:28.3566245
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Inactive,10:45:20,00:01:34.6899944,00:03:03.0466189
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Locomotion,10:46:55,00:00:06.2014802,00:03:09.2480991
+Bnp,R14010,Sunny,,2020-1-16,1.0.37.0,Inactive,10:47:01,00:01:51.4358419,00:05:00.6839410

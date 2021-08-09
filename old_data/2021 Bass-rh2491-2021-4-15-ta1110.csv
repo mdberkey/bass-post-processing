@@ -1,0 +1,55 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,,,,,,,,,
+Indiv ID:,rh2491,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,a244bcg9,,,,,,,,
+Behavior Date:,4/15/21,,,,,,,,
+Behavior Time:,11:10 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/15/21 11:10,,,,,,,,
+Coding Ended:,4/15/21 11:16,,,,,,,,
+Session duration:,0:05:21,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,rh2491,Single,a244bcg9,4/15/21,1.0.43.0,Groom,11:10:55,01:52.8,01:52.8
+ta,rh2491,Single,a244bcg9,4/15/21,1.0.43.0,Inactive,11:12:48,00:28.8,02:21.6
+ta,rh2491,Single,a244bcg9,4/15/21,1.0.43.0,Mantleshake,11:13:17,00:01.8,02:23.4
+ta,rh2491,Single,a244bcg9,4/15/21,1.0.43.0,Inactive,11:13:18,00:16.5,02:39.9
+ta,rh2491,Single,a244bcg9,4/15/21,1.0.43.0,Groom,11:13:35,01:09.7,03:49.6
+ta,rh2491,Single,a244bcg9,4/15/21,1.0.43.0,Sex/self/other,11:14:45,00:31.7,04:21.3
+ta,rh2491,Single,a244bcg9,4/15/21,1.0.43.0,Yawn,11:15:16,00:01.0,04:22.3
+ta,rh2491,Single,a244bcg9,4/15/21,1.0.43.0,Sex/self/other,11:15:17,00:10.1,04:32.4
+ta,rh2491,Single,a244bcg9,4/15/21,1.0.43.0,Groom,11:15:27,00:47.6,05:20.0
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,2,00:45.3,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,2,00:41.8,,,,,,,
+Locomotion,0,0:00:00,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,1,00:01.0,,,,,,,
+Groom,3,03:50.1,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,1,00:01.8,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

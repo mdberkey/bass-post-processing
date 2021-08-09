@@ -1,0 +1,67 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,Bnp,,,,,,,,
+Study Code:,Bass 2021,,,,,,,,
+Indiv ID:,R18056,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Group,,,,,,,,
+Room/Cage:,Ab120/pen1,,,,,,,,
+Behavior Date:,4/21/21,,,,,,,,
+Behavior Time:,10:55 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/21/21 10:56,,,,,,,,
+Coding Ended:,4/21/21 11:01,,,,,,,,
+Session duration:,0:05:01,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Inactive,10:56:43,00:16.7,00:16.7
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Locomotion,10:57:00,00:05.9,00:22.6
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Inactive,10:57:06,00:02.0,00:24.6
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Locomotion,10:57:08,00:22.3,00:46.9
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Threat/display,10:57:30,00:11.3,00:58.3
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Inactive,10:57:41,00:02.7,01:01.0
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Locomotion,10:57:44,00:06.9,01:07.9
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Eat/drink,10:57:51,00:20.0,01:27.9
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Threat/display,10:58:11,00:03.4,01:31.3
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Eat/drink,10:58:14,00:14.4,01:45.7
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Locomotion,10:58:29,00:06.7,01:52.3
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Eat/drink,10:58:36,01:43.6,03:36.0
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Locomotion,11:00:19,00:04.5,03:40.5
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Inactive,11:00:24,00:02.0,03:42.4
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Mantleshake,11:00:26,00:00.8,03:43.3
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Inactive,11:00:26,00:04.5,03:47.7
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Eat/drink,11:00:31,00:21.3,04:09.0
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Locomotion,11:00:52,00:08.3,04:17.3
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Eat/drink,11:01:00,00:03.9,04:21.2
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Social/play,11:01:04,00:10.4,04:31.6
+Bnp,R18056,Group,Ab120/pen1,4/21/21,1.0.43.0,Eat/drink,11:01:15,00:28.8,05:00.4
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,5,00:27.9,,,,,,,
+Threat/display,2,00:14.7,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,6,00:54.5,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,6,03:11.9,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,1,00:00.8,,,,,,,
+Social/play,1,00:10.4,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

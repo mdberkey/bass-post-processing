@@ -1,0 +1,56 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,r17017,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,a242c5,,,,,,,,
+Behavior Date:,4/21/21,,,,,,,,
+Behavior Time:,10:13 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/21/21 10:15,,,,,,,,
+Coding Ended:,4/21/21 10:20,,,,,,,,
+Session duration:,0:05:30,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r17017,Pair,a242c5,4/21/21,1.0.43.0,Eat/drink,10:15:07,02:24.8,02:24.8
+ta,r17017,Pair,a242c5,4/21/21,1.0.43.0,Scratch,10:17:32,00:01.3,02:26.1
+ta,r17017,Pair,a242c5,4/21/21,1.0.43.0,Eat/drink,10:17:33,00:34.8,03:00.8
+ta,r17017,Pair,a242c5,4/21/21,1.0.43.0,Locomotion,10:18:08,00:03.1,03:03.9
+ta,r17017,Pair,a242c5,4/21/21,1.0.43.0,Tactile/explore,10:18:11,00:40.7,03:44.6
+ta,r17017,Pair,a242c5,4/21/21,1.0.43.0,Locomotion,10:18:52,00:02.1,03:46.7
+ta,r17017,Pair,a242c5,4/21/21,1.0.43.0,Inactive,10:18:54,00:15.9,04:02.6
+ta,r17017,Pair,a242c5,4/21/21,1.0.43.0,Locomotion,10:19:10,00:03.2,04:05.8
+ta,r17017,Pair,a242c5,4/21/21,1.0.43.0,Inactive,10:19:13,00:07.6,04:13.4
+ta,r17017,Pair,a242c5,4/21/21,1.0.43.0,Groom,10:19:21,01:16.2,05:29.6
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,2,00:23.5,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,3,00:08.3,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,2,02:59.5,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,1,00:40.7,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:01.3,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,1,01:16.2,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

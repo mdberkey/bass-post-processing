@@ -1,0 +1,60 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,R15002,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,Ab142c19,,,,,,,,
+Behavior Date:,5/6/21,,,,,,,,
+Behavior Time:,10:50 AM,,,,,,,,
+Ethogram:,2021 bass.csv,,,,,,,,
+Coding Began:,5/6/21 10:52,,,,,,,,
+Coding Ended:,5/6/21 10:57,,,,,,,,
+Session duration:,0:05:01,,,,,,,,
+App Version:,1.0.44.0,,,,,,,,
+Notes:,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Inactive,10:52:14,00:55.0,00:55.0
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Locomotion,10:53:09,00:04.4,00:59.5
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Inactive,10:53:13,00:04.9,01:04.4
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Yawn,10:53:18,00:01.5,01:05.9
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Inactive,10:53:20,00:31.4,01:37.3
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Locomotion,10:53:51,00:03.3,01:40.6
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Tactile/explore,10:53:54,00:06.6,01:47.2
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Inactive,10:54:01,00:05.7,01:52.9
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Tactile/explore,10:54:07,02:48.5,04:41.4
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Inactive,10:56:55,00:05.3,04:46.7
+BNP,R15002,Pair,Ab142c19,5/6/21,1.0.44.0,Tactile/explore,10:57:00,00:13.9,05:00.6
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,5,01:42.4,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,2,00:07.8,,,,,,,
+Aggression,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+Present,0,0:00:00,,,,,,,
+Tactile/explore,3,03:09.0,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Yawn,1,00:01.5,,,,,,,
+SocGroom,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Cling,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

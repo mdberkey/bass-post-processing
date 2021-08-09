@@ -1,0 +1,59 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Mr
+Study Code:,Sass
+Indiv ID:,rh2020
+Obs Site:,Blank Park Zoo
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-3-18
+Behavior Time:,11:56 AM
+Ethogram:,2020 sas.csv
+Coding Began:,03/18/2020 11:58:04 AM
+Coding Ended:,03/18/2020 12:03:09 PM
+Session duration:,00:05:05
+App Version:,1.0.39.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Inactive,11:58:04,00:01:31.5075458,00:01:31.5075458
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Threat,11:59:35,00:00:22.8376338,00:01:54.3451796
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Inactive,11:59:58,00:00:28.6129794,00:02:22.9581590
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Threat,12:00:27,00:00:07.7120325,00:02:30.6701915
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Inactive,12:00:34,00:00:48.6577346,00:03:19.3279261
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Threat,12:01:23,00:00:14.8573436,00:03:34.1852697
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Display,12:01:38,00:00:06.7570786,00:03:40.9423483
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Threat,12:01:44,00:00:09.9609182,00:03:50.9032665
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Inactive,12:01:54,00:00:09.3817305,00:04:00.2849970
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Tactile/explore,12:02:04,00:00:13.2584163,00:04:13.5434133
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Inactive,12:02:17,00:00:35.8698347,00:04:49.4132480
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Eat/drink,12:02:53,00:00:00.6678256,00:04:50.0810736
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Tactile/explore,12:02:54,00:00:07.1014184,00:04:57.1824920
+Mr,rh2020,Sunny,,2020-3-18,1.0.39.0,Inactive,12:03:01,00:00:06.3604349,00:05:03.5429269
+
+BehavCode, Occurrences, totalTime
+Inactive,6,00:03:40.3902599
+Threat,4,00:00:55.3679281
+Eat/drink,1,00:00:00.6678256
+Locomotion,0,00:00:00
+Display,1,00:00:06.7570786
+Tactile/explore,2,00:00:20.3598347
+Pacing,0,00:00:00
+Present,0,00:00:00
+Lipsmack,0,00:00:00
+Jumping,0,00:00:00
+Fear grimace,0,00:00:00
+Groom,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Hair pluck,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+Self-direct,0,00:00:00
+Head toss,0,00:00:00
+Mantle shake,0,00:00:00
+Self bite,0,00:00:00
+Salute,0,00:00:00
+Vocal,0,00:00:00
+Other,0,00:00:00

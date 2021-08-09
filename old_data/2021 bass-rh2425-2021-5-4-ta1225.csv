@@ -1,0 +1,62 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,rh2425,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,mr1553c9,,,,,,,,
+Behavior Date:,5/4/21,,,,,,,,
+Behavior Time:,12:25 PM,,,,,,,,
+Ethogram:,2021 bass.csv,,,,,,,,
+Coding Began:,5/4/21 12:25,,,,,,,,
+Coding Ended:,5/4/21 12:30,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.44.0,,,,,,,,
+Notes:,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Inactive,12:25:46,00:06.4,00:06.4
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Eat/drink,12:25:53,00:43.2,00:49.7
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Inactive,12:26:36,00:51.4,01:41.0
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Eat/drink,12:27:27,00:26.7,02:07.7
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Inactive,12:27:54,00:14.3,02:22.0
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Social/play,12:28:08,00:19.4,02:41.4
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Inactive,12:28:28,00:38.6,03:20.0
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Social/play,12:29:06,00:25.6,03:45.6
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Inactive,12:29:32,00:41.8,04:27.4
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Locomotion,12:30:14,00:01.8,04:29.2
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Inactive,12:30:16,00:24.4,04:53.6
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Locomotion,12:30:40,00:01.2,04:54.8
+ta,rh2425,Pair,mr1553c9,5/4/21,1.0.44.0,Tactile/explore,12:30:41,00:06.5,05:01.3
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,6,02:56.9,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,2,00:03.0,,,,,,,
+Aggression,0,0:00:00,,,,,,,
+Eat/drink,2,01:09.9,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+Present,0,0:00:00,,,,,,,
+Tactile/explore,1,00:06.5,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+SocGroom,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,2,00:45.0,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Cling,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

@@ -1,0 +1,78 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,2021bass
+Indiv ID:,Rh2504
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,bmqh5c31
+Behavior Date:,2021-6-21
+Behavior Time:,11:56 AM
+Ethogram:,2021 bass.csv
+Coding Began:,06/21/2021 11:57:11 AM
+Coding Ended:,06/21/2021 12:02:24 PM
+Session duration:,00:05:13
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,11:57:11,00:00:21.2035127,00:00:21.2035127
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Locomotion,11:57:32,00:00:03.9248324,00:00:25.1283451
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,11:57:36,00:00:49.3327789,00:01:14.4611240
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Locomotion,11:58:25,00:00:03.7075651,00:01:18.1686891
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Threat/display,11:58:29,00:00:03.4797214,00:01:21.6484105
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,11:58:32,00:00:37.3970960,00:01:59.0455065
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Locomotion,11:59:10,00:00:02.9016615,00:02:01.9471680
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,11:59:13,00:00:10.6729545,00:02:12.6201225
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Tactile/explore,11:59:23,00:00:01.9915261,00:02:14.6116486
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Scratch,11:59:25,00:00:07.6831339,00:02:22.2947825
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Locomotion,11:59:33,00:00:02.1945595,00:02:24.4893420
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,11:59:35,00:01:08.8886809,00:03:33.3780229
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Threat/display,12:00:44,00:00:02.2569560,00:03:35.6349789
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,12:00:46,00:00:22.3638472,00:03:57.9988261
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Locomotion,12:01:09,00:00:02.5681869,00:04:00.5670130
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,12:01:11,00:00:02.5982041,00:04:03.1652171
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Locomotion,12:01:14,00:00:03.0638480,00:04:06.2290651
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,12:01:17,00:00:05.6224303,00:04:11.8514954
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Locomotion,12:01:22,00:00:01.9217840,00:04:13.7732794
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,12:01:24,00:00:05.3393995,00:04:19.1126789
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Locomotion,12:01:30,00:00:02.3719412,00:04:21.4846201
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,12:01:32,00:00:01.9603172,00:04:23.4449373
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Locomotion,12:01:34,00:00:04.7337131,00:04:28.1786504
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,12:01:39,00:00:09.2366856,00:04:37.4153360
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Rock,12:01:48,00:00:14.6565008,00:04:52.0718368
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,12:02:03,00:00:02.3711306,00:04:54.4429674
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Rock,12:02:05,00:00:10.0442270,00:05:04.4871944
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Locomotion,12:02:15,00:00:04.9118932,00:05:09.3990876
+Js,Rh2504,Pair,bmqh5c31,2021-6-21,1.0.46.0,Inactive,12:02:20,00:00:01.1084892,00:05:10.5075768
+
+BehavCode, Occurrences, totalTime
+Inactive,13,00:03:58.0955267
+Threat/display,2,00:00:05.7366774
+Sex/self/other,0,00:00:00
+Locomotion,10,00:00:32.2999849
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,1,00:00:01.9915261
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,1,00:00:07.6831339
+Groom,0,00:00:00
+Rock,2,00:00:24.7007278
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

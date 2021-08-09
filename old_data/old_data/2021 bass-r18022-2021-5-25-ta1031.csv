@@ -1,0 +1,60 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,r18022
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,a275c1
+Behavior Date:,2021-5-25
+Behavior Time:,10:30 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/25/2021 10:31:09 AM
+Coding Ended:,05/25/2021 10:36:13 AM
+Session duration:,00:05:03
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Inactive,10:31:09,00:00:21.3203511,00:00:21.3203511
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Locomotion,10:31:31,00:00:03.5043134,00:00:24.8246645
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Swing/spin/flip,10:31:34,00:00:15.4145855,00:00:40.2392500
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Lipsmack,10:31:50,00:00:01.7372342,00:00:41.9764842
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Inactive,10:31:51,00:02:24.3332269,00:03:06.3097111
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Locomotion,10:34:16,00:00:01.9053589,00:03:08.2150700
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Inactive,10:34:18,00:00:30.0426737,00:03:38.2577437
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Locomotion,10:34:48,00:00:09.6173117,00:03:47.8750554
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Present,10:34:57,00:00:02.6769835,00:03:50.5520389
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Locomotion,10:35:00,00:00:02.3057466,00:03:52.8577855
+ta,r18022,Pair,a275c1,2021-5-25,1.0.46.0,Inactive,10:35:02,00:01:07.9530211,00:05:00.8108066
+
+BehavCode, Occurrences, totalTime
+Inactive,4,00:04:23.6492728
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,4,00:00:17.3327306
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,1,00:00:02.6769835
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,1,00:00:01.7372342
+Swing/spin/flip,1,00:00:15.4145855
+Scratch,0,00:00:00
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

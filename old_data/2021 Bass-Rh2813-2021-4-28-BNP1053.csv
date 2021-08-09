@@ -1,0 +1,85 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass2021,,,,,,,,
+Indiv ID:,Rh2813,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,Ab117c5,,,,,,,,
+Behavior Date:,4/28/21,,,,,,,,
+Behavior Time:,10:53 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/28/21 10:53,,,,,,,,
+Coding Ended:,4/28/21 10:58,,,,,,,,
+Session duration:,0:05:01,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Groom,10:53:50,00:14.6,00:14.6
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:54:05,00:23.6,00:38.2
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Locomotion,10:54:28,00:03.2,00:41.4
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Lipsmack,10:54:32,00:07.0,00:48.4
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Threat/display,10:54:38,00:04.6,00:53.0
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:54:43,00:02.6,00:55.5
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Yawn,10:54:46,00:01.5,00:57.0
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:54:47,00:02.8,00:59.8
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Scratch,10:54:50,00:03.8,01:03.5
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:54:54,00:02.2,01:05.7
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Scratch,10:54:56,00:06.8,01:12.6
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:55:03,00:27.3,01:39.9
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Groom,10:55:30,00:44.0,02:23.8
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:56:14,00:01.7,02:25.6
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Yawn,10:56:16,00:04.0,02:29.6
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Tactile/explore,10:56:20,00:03.1,02:32.7
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:56:23,00:02.1,02:34.8
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Yawn,10:56:25,00:01.4,02:36.3
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:56:26,00:05.6,02:41.9
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Locomotion,10:56:32,00:02.3,02:44.1
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:56:34,00:04.2,02:48.3
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Yawn,10:56:38,00:01.8,02:50.1
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Tactile/explore,10:56:40,00:28.2,03:18.3
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:57:08,00:02.2,03:20.5
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Yawn,10:57:11,00:02.0,03:22.5
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:57:13,00:11.9,03:34.4
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Yawn,10:57:25,00:01.5,03:36.0
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:57:26,00:20.5,03:56.4
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Mantleshake,10:57:47,00:01.7,03:58.1
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:57:48,00:03.7,04:01.8
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Groom,10:57:52,00:03.4,04:05.2
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:57:55,00:05.5,04:10.7
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Tactile/explore,10:58:01,00:08.4,04:19.1
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:58:09,00:04.7,04:23.9
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Yawn,10:58:14,00:01.6,04:25.5
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:58:16,00:02.9,04:28.4
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Tactile/explore,10:58:18,00:02.7,04:31.1
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Inactive,10:58:21,00:02.8,04:33.9
+BNP,Rh2813,Single,Ab117c5,4/28/21,1.0.43.0,Tactile/explore,10:58:24,00:27.2,05:01.1
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,17,02:06.2,,,,,,,
+Threat/display,1,00:04.6,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,2,00:05.5,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,5,01:09.6,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,2,00:10.6,,,,,,,
+Lipsmack,1,00:07.0,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,7,00:14.0,,,,,,,
+Groom,3,01:01.9,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,1,00:01.7,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

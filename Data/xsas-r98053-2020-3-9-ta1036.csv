@@ -1,0 +1,32 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,sas
+Indiv ID:,r98053
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-3-9
+Behavior Time:,11:12 AM
+Ethogram:,2020 sas.csv
+Coding Began:,03/11/2020 10:36:44 AM
+Coding Ended:,03/11/2020 10:41:48 AM
+Session duration:,00:05:04
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Inactive,10:36:44,00:00:27.6262346,00:00:27.6262346
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Locomotion,10:37:11,00:00:03.8048368,00:00:31.4310714
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Pacing,10:37:15,00:00:15.2098424,00:00:46.6409138
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Inactive,10:37:30,00:00:52.5975560,00:01:39.2384698
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Locomotion,10:38:23,00:00:06.1233570,00:01:45.3618268
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Pacing,10:38:29,00:00:53.4842658,00:02:38.8460926
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Inactive,10:39:23,00:01:27.9182863,00:04:06.7643789
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Locomotion,10:40:51,00:00:02.7911859,00:04:09.5555648
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Inactive,10:40:53,00:00:09.7836799,00:04:19.3392447
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Locomotion,10:41:03,00:00:02.4882382,00:04:21.8274829
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Inactive,10:41:06,00:00:10.3628964,00:04:32.1903793
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Locomotion,10:41:16,00:00:07.1723329,00:04:39.3627122
+ta,r98053,Sunny,,2020-3-9,1.0.37.0,Pacing,10:41:23,00:00:23.5670625,00:05:02.9297747

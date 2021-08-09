@@ -1,0 +1,59 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,rh2922
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,mr1527c3
+Behavior Date:,2021-5-10
+Behavior Time:,10:20 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/10/2021 10:20:50 AM
+Coding Ended:,05/10/2021 10:25:53 AM
+Session duration:,00:05:02
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,rh2922,Pair,mr1527c3,2021-5-10,1.0.46.0,Inactive,10:20:50,00:00:21.7614061,00:00:21.7614061
+ta,rh2922,Pair,mr1527c3,2021-5-10,1.0.46.0,Locomotion,10:21:12,00:00:08.2742722,00:00:30.0356783
+ta,rh2922,Pair,mr1527c3,2021-5-10,1.0.46.0,Inactive,10:21:20,00:00:15.6179071,00:00:45.6535854
+ta,rh2922,Pair,mr1527c3,2021-5-10,1.0.46.0,SocGroom,10:21:36,00:00:23.6639096,00:01:09.3174950
+ta,rh2922,Pair,mr1527c3,2021-5-10,1.0.46.0,Groom,10:21:59,00:00:51.5266991,00:02:00.8441941
+ta,rh2922,Pair,mr1527c3,2021-5-10,1.0.46.0,Scratch,10:22:51,00:00:04.2707749,00:02:05.1149690
+ta,rh2922,Pair,mr1527c3,2021-5-10,1.0.46.0,Groom,10:22:55,00:00:48.7971270,00:02:53.9120960
+ta,rh2922,Pair,mr1527c3,2021-5-10,1.0.46.0,Inactive,10:23:44,00:00:25.0440910,00:03:18.9561870
+ta,rh2922,Pair,mr1527c3,2021-5-10,1.0.46.0,Groom,10:24:09,00:00:38.8874119,00:03:57.8435989
+ta,rh2922,Pair,mr1527c3,2021-5-10,1.0.46.0,Inactive,10:24:48,00:01:03.2972888,00:05:01.1408877
+
+BehavCode, Occurrences, totalTime
+Inactive,4,00:02:05.7206930
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,1,00:00:08.2742722
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,1,00:00:04.2707749
+Groom,3,00:02:19.2112380
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,1,00:00:23.6639096
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

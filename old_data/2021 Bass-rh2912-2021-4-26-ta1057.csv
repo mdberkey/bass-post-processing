@@ -1,0 +1,58 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,rh2912,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,mr1522c5,,,,,,,,
+Behavior Date:,4/26/21,,,,,,,,
+Behavior Time:,10:56 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/26/21 10:57,,,,,,,,
+Coding Ended:,4/26/21 11:02,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Inactive,10:57:29,01:29.5,01:29.5
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Scratch,10:58:59,00:03.8,01:33.3
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Inactive,10:59:03,00:44.0,02:17.4
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Scratch,10:59:47,00:04.1,02:21.5
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Inactive,10:59:51,00:19.7,02:41.2
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Eat/drink,11:00:11,00:22.2,03:03.4
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Vocal,11:00:33,00:02.0,03:05.4
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Inactive,11:00:35,01:01.0,04:06.5
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Eat/drink,11:01:36,00:07.8,04:14.2
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Inactive,11:01:44,00:31.4,04:45.7
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Yawn,11:02:15,00:01.7,04:47.4
+ta,rh2912,Single,mr1522c5,4/26/21,1.0.43.0,Inactive,11:02:17,00:13.6,05:01.0
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,6,04:19.3,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,0,0:00:00,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,2,00:30.0,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,2,00:08.0,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,1,00:01.7,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,1,00:02.0,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

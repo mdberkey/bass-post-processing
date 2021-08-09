@@ -1,0 +1,73 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,ta
+Study Code:,bass
+Indiv ID:,cy1037
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,a271c3
+Behavior Date:,2021-5-5
+Behavior Time:,11:07 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/05/2021 11:08:07 AM
+Coding Ended:,05/05/2021 11:13:47 AM
+Session duration:,00:05:39
+App Version:,1.0.44.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Eat/drink,11:08:07,00:00:09.4989216,00:00:09.4989216
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Locomotion,11:08:16,00:00:01.2411434,00:00:10.7400650
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Tactile/expl,11:08:18,00:00:10.0692537,00:00:20.8093187
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Locomotion,11:08:28,00:00:03.1032169,00:00:23.9125356
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Tactile/expl,11:08:31,00:00:04.3707368,00:00:28.2832724
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Eat/drink,11:08:35,00:00:39.6529944,00:01:07.9362668
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Inactive,11:09:15,00:00:10.0193101,00:01:17.9555769
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Tactile/expl,11:09:25,00:00:18.0772868,00:01:36.0328637
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Inactive,11:09:43,00:00:32.9957374,00:02:09.0286011
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Tactile/expl,11:10:16,00:00:09.9492101,00:02:18.9778112
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Groom,11:10:26,00:00:07.9124403,00:02:26.8902515
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Inactive,11:10:34,00:00:29.4642267,00:02:56.3544782
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Groom,11:11:03,00:00:13.6964163,00:03:10.0508945
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Locomotion,11:11:17,00:00:03.1388062,00:03:13.1897007
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Eat/drink,11:11:20,00:00:25.4004288,00:03:38.5901295
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Inactive,11:11:45,00:00:26.9896103,00:04:05.5797398
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Tactile/expl,11:12:12,00:00:05.4423957,00:04:11.0221355
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Locomotion,11:12:18,00:00:02.7184194,00:04:13.7405549
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Inactive,11:12:21,00:00:04.0033360,00:04:17.7438909
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Tactile/expl,11:12:25,00:00:26.4518089,00:04:44.1956998
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Eat/drink,11:12:51,00:00:38.9916257,00:05:23.1873255
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Eat/drink,11:13:30,00:00:06.1704332,00:05:29.3577587
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Locomotion,11:13:36,00:00:07.2240114,00:05:36.5817701
+ta,cy1037,Pair,a271c3,2021-5-5,1.0.44.0,Inactive,11:13:43,00:00:01.8035038,00:05:38.3852739
+
+BehavCode, Occurrences, totalTime
+Inactive,6,00:01:45.2757243
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,5,00:00:17.4255973
+Aggression,0,00:00:00
+Eat/drink,5,00:01:59.7144037
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/expl,6,00:01:14.3606920
+Jumping,0,00:00:00
+FearGrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,2,00:00:21.6088566
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

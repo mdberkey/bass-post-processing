@@ -1,0 +1,72 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,ta,,,,,,,,
+Study Code:,bass,,,,,,,,
+Indiv ID:,cy0727,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,mr1557c3,,,,,,,,
+Behavior Date:,4/20/21,,,,,,,,
+Behavior Time:,9:51 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/20/21 9:53,,,,,,,,
+Coding Ended:,4/20/21 9:58,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:53:19,00:02.4,00:02.4
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Scratch,9:53:22,00:02.2,00:04.6
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:53:24,00:07.5,00:12.1
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Yawn,9:53:31,00:01.0,00:13.2
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:53:32,00:38.2,00:51.4
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Social/play,9:54:10,00:58.2,01:49.6
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Headtoss,9:55:09,00:03.2,01:52.7
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:55:12,00:14.5,02:07.3
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Headtoss,9:55:26,00:01.3,02:08.6
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:55:28,00:09.9,02:18.4
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Headtoss,9:55:38,00:01.5,02:19.9
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:55:39,01:16.7,03:36.6
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Yawn,9:56:56,00:01.5,03:38.1
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:56:57,00:20.5,03:58.6
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Headtoss,9:57:18,00:01.6,04:00.2
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:57:19,00:04.1,04:04.4
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Headtoss,9:57:23,00:01.3,04:05.6
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:57:25,00:21.5,04:27.2
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Yawn,9:57:46,00:01.2,04:28.3
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:57:47,00:13.9,04:42.2
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Headtoss,9:58:01,00:00.6,04:42.8
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Inactive,9:58:02,00:02.0,04:44.8
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Locomotion,9:58:04,00:06.7,04:51.5
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Pacing,9:58:11,00:08.4,04:59.8
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Headtoss,9:58:19,00:01.2,05:01.0
+ta,cy0727,Pair,mr1557c3,4/20/21,1.0.43.0,Pacing,9:58:20,00:01.4,05:02.4
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,11,03:31.3,,,,,,,
+Threat/display,0,0:00:00,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,1,00:06.7,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,2,00:09.7,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:02.2,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,3,00:03.7,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,1,00:58.2,,,,,,,
+Headtoss,7,00:10.6,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

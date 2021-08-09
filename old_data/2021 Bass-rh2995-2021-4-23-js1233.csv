@@ -1,0 +1,83 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,js,,,,,,,,
+Study Code:,2021bass,,,,,,,,
+Indiv ID:,rh2995,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Pair,,,,,,,,
+Room/Cage:,bmqh1c1,,,,,,,,
+Behavior Date:,4/23/21,,,,,,,,
+Behavior Time:,12:32 PM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/23/21 12:33,,,,,,,,
+Coding Ended:,4/23/21 12:38,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Tactile/explore,12:33:32,00:03.1,00:03.1
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:33:35,00:16.2,00:19.3
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Threat/display,12:33:52,00:01.6,00:20.9
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:33:53,00:02.4,00:23.3
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Tactile/explore,12:33:56,00:08.2,00:31.5
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:34:04,00:01.1,00:32.6
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:34:05,00:05.7,00:38.3
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Groom,12:34:11,00:02.0,00:40.3
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Tactile/explore,12:34:13,00:23.3,01:03.7
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:34:36,00:02.5,01:06.2
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:34:38,00:01.7,01:07.9
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:34:40,00:03.0,01:10.8
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:34:43,00:11.4,01:22.2
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Groom,12:34:54,00:02.8,01:25.0
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Scratch,12:34:57,00:04.2,01:29.2
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Tactile/explore,12:35:01,00:16.0,01:45.2
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Threat/display,12:35:17,00:06.9,01:52.1
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:35:24,00:01.6,01:53.7
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:35:26,00:06.2,01:59.8
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Scratch,12:35:32,00:03.2,02:03.1
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Tactile/explore,12:35:35,00:23.8,02:26.8
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:35:59,00:02.5,02:29.3
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:36:02,00:13.1,02:42.4
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:36:15,00:02.1,02:44.5
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Threat/display,12:36:17,00:02.7,02:47.2
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:36:19,00:05.2,02:52.4
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Yawn,12:36:25,00:01.9,02:54.3
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:36:26,00:01.5,02:55.8
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Tactile/explore,12:36:28,00:14.4,03:10.2
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:36:42,00:05.7,03:15.9
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:36:48,00:01.5,03:17.5
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:36:50,00:08.7,03:26.2
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Vocal,12:36:58,00:01.7,03:27.9
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Inactive,12:37:00,01:02.8,04:30.7
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Tactile/explore,12:38:03,00:06.9,04:37.6
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Locomotion,12:38:10,00:02.5,04:40.1
+js,rh2995,Pair,bmqh1c1,4/23/21,1.0.43.0,Tactile/explore,12:38:12,00:21.5,05:01.6
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,12,02:20.5,,,,,,,
+Threat/display,3,00:11.3,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,8,00:16.8,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,8,01:57.3,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,2,00:07.4,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,1,00:01.9,,,,,,,
+Groom,2,00:04.8,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,1,00:01.7,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

@@ -1,0 +1,56 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,rh2004,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,cb11c59,,,,,,,,
+Behavior Date:,4/23/21,,,,,,,,
+Behavior Time:,10:29 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/23/21 10:30,,,,,,,,
+Coding Ended:,4/23/21 10:36,,,,,,,,
+Session duration:,0:05:02,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,rh2004,Single,cb11c59,4/23/21,1.0.43.0,Groom,10:30:58,00:35.1,00:35.1
+mr,rh2004,Single,cb11c59,4/23/21,1.0.43.0,Threat/display,10:31:33,00:20.4,00:55.5
+mr,rh2004,Single,cb11c59,4/23/21,1.0.43.0,Inactive,10:31:53,01:24.0,02:19.5
+mr,rh2004,Single,cb11c59,4/23/21,1.0.43.0,Locomotion,10:33:17,00:23.0,02:42.6
+mr,rh2004,Single,cb11c59,4/23/21,1.0.43.0,Pacing,10:33:40,00:52.2,03:34.8
+mr,rh2004,Single,cb11c59,4/23/21,1.0.43.0,Locomotion,10:34:33,00:04.3,03:39.0
+mr,rh2004,Single,cb11c59,4/23/21,1.0.43.0,Eat/drink,10:34:37,00:51.7,04:30.7
+mr,rh2004,Single,cb11c59,4/23/21,1.0.43.0,Lipsmack,10:35:29,00:02.8,04:33.6
+mr,rh2004,Single,cb11c59,4/23/21,1.0.43.0,Scratch,10:35:31,00:06.0,04:39.6
+mr,rh2004,Single,cb11c59,4/23/21,1.0.43.0,Inactive,10:35:37,00:21.8,05:01.3
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,2,01:45.8,,,,,,,
+Threat/display,1,00:20.4,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,2,00:27.3,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,1,00:51.7,,,,,,,
+Pacing,1,00:52.2,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:06.0,,,,,,,
+Lipsmack,1,00:02.8,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,1,00:35.1,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

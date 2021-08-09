@@ -1,0 +1,62 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,R18106
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,Ab119c38
+Behavior Date:,2021-6-14
+Behavior Time:,12:07 PM
+Ethogram:,2021 bass.csv
+Coding Began:,06/14/2021 12:08:27 PM
+Coding Ended:,06/14/2021 12:13:28 PM
+Session duration:,00:05:01
+App Version:,1.0.46.0
+Notes:,
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Groom,12:08:27,00:00:05.2175299,00:00:05.2175299
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Locomotion,12:08:32,00:00:05.7659761,00:00:10.9835060
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Lipsmack,12:08:38,00:00:03.0700992,00:00:14.0536052
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Groom,12:08:41,00:00:12.5001597,00:00:26.5537649
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Locomotion,12:08:54,00:00:02.4557479,00:00:29.0095128
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Groom,12:08:56,00:00:44.1244063,00:01:13.1339191
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Locomotion,12:09:40,00:00:02.6195966,00:01:15.7535157
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Groom,12:09:43,00:02:39.8608199,00:03:55.6143356
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Inactive,12:12:23,00:00:05.7383550,00:04:01.3526906
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Groom,12:12:29,00:00:35.4470487,00:04:36.7997393
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Locomotion,12:13:04,00:00:04.3212578,00:04:41.1209971
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Feargrimace,12:13:08,00:00:03.3885325,00:04:44.5095296
+BNP,R18106,Pair,Ab119c38,2021-6-14,1.0.46.0,Groom,12:13:12,00:00:15.7756034,00:05:00.2851330
+
+BehavCode, Occurrences, totalTime
+Inactive,1,00:00:05.7383550
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,4,00:00:15.1625784
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,0,00:00:00
+Jumping,0,00:00:00
+Feargrimace,1,00:00:03.3885325
+Lipsmack,1,00:00:03.0700992
+Swing/spin/flip,0,00:00:00
+Scratch,0,00:00:00
+Groom,6,00:04:32.9255679
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

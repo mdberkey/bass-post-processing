@@ -1,0 +1,23 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,SAs
+Indiv ID:,R13093
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2020-1-16
+Behavior Time:,11:45 AM
+Ethogram:,2020 sas.csv
+Coding Began:,01/16/2020 13:29:32 PM
+Coding Ended:,01/16/2020 13:34:34 PM
+Session duration:,00:05:01
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,R13093,Sunny,,2020-1-16,1.0.37.0,Inactive,01:29:32,00:01:42.9772196,00:01:42.9772196
+Bnp,R13093,Sunny,,2020-1-16,1.0.37.0,Display,01:31:15,00:00:04.4511567,00:01:47.4283763
+Bnp,R13093,Sunny,,2020-1-16,1.0.37.0,Locomotion,01:31:19,00:00:09.8044607,00:01:57.2328370
+Bnp,R13093,Sunny,,2020-1-16,1.0.37.0,Inactive,01:31:29,00:03:03.6031570,00:05:00.8359940

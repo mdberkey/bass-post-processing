@@ -1,0 +1,108 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,Js,,,,,,,,
+Study Code:,2021bass,,,,,,,,
+Indiv ID:,Cy1049,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,bmqh2c13,,,,,,,,
+Behavior Date:,5/5/21,,,,,,,,
+Behavior Time:,10:42 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,5/5/21 10:43,,,,,,,,
+Coding Ended:,5/5/21 10:48,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:43:41,00:13.8,00:13.8
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Locomotion,10:43:55,00:01.7,00:15.5
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:43:57,00:03.8,00:19.3
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Locomotion,10:44:00,00:02.4,00:21.6
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:44:03,00:01.2,00:22.9
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Locomotion,10:44:04,00:02.3,00:25.2
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:44:06,00:06.7,00:31.9
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:44:13,00:02.6,00:34.4
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:44:16,00:05.2,00:39.6
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Eat/drink,10:44:21,00:02.3,00:41.9
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:44:23,00:12.4,00:54.3
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Eat/drink,10:44:36,00:02.6,00:57.0
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:44:38,00:05.5,01:02.4
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:44:44,00:09.7,01:12.2
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:44:53,00:03.3,01:15.5
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:44:57,00:01.9,01:17.4
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:44:59,00:02.8,01:20.2
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Threat/display,10:45:01,00:03.7,01:23.9
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:45:05,00:14.4,01:38.3
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:45:20,00:06.9,01:45.3
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:45:26,00:02.3,01:47.6
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:45:29,00:04.3,01:51.8
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:45:33,00:08.4,02:00.3
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Threat/display,10:45:41,00:01.9,02:02.1
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:45:43,00:05.9,02:08.0
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:45:49,00:02.5,02:10.5
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:45:52,00:05.6,02:16.1
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:45:57,00:04.1,02:20.2
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:46:01,00:03.2,02:23.3
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:46:05,00:06.9,02:30.3
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Locomotion,10:46:11,00:03.1,02:33.4
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:46:15,00:03.1,02:36.5
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Locomotion,10:46:18,00:02.6,02:39.0
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:46:20,00:06.0,02:45.0
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:46:26,00:04.6,02:49.6
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:46:31,00:09.4,02:59.0
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Locomotion,10:46:40,00:05.7,03:04.8
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:46:46,00:05.4,03:10.1
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:46:51,00:03.2,03:13.4
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:46:55,00:04.2,03:17.5
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Scratch,10:46:59,00:03.5,03:21.1
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:47:02,00:08.9,03:29.9
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Selfdirect,10:47:11,00:01.5,03:31.5
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:47:13,00:01.3,03:32.8
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:47:14,00:07.1,03:39.9
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:47:21,00:09.8,03:49.8
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:47:31,00:05.7,03:55.5
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:47:37,00:05.4,04:00.8
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:47:42,00:02.6,04:03.4
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Threat/display,10:47:45,00:01.6,04:05.0
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:47:46,00:12.3,04:17.3
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:47:58,00:04.1,04:21.4
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:48:03,00:03.8,04:25.2
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Rock,10:48:06,00:03.6,04:28.9
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:48:10,00:07.5,04:36.3
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Locomotion,10:48:18,00:02.7,04:39.0
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:48:20,00:06.9,04:46.0
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Threat/display,10:48:27,00:03.9,04:49.9
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:48:31,00:07.0,04:56.9
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Eat/drink,10:48:38,00:02.2,04:59.2
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Locomotion,10:48:40,00:01.8,05:01.0
+Js,Cy1049,Single,bmqh2c13,5/5/21,1.0.43.0,Inactive,10:48:42,00:01.1,05:02.1
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,29,03:05.4,,,,,,,
+Threat/display,4,00:11.1,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,8,00:22.3,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,3,00:07.2,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,1,00:03.5,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,16,01:11.0,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,1,00:01.5,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,

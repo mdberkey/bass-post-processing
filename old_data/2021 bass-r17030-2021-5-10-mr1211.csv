@@ -1,0 +1,69 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,mr
+Study Code:,2021 bass
+Indiv ID:,r17030
+Obs Site:,Blank Park Zoo
+Obs Type:,Assessment
+Housing:,Pair
+Room/Cage:,c428cc5
+Behavior Date:,2021-5-10
+Behavior Time:,12:11 PM
+Ethogram:,2021 bass.csv
+Coding Began:,05/10/2021 12:11:54 PM
+Coding Ended:,05/10/2021 12:17:06 PM
+Session duration:,00:05:11
+App Version:,1.0.46.0
+Notes:,social=cuddle
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Inactive,12:11:54,00:00:34.9618185,00:00:34.9618185
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Tactile/explore,12:12:29,00:00:10.3114589,00:00:45.2732774
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Inactive,12:12:40,00:00:36.1591418,00:01:21.4324192
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Tactile/explore,12:13:16,00:00:07.5174331,00:01:28.9498523
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Inactive,12:13:23,00:00:07.5971725,00:01:36.5470248
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Scratch,12:13:31,00:00:06.4839807,00:01:43.0310055
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Tactile/explore,12:13:37,00:00:13.8441265,00:01:56.8751320
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Social/play,12:13:51,00:00:03.8512507,00:02:00.7263827
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Yawn,12:13:55,00:00:12.2912350,00:02:13.0176177
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Social/play,12:14:07,00:00:28.4946789,00:02:41.5122966
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Scratch,12:14:36,00:00:18.2186417,00:02:59.7309383
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Groom,12:14:54,00:00:07.2799200,00:03:07.0108583
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Yawn,12:15:01,00:00:07.7617076,00:03:14.7725659
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Inactive,12:15:09,00:00:13.6856248,00:03:28.4581907
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Tactile/explore,12:15:23,00:00:44.1685629,00:04:12.6267536
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Locomotion,12:16:07,00:00:04.4936770,00:04:17.1204306
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Threat/display,12:16:12,00:00:05.7203039,00:04:22.8407345
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Locomotion,12:16:17,00:00:15.8739039,00:04:38.7146384
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Pacing,12:16:33,00:00:17.8752273,00:04:56.5898657
+mr,r17030,Pair,c428cc5,2021-5-10,1.0.46.0,Inactive,12:16:51,00:00:05.7064155,00:05:02.2962812
+
+BehavCode, Occurrences, totalTime
+Inactive,5,00:01:38.1101731
+Threat/display,1,00:00:05.7203039
+Sex/self/other,0,00:00:00
+Locomotion,2,00:00:20.3675809
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,1,00:00:17.8752273
+Present,0,00:00:00
+Tactile/explore,4,00:01:15.8415814
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:24.7026224
+Groom,1,00:00:07.2799200
+Rock,0,00:00:00
+Yawn,2,00:00:20.0529426
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,2,00:00:32.3459296
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,0,00:00:00

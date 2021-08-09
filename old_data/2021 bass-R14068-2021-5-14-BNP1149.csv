@@ -1,0 +1,58 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Bass2021
+Indiv ID:,R14068
+Obs Site:,Other Site
+Obs Type:,Assessment
+Housing:,Single
+Room/Cage:,Ab108c9
+Behavior Date:,2021-5-14
+Behavior Time:,11:48 AM
+Ethogram:,2021 bass.csv
+Coding Began:,05/14/2021 11:49:30 AM
+Coding Ended:,05/14/2021 11:54:41 AM
+Session duration:,00:05:10
+App Version:,1.0.46.0
+Notes:,Other=regurgitate
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R14068,Single,Ab108c9,2021-5-14,1.0.46.0,Inactive,11:49:30,00:01:39.6505330,00:01:39.6505330
+BNP,R14068,Single,Ab108c9,2021-5-14,1.0.46.0,Scratch,11:51:10,00:00:02.6033251,00:01:42.2538581
+BNP,R14068,Single,Ab108c9,2021-5-14,1.0.46.0,Inactive,11:51:12,00:00:38.0143435,00:02:20.2682016
+BNP,R14068,Single,Ab108c9,2021-5-14,1.0.46.0,Scratch,11:51:50,00:00:03.5892689,00:02:23.8574705
+BNP,R14068,Single,Ab108c9,2021-5-14,1.0.46.0,Inactive,11:51:54,00:00:30.1231703,00:02:53.9806408
+BNP,R14068,Single,Ab108c9,2021-5-14,1.0.46.0,Tactile/explore,11:52:24,00:00:24.9617575,00:03:18.9423983
+BNP,R14068,Single,Ab108c9,2021-5-14,1.0.46.0,Locomotion,11:52:49,00:00:04.4164834,00:03:23.3588817
+BNP,R14068,Single,Ab108c9,2021-5-14,1.0.46.0,Inactive,11:52:54,00:00:40.6243128,00:04:03.9831945
+BNP,R14068,Single,Ab108c9,2021-5-14,1.0.46.0,Other,11:53:34,00:00:56.3701276,00:05:00.3533221
+
+BehavCode, Occurrences, totalTime
+Inactive,4,00:03:28.4123596
+Threat/display,0,00:00:00
+Sex/self/other,0,00:00:00
+Locomotion,1,00:00:04.4164834
+Aggression,0,00:00:00
+Eat/drink,0,00:00:00
+Pacing,0,00:00:00
+Present,0,00:00:00
+Tactile/explore,1,00:00:24.9617575
+Jumping,0,00:00:00
+Feargrimace,0,00:00:00
+Lipsmack,0,00:00:00
+Swing/spin/flip,0,00:00:00
+Scratch,2,00:00:06.1925940
+Groom,0,00:00:00
+Rock,0,00:00:00
+Yawn,0,00:00:00
+SocGroom,0,00:00:00
+Headtoss,0,00:00:00
+Mantleshake,0,00:00:00
+Social/play,0,00:00:00
+Salute,0,00:00:00
+Selfdirect,0,00:00:00
+Vocal,0,00:00:00
+Cling,0,00:00:00
+Selfbite,0,00:00:00
+Other,1,00:00:56.3701276

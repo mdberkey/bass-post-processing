@@ -1,0 +1,74 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,mr,,,,,,,,
+Study Code:,2021 bass,,,,,,,,
+Indiv ID:,r11034,,,,,,,,
+Obs Site:,Blank Park Zoo,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Single,,,,,,,,
+Room/Cage:,cb11c18,,,,,,,,
+Behavior Date:,4/19/21,,,,,,,,
+Behavior Time:,11:59 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/19/21 12:00,,,,,,,,
+Coding Ended:,4/19/21 12:05,,,,,,,,
+Session duration:,0:05:03,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+Notes:,other=nail biting,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Tactile/exploreore,12:00:32,00:21.4,00:21.4
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Inactive,12:00:53,00:37.2,00:58.6
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Locomotion,12:01:30,00:03.6,01:02.2
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Scratch,12:01:34,00:05.0,01:07.2
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Other,12:01:39,00:07.1,01:14.4
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Inactive,12:01:46,00:08.7,01:23.1
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Scratch,12:01:55,00:03.5,01:26.5
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Locomotion,12:01:58,00:08.5,01:35.1
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Inactive,12:02:07,00:07.2,01:42.3
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Locomotion,12:02:14,00:05.5,01:47.7
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Tactile/exploreore,12:02:20,00:05.3,01:53.0
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Lipsmack,12:02:25,00:02.9,01:55.9
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Inactive,12:02:28,00:18.9,02:14.8
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Scratch,12:02:47,00:04.1,02:18.9
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Inactive,12:02:51,00:55.1,03:14.0
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Locomotion,12:03:46,00:06.2,03:20.2
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Other,12:03:52,00:12.2,03:32.4
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Tactile/exploreore,12:04:04,00:03.4,03:35.8
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Inactive,12:04:08,00:17.8,03:53.6
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Other,12:04:26,00:08.4,04:02.0
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Scratch,12:04:34,00:02.6,04:04.6
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Inactive,12:04:36,00:13.5,04:18.1
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Locomotion,12:04:50,00:05.0,04:23.0
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Scratch,12:04:55,00:07.1,04:30.1
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Inactive,12:05:02,00:19.0,04:49.2
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Threat/display,12:05:21,00:03.1,04:52.2
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Locomotion,12:05:24,00:04.6,04:56.8
+mr,r11034,Single,cb11c18,4/19/21,1.0.43.0,Inactive,12:05:29,00:04.4,05:01.2
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,9,03:01.9,,,,,,,
+Threat/display,1,00:03.1,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,6,00:33.4,,,,,,,
+Present,0,0:00:00,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,0,0:00:00,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/exploreore,3,00:30.1,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,5,00:22.3,,,,,,,
+Lipsmack,1,00:02.9,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,0,0:00:00,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,3,00:27.6,,,,,,,

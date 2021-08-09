@@ -1,0 +1,63 @@
+Focal Animal Recording,,,,,,,,,
+(c)Michael J. Renner,,,,,,,,,
+,,,,,,,,,
+Observer:,BNP,,,,,,,,
+Study Code:,Bass 2021,,,,,,,,
+Indiv ID:,R19086,,,,,,,,
+Obs Site:,Other Site,,,,,,,,
+Obs Type:,Assessment,,,,,,,,
+Housing:,Group,,,,,,,,
+Room/Cage:,Ab112/13,,,,,,,,
+Behavior Date:,4/15/21,,,,,,,,
+Behavior Time:,11:50 AM,,,,,,,,
+Ethogram:,2021 Bass.csv,,,,,,,,
+Coding Began:,4/15/21 11:51,,,,,,,,
+Coding Ended:,4/15/21 11:56,,,,,,,,
+Session duration:,0:05:07,,,,,,,,
+App Version:,1.0.43.0,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:51:41,00:17.0,00:17.0
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:51:58,00:41.9,00:58.9
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Threat/display,11:52:40,00:04.1,01:02.9
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:52:44,00:00.6,01:03.6
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Present,11:52:45,00:06.6,01:10.2
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:52:51,00:04.1,01:14.3
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:52:56,00:01.3,01:15.6
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:52:57,00:14.6,01:30.2
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:53:11,00:38.6,02:08.7
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Pacing,11:53:50,00:08.8,02:17.5
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:53:59,00:07.6,02:25.1
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:54:06,00:08.5,02:33.6
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:54:15,00:20.8,02:54.4
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:54:36,01:30.2,04:24.6
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Inactive,11:56:06,00:12.4,04:37.0
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Selfdirect,11:56:18,00:03.2,04:40.1
+BNP,R19086,Group,Ab112/13,4/15/21,1.0.43.0,Locomotion,11:56:21,00:26.8,05:06.9
+,,,,,,,,,
+BehavCode, Occurrences, totalTime,,,,,,,
+Inactive,6,01:16.4,,,,,,,
+Threat/display,1,00:04.1,,,,,,,
+Sex/self/other,0,0:00:00,,,,,,,
+Locomotion,7,03:27.9,,,,,,,
+Present,1,00:06.6,,,,,,,
+Eat/drink,0,0:00:00,,,,,,,
+Pacing,1,00:08.8,,,,,,,
+FearGrimace,0,0:00:00,,,,,,,
+Tactile/explore,0,0:00:00,,,,,,,
+Jumping,0,0:00:00,,,,,,,
+Scratch,0,0:00:00,,,,,,,
+Lipsmack,0,0:00:00,,,,,,,
+Swing/spin/flip,0,0:00:00,,,,,,,
+Yawn,0,0:00:00,,,,,,,
+Groom,0,0:00:00,,,,,,,
+Rock,0,0:00:00,,,,,,,
+Mantleshake,0,0:00:00,,,,,,,
+Social/play,0,0:00:00,,,,,,,
+Headtoss,0,0:00:00,,,,,,,
+Selfdirect,1,00:03.2,,,,,,,
+Vocal,0,0:00:00,,,,,,,
+Salute,0,0:00:00,,,,,,,
+Selfbite,0,0:00:00,,,,,,,
+Other,0,0:00:00,,,,,,,
