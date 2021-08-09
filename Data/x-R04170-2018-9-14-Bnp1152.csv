@@ -1,0 +1,20 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,
+Indiv ID:,R04170
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-9-14
+Behavior Time:,11:51 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,09/14/2018 11:52:27 AM
+Coding Ended:,09/14/2018 11:57:30 AM
+Session duration:,00:05:03
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,R04170,Sunny,,2018-9-14,1.0.37.0,Inactive,11:52:27,00:05:01.3643143,00:05:01.3643143

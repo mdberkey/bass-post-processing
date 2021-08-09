@@ -1,0 +1,31 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,Sass
+Indiv ID:,Rhbh51
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-9-20
+Behavior Time:,10:40 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,09/21/2018 10:43:55 AM
+Coding Ended:,09/21/2018 10:48:57 AM
+Session duration:,00:05:01
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Swing/spin/flip,10:43:55,00:00:15.4053924,00:00:15.4053924
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Inactive,10:44:11,00:00:15.8082233,00:00:31.2136157
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Other,10:44:26,00:00:01.1526935,00:00:32.3663092
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Inactive,10:44:28,00:00:46.2859167,00:01:18.6522259
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Other,10:45:14,00:00:04.1454093,00:01:22.7976352
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Swing/spin/flip,10:45:18,00:00:17.9237628,00:01:40.7213980
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Pacing,10:45:36,00:00:12.0684546,00:01:52.7898526
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Inactive,10:45:48,00:00:10.4870498,00:02:03.2769024
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Pacing,10:45:58,00:00:09.9744611,00:02:13.2513635
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Inactive,10:46:08,00:00:39.1283954,00:02:52.3797589
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Scratch,10:46:48,00:00:01.9194952,00:02:54.2992541
+Bnp,Rhbh51,Sunny,,2018-9-20,1.0.37.0,Inactive,10:46:49,00:02:06.3189170,00:05:00.6181711

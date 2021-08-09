@@ -1,0 +1,24 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,Sass
+Indiv ID:,Cy0936 
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-8-28
+Behavior Time:,11:27 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,08/28/2018 11:28:33 AM
+Coding Ended:,08/28/2018 11:29:21 AM
+Session duration:,00:00:48
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,Cy0936 ,Sunny,,2018-8-28,1.0.37.0,Other,11:28:33,00:00:13.6103040,00:00:13.6103040
+Js,Cy0936 ,Sunny,,2018-8-28,1.0.37.0,Inactive,11:28:46,00:00:06.4691814,00:00:20.0794854
+Js,Cy0936 ,Sunny,,2018-8-28,1.0.37.0,Locomotion,11:28:53,00:00:05.0472220,00:00:25.1267074
+Js,Cy0936 ,Sunny,,2018-8-28,1.0.37.0,Pacing,11:28:58,00:00:10.7038406,00:00:35.8305480
+Js,Cy0936 ,Sunny,,2018-8-28,1.0.37.0,Other,11:29:09,00:00:09.2037492,00:00:45.0342972

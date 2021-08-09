@@ -1,0 +1,31 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,
+Indiv ID:,R96121
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-6-18
+Behavior Time:,10:45 AM
+Ethogram:,General Behavior Assessment.csv
+Coding Began:,06/18/2018 13:09:06 PM
+Coding Ended:,06/18/2018 13:14:09 PM
+Session duration:,00:05:02
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Inactive,01:09:06,00:00:31.9711998,00:00:31.9711998
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Yawn,01:09:38,00:00:01.7339937,00:00:33.7051935
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Inactive,01:09:40,00:01:22.0700906,00:01:55.7752841
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Locomotion,01:11:02,00:00:43.0505722,00:02:38.8258563
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Inactive,01:11:45,00:00:31.0774168,00:03:09.9032731
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Rock,01:12:16,00:00:26.0573415,00:03:35.9606146
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Inactive,01:12:42,00:00:19.8179123,00:03:55.7785269
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Drink,01:13:02,00:00:12.6365016,00:04:08.4150285
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Locomotion,01:13:14,00:00:05.1363896,00:04:13.5514181
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Inactive,01:13:19,00:00:12.2451666,00:04:25.7965847
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Locomotion,01:13:32,00:00:01.8740648,00:04:27.6706495
+Bnp,R96121,Sunny,,2018-6-18,1.0.37.0,Inactive,01:13:34,00:00:33.0121646,00:05:00.6828141

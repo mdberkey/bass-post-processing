@@ -1,0 +1,29 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,MR
+Study Code:,Sass
+Indiv ID:,Cy0946
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-8-28
+Behavior Time:,11:15 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,08/28/2018 11:16:21 AM
+Coding Ended:,08/28/2018 11:21:24 AM
+Session duration:,00:05:03
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+MR,Cy0946,Sunny,,2018-8-28,1.0.37.0,Inactive,11:16:21,00:00:14.3675157,00:00:14.3675157
+MR,Cy0946,Sunny,,2018-8-28,1.0.37.0,Groom,11:16:35,00:00:10.4772039,00:00:24.8447196
+MR,Cy0946,Sunny,,2018-8-28,1.0.37.0,Inactive,11:16:46,00:00:15.9324891,00:00:40.7772087
+MR,Cy0946,Sunny,,2018-8-28,1.0.37.0,Tactile/explore,11:17:01,00:00:59.7711648,00:01:40.5483735
+MR,Cy0946,Sunny,,2018-8-28,1.0.37.0,Inactive,11:18:01,00:00:04.8616730,00:01:45.4100465
+MR,Cy0946,Sunny,,2018-8-28,1.0.37.0,Groom,11:18:06,00:00:05.2335863,00:01:50.6436328
+MR,Cy0946,Sunny,,2018-8-28,1.0.37.0,Inactive,11:18:11,00:01:47.7917031,00:03:38.4353359
+MR,Cy0946,Sunny,,2018-8-28,1.0.37.0,Tactile/explore,11:19:59,00:00:46.5168702,00:04:24.9522061
+MR,Cy0946,Sunny,,2018-8-28,1.0.37.0,Inactive,11:20:46,00:00:31.1281450,00:04:56.0803511
+MR,Cy0946,Sunny,,2018-8-28,1.0.37.0,Tactile/explore,11:21:17,00:00:05.5421397,00:05:01.6224908

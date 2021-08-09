@@ -1,0 +1,28 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Pjp
+Study Code:,Ass
+Indiv ID:,Rhbd41
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-9-26
+Behavior Time:,03:12 PM
+Ethogram:,Gen behavior .csv
+Coding Began:,09/26/2018 15:13:50 PM
+Coding Ended:,09/26/2018 15:19:00 PM
+Session duration:,00:05:09
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Pjp,Rhbd41,Sunny,,2018-9-26,1.0.37.0,Inactive,03:13:50,00:02:06.4470846,00:02:06.4470846
+Pjp,Rhbd41,Sunny,,2018-9-26,1.0.37.0,Locomotion,03:15:56,00:00:05.4018675,00:02:11.8489521
+Pjp,Rhbd41,Sunny,,2018-9-26,1.0.37.0,Inactive,03:16:02,00:02:00.7428661,00:04:12.5918182
+Pjp,Rhbd41,Sunny,,2018-9-26,1.0.37.0,Locomotion,03:18:03,00:00:08.0710952,00:04:20.6629134
+Pjp,Rhbd41,Sunny,,2018-9-26,1.0.37.0,Inactive,03:18:11,00:00:02.2919164,00:04:22.9548298
+Pjp,Rhbd41,Sunny,,2018-9-26,1.0.37.0,Locomotion,03:18:13,00:00:14.4340535,00:04:37.3888833
+Pjp,Rhbd41,Sunny,,2018-9-26,1.0.37.0,Inactive,03:18:27,00:00:25.6397078,00:05:03.0285911
+Pjp,Rhbd41,Sunny,,2018-9-26,1.0.37.0,Threat,03:18:53,00:00:01.4983281,00:05:04.5269192
+Pjp,Rhbd41,Sunny,,2018-9-26,1.0.37.0,Vocal,03:18:54,00:00:03.2039519,00:05:07.7308711

@@ -1,0 +1,32 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,Sass
+Indiv ID:,Rh2434
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-10-10
+Behavior Time:,11:27 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,10/10/2018 11:28:35 AM
+Coding Ended:,10/10/2018 11:33:37 AM
+Session duration:,00:05:02
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Locomotion,11:28:35,00:00:06.4652483,00:00:06.4652483
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Pacing,11:28:41,00:00:44.4660918,00:00:50.9313401
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Inactive,11:29:26,00:00:03.5222400,00:00:54.4535801
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Locomotion,11:29:29,00:00:02.1281690,00:00:56.5817491
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Inactive,11:29:31,00:01:03.8269250,00:02:00.4086741
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Salute/eye poke,11:30:35,00:00:06.3549622,00:02:06.7636363
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Inactive,11:30:42,00:00:30.6935400,00:02:37.4571763
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Locomotion,11:31:12,00:00:07.9166786,00:02:45.3738549
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Pacing,11:31:20,00:00:14.7562982,00:03:00.1301531
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Inactive,11:31:35,00:00:20.7059172,00:03:20.8360703
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Locomotion,11:31:56,00:00:07.5923236,00:03:28.4283939
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Pacing,11:32:03,00:00:25.1169850,00:03:53.5453789
+Bnp,Rh2434,Sunny,,2018-10-10,1.0.37.0,Inactive,11:32:28,00:01:07.4466543,00:05:00.9920332

@@ -1,0 +1,43 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,JS
+Study Code:,
+Indiv ID:,rhbk86
+Obs Site:,Blank Park Zoo
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-10-8
+Behavior Time:,08:52 PM
+Ethogram:,Gen behavior .csv
+Coding Began:,10/08/2018 20:54:10 PM
+Coding Ended:,10/08/2018 20:59:13 PM
+Session duration:,00:05:02
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Inactive,08:54:10,00:00:48.5339264,00:00:48.5339264
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Other,08:54:59,00:00:06.1230077,00:00:54.6569341
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Locomotion,08:55:05,00:00:10.3521400,00:01:05.0090741
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Inactive,08:55:15,00:00:04.0469263,00:01:09.0560004
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Tactile/explore,08:55:19,00:00:15.9706522,00:01:25.0266526
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Inactive,08:55:35,00:00:19.4968977,00:01:44.5235503
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Tactile/explore,08:55:55,00:00:14.7303579,00:01:59.2539082
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Locomotion,08:56:10,00:00:05.7371970,00:02:04.9911052
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Tactile/explore,08:56:15,00:00:05.4102865,00:02:10.4013917
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Locomotion,08:56:21,00:00:04.3528504,00:02:14.7542421
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Tactile/explore,08:56:25,00:00:14.8638762,00:02:29.6181183
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Locomotion,08:56:40,00:00:06.0070267,00:02:35.6251450
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Tactile/explore,08:56:46,00:00:22.5649454,00:02:58.1900904
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Locomotion,08:57:08,00:00:06.3046227,00:03:04.4947131
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Tactile/explore,08:57:15,00:00:05.9151390,00:03:10.4098521
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Inactive,08:57:21,00:00:08.3021992,00:03:18.7120513
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Locomotion,08:57:29,00:00:09.5081236,00:03:28.2201749
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Tactile/explore,08:57:38,00:00:08.6399387,00:03:36.8601136
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Locomotion,08:57:47,00:00:02.8063220,00:03:39.6664356
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Tactile/explore,08:57:50,00:01:01.4039724,00:04:41.0704080
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Locomotion,08:58:51,00:00:03.6246607,00:04:44.6950687
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Tactile/explore,08:58:55,00:00:05.9526783,00:04:50.6477470
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Locomotion,08:59:01,00:00:03.8387241,00:04:54.4864711
+JS,rhbk86,Sunny,,2018-10-8,1.0.37.0,Tactile/explore,08:59:05,00:00:06.5286917,00:05:01.0151628

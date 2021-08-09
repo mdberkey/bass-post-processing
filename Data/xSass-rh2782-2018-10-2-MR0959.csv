@@ -1,0 +1,34 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,MR
+Study Code:,Sass
+Indiv ID:,rh2782
+Obs Site:,Blank Park Zoo
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-10-2
+Behavior Time:,09:57 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,10/02/2018 09:59:44 AM
+Coding Ended:,10/02/2018 10:04:48 AM
+Session duration:,00:05:03
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Inactive,09:59:44,00:01:09.5341352,00:01:09.5341352
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Self direct,10:00:54,00:00:05.0360957,00:01:14.5702309
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Inactive,10:00:59,00:01:53.1936892,00:03:07.7639201
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Tactile/explore,10:02:52,00:00:03.6633118,00:03:11.4272319
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Self direct,10:02:56,00:00:08.4014113,00:03:19.8286432
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Inactive,10:03:04,00:00:16.8880975,00:03:36.7167407
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Locomotion,10:03:21,00:00:05.4217270,00:03:42.1384677
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Threat,10:03:27,00:00:04.4594682,00:03:46.5979359
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Locomotion,10:03:31,00:00:04.9343219,00:03:51.5322578
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Inactive,10:03:36,00:00:15.9570063,00:04:07.4892641
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Locomotion,10:03:52,00:00:15.9551552,00:04:23.4444193
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Tactile/explore,10:04:08,00:00:07.2605088,00:04:30.7049281
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Locomotion,10:04:15,00:00:03.7317007,00:04:34.4366288
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Tactile/explore,10:04:19,00:00:21.8128510,00:04:56.2494798
+MR,rh2782,Sunny,,2018-10-2,1.0.37.0,Locomotion,10:04:41,00:00:05.4767119,00:05:01.7261917

@@ -1,0 +1,32 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,JS
+Study Code:,
+Indiv ID:,rhbj53
+Obs Site:,Blank Park Zoo
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-10-3
+Behavior Time:,07:36 PM
+Ethogram:,Gen behavior .csv
+Coding Began:,10/03/2018 19:36:50 PM
+Coding Ended:,10/03/2018 19:41:55 PM
+Session duration:,00:05:05
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Inactive,07:36:50,00:00:06.8072323,00:00:06.8072323
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Lipsmack,07:36:57,00:00:02.6645595,00:00:09.4717918
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Inactive,07:37:00,00:01:24.6860259,00:01:34.1578177
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Threat,07:38:24,00:00:02.8302495,00:01:36.9880672
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Inactive,07:38:27,00:00:15.3152648,00:01:52.3033320
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Tactile/explore,07:38:43,00:00:02.4716852,00:01:54.7750172
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Inactive,07:38:45,00:00:38.3876967,00:02:33.1627139
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Locomotion,07:39:23,00:00:01.6418601,00:02:34.8045740
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Inactive,07:39:25,00:01:33.8352076,00:04:08.6397816
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Yawn,07:40:59,00:00:01.5374821,00:04:10.1772637
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Inactive,07:41:00,00:00:44.6325336,00:04:54.8097973
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Scratch,07:41:45,00:00:05.0963843,00:04:59.9061816
+JS,rhbj53,Sunny,,2018-10-3,1.0.37.0,Inactive,07:41:50,00:00:03.9706372,00:05:03.8768188

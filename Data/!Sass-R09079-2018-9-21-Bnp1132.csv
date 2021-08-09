@@ -1,0 +1,32 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Bnp
+Study Code:,Sass
+Indiv ID:,R09079
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-9-21
+Behavior Time:,11:31 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,09/21/2018 11:32:15 AM
+Coding Ended:,09/21/2018 11:37:18 AM
+Session duration:,00:05:02
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Pacing,11:32:15,00:00:13.1141756,00:00:13.1141756
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Other,11:32:29,00:00:02.6057856,00:00:15.7199612
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Inactive,11:32:31,00:00:56.7426117,00:01:12.4625729
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Scratch,11:33:28,00:00:03.3713115,00:01:15.8338844
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Locomotion,11:33:31,00:00:05.7940332,00:01:21.6279176
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Other,11:33:37,00:00:04.5689773,00:01:26.1968949
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Inactive,11:33:42,00:00:56.6911304,00:02:22.8880253
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Yawn,11:34:38,00:00:01.7757790,00:02:24.6638043
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Inactive,11:34:40,00:00:14.2856446,00:02:38.9494489
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Eat/drink,11:34:54,00:00:39.5287939,00:03:18.4782428
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Inactive,11:35:34,00:00:21.3239406,00:03:39.8021834
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Locomotion,11:35:55,00:00:02.7097281,00:03:42.5119115
+Bnp,R09079,Sunny,,2018-9-21,1.0.37.0,Inactive,11:35:58,00:01:19.1081907,00:05:01.6201022

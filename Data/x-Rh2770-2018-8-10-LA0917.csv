@@ -1,0 +1,32 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,LA
+Study Code:,
+Indiv ID:,Rh2770
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-8-10
+Behavior Time:,09:16 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,08/10/2018 09:17:06 AM
+Coding Ended:,08/10/2018 09:22:10 AM
+Session duration:,00:05:03
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Inactive,09:17:06,00:00:36.4712909,00:00:36.4712909
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Locomotion,09:17:43,00:00:05.1722357,00:00:41.6435266
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Inactive,09:17:48,00:00:09.5787886,00:00:51.2223152
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Yawn,09:17:57,00:00:02.6876909,00:00:53.9100061
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Inactive,09:18:00,00:00:01.6719869,00:00:55.5819930
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Self direct,09:18:02,00:00:11.0788960,00:01:06.6608890
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Inactive,09:18:13,00:00:17.6418547,00:01:24.3027437
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Self direct,09:18:31,00:00:03.2346022,00:01:27.5373459
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Tactile/explore,09:18:34,00:00:08.5474696,00:01:36.0848155
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Inactive,09:18:42,00:00:05.2972445,00:01:41.3820600
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Lipsmack,09:18:48,00:00:02.0782709,00:01:43.4603309
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Inactive,09:18:50,00:03:09.8100683,00:04:53.2703992
+LA,Rh2770,Sunny,,2018-8-10,1.0.37.0,Self direct,09:22:00,00:00:08.9068714,00:05:02.1772706

@@ -1,0 +1,27 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,
+Indiv ID:,R03019
+Obs Site:,Blank Park Zoo
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2019-1-7
+Behavior Time:,06:09 PM
+Ethogram:,Gen behavior .csv
+Coding Began:,01/07/2019 18:12:40 PM
+Coding Ended:,01/07/2019 18:17:42 PM
+Session duration:,00:05:02
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,R03019,Sunny,,2019-1-7,1.0.37.0,Inactive,06:12:40,00:00:12.6878172,00:00:12.6878172
+Js,R03019,Sunny,,2019-1-7,1.0.37.0,Fear Grimace,06:12:52,00:00:02.5330140,00:00:15.2208312
+Js,R03019,Sunny,,2019-1-7,1.0.37.0,Locomotion,06:12:55,00:00:02.0199801,00:00:17.2408113
+Js,R03019,Sunny,,2019-1-7,1.0.37.0,Inactive,06:12:57,00:00:43.9643110,00:01:01.2051223
+Js,R03019,Sunny,,2019-1-7,1.0.37.0,Tactile/explore,06:13:41,00:00:06.5751636,00:01:07.7802859
+Js,R03019,Sunny,,2019-1-7,1.0.37.0,Inactive,06:13:48,00:00:30.3718334,00:01:38.1521193
+Js,R03019,Sunny,,2019-1-7,1.0.37.0,Scratch,06:14:18,00:00:02.5435993,00:01:40.6957186
+Js,R03019,Sunny,,2019-1-7,1.0.37.0,Inactive,06:14:20,00:03:20.1705534,00:05:00.8662720

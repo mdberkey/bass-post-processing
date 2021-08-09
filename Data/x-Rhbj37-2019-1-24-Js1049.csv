@@ -1,0 +1,43 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Js
+Study Code:,
+Indiv ID:,Rhbj37
+Obs Site:,Blank Park Zoo
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2019-1-24
+Behavior Time:,10:46 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,01/24/2019 10:49:54 AM
+Coding Ended:,01/24/2019 10:54:58 AM
+Session duration:,00:05:03
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Eat/drink,10:49:54,00:00:20.7335061,00:00:20.7335061
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Locomotion,10:50:15,00:00:05.2276104,00:00:25.9611165
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Inactive,10:50:20,00:00:08.2372926,00:00:34.1984091
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Locomotion,10:50:29,00:00:01.9110760,00:00:36.1094851
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Inactive,10:50:31,00:00:32.3954328,00:01:08.5049179
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Locomotion,10:51:03,00:00:01.5135496,00:01:10.0184675
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Inactive,10:51:04,00:00:26.9262182,00:01:36.9446857
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Locomotion,10:51:31,00:00:01.6403829,00:01:38.5850686
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Inactive,10:51:33,00:00:16.7973447,00:01:55.3824133
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Self direct,10:51:50,00:00:02.9138694,00:01:58.2962827
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Inactive,10:51:53,00:00:56.1722399,00:02:54.4685226
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Locomotion,10:52:49,00:00:02.5293326,00:02:56.9978552
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Eat/drink,10:52:51,00:00:47.2642254,00:03:44.2620806
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Locomotion,10:53:39,00:00:02.9488765,00:03:47.2109571
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Inactive,10:53:42,00:00:01.7549148,00:03:48.9658719
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Locomotion,10:53:43,00:00:04.4564369,00:03:53.4223088
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Inactive,10:53:48,00:00:05.9628353,00:03:59.3851441
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Tactile/explore,10:53:54,00:00:13.1368382,00:04:12.5219823
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Locomotion,10:54:07,00:00:11.6778185,00:04:24.1998008
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Tactile/explore,10:54:19,00:00:09.4098240,00:04:33.6096248
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Locomotion,10:54:28,00:00:06.7412468,00:04:40.3508716
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Eat/drink,10:54:35,00:00:03.3107820,00:04:43.6616536
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Locomotion,10:54:38,00:00:03.7279621,00:04:47.3896157
+Js,Rhbj37,Sunny,,2019-1-24,1.0.37.0,Tactile/explore,10:54:42,00:00:13.0242789,00:05:00.4138946

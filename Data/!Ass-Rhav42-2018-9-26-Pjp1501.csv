@@ -1,0 +1,24 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Pjp
+Study Code:,Ass
+Indiv ID:,Rhav42
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-9-26
+Behavior Time:,02:59 PM
+Ethogram:,Gen behavior .csv
+Coding Began:,09/26/2018 15:01:10 PM
+Coding Ended:,09/26/2018 15:06:19 PM
+Session duration:,00:05:08
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Pjp,Rhav42,Sunny,,2018-9-26,1.0.37.0,Inactive,03:01:10,00:03:00.2788639,00:03:00.2788639
+Pjp,Rhav42,Sunny,,2018-9-26,1.0.37.0,Locomotion,03:04:10,00:00:04.2374805,00:03:04.5163444
+Pjp,Rhav42,Sunny,,2018-9-26,1.0.37.0,Inactive,03:04:14,00:01:28.0879851,00:04:32.6043295
+Pjp,Rhav42,Sunny,,2018-9-26,1.0.37.0,Scratch,03:05:43,00:00:05.5140367,00:04:38.1183662
+Pjp,Rhav42,Sunny,,2018-9-26,1.0.37.0,Inactive,03:05:48,00:00:28.4464944,00:05:06.5648606

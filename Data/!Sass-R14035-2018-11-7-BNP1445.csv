@@ -1,0 +1,23 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,BNP
+Study Code:,Sass
+Indiv ID:,R14035
+Obs Site:,Other Site
+Obs Type:,Recorded
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-11-7
+Behavior Time:,11:44 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,11/09/2018 14:45:54 PM
+Coding Ended:,11/09/2018 14:50:56 PM
+Session duration:,00:05:01
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+BNP,R14035,Sunny,,2018-11-7,1.0.37.0,Eat/drink,02:45:54,00:01:30.4533159,00:01:30.4533159
+BNP,R14035,Sunny,,2018-11-7,1.0.37.0,Inactive,02:47:24,00:03:19.6881114,00:04:50.1414273
+BNP,R14035,Sunny,,2018-11-7,1.0.37.0,Locomotion,02:50:44,00:00:05.5931601,00:04:55.7345874
+BNP,R14035,Sunny,,2018-11-7,1.0.37.0,Pacing,02:50:50,00:00:04.6760108,00:05:00.4105982

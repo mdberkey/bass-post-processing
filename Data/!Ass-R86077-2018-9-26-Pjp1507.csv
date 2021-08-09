@@ -1,0 +1,27 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,Pjp
+Study Code:,Ass
+Indiv ID:,R86077
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-9-26
+Behavior Time:,03:06 PM
+Ethogram:,Gen behavior .csv
+Coding Began:,09/26/2018 15:07:33 PM
+Coding Ended:,09/26/2018 15:12:50 PM
+Session duration:,00:05:16
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+Pjp,R86077,Sunny,,2018-9-26,1.0.37.0,Inactive,03:07:33,00:02:28.3691175,00:02:28.3691175
+Pjp,R86077,Sunny,,2018-9-26,1.0.37.0,Swing/spin/flip,03:10:01,00:01:13.1654793,00:03:41.5345968
+Pjp,R86077,Sunny,,2018-9-26,1.0.37.0,Threat,03:11:14,00:00:01.2862734,00:03:42.8208702
+Pjp,R86077,Sunny,,2018-9-26,1.0.37.0,Inactive,03:11:16,00:00:04.4345918,00:03:47.2554620
+Pjp,R86077,Sunny,,2018-9-26,1.0.37.0,Threat,03:11:20,00:00:02.1314706,00:03:49.3869326
+Pjp,R86077,Sunny,,2018-9-26,1.0.37.0,Inactive,03:11:22,00:01:13.0611348,00:05:02.4480674
+Pjp,R86077,Sunny,,2018-9-26,1.0.37.0,Tactile/explore,03:12:35,00:00:06.8697733,00:05:09.3178407
+Pjp,R86077,Sunny,,2018-9-26,1.0.37.0,Inactive,03:12:42,00:00:05.7869674,00:05:15.1048081

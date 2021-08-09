@@ -1,0 +1,27 @@
+Focal Animal Recording
+(c)Michael J. Renner
+
+Observer:,LA
+Study Code:,
+Indiv ID:,Rh2813
+Obs Site:,Other Site
+Obs Type:,Live
+Weather:,Sunny
+Temperature:,
+Behavior Date:,2018-8-9
+Behavior Time:,10:07 AM
+Ethogram:,Gen behavior .csv
+Coding Began:,08/10/2018 09:11:16 AM
+Coding Ended:,08/10/2018 09:16:20 AM
+Session duration:,00:05:04
+App Version:,1.0.37.0
+
+Observer, IndivID, Weather, Temp, Date, Version, BehavCode, StartTime, Duration, CumTime
+LA,Rh2813,Sunny,,2018-8-9,1.0.37.0,Eat/drink,09:11:16,00:01:30.6781937,00:01:30.6781937
+LA,Rh2813,Sunny,,2018-8-9,1.0.37.0,Tactile/explore,09:12:46,00:00:07.2661310,00:01:37.9443247
+LA,Rh2813,Sunny,,2018-8-9,1.0.37.0,Eat/drink,09:12:54,00:00:31.1740449,00:02:09.1183696
+LA,Rh2813,Sunny,,2018-8-9,1.0.37.0,Locomotion,09:13:25,00:00:08.4693451,00:02:17.5877147
+LA,Rh2813,Sunny,,2018-8-9,1.0.37.0,Eat/drink,09:13:33,00:01:15.2708658,00:03:32.8585805
+LA,Rh2813,Sunny,,2018-8-9,1.0.37.0,Locomotion,09:14:49,00:00:07.1567515,00:03:40.0153320
+LA,Rh2813,Sunny,,2018-8-9,1.0.37.0,Inactive,09:14:56,00:00:04.6721996,00:03:44.6875316
+LA,Rh2813,Sunny,,2018-8-9,1.0.37.0,Eat/drink,09:15:00,00:01:17.3178936,00:05:02.0054252
